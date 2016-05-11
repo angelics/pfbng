@@ -5,4 +5,6 @@ pfblockerng ipaddress for gamble site
 
 recommend outbount only
 
-some address conflict with bluetack bogon inbound
+some address conflict with 
+bluetack bogon
+asia
