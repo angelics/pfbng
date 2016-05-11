@@ -5,7 +5,7 @@ pfblockerng ipaddress for gamble site
 
 recommend outbount only
 
-some address conflict with 
+disable de-duplication to avoid address conflict with 
 iblocklist - bluetack bogon
 country - asia
 
