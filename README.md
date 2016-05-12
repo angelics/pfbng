@@ -3,10 +3,8 @@ pfbng
 
 pfblockerng ipaddress for gamble site
 
-recommend outbount only
+recommend outbound only
 
-disable de-duplication to avoid address conflict with 
-iblocklist - bluetack bogon
-country - asia
+set this as "Alias Native"
 
 raw.githubusercontent.com/angelics/pfbng/master/gamble/gamble-list.txt
