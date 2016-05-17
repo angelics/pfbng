@@ -1,8 +1,9 @@
-1.9.56.9 #a1095.g2.akamai.net #redir.metaservices.microsoft.com.edgesuite.net #redir.metaservices.microsoft.com
-1.9.56.26 #a1961.g2.akamai.net #www.msftncsi.com.edgesuite.net #www.msftncsi.com
-1.9.56.66 #a1095.g2.akamai.net #redir.metaservices.microsoft.com.edgesuite.net #redir.metaservices.microsoft.com #a1961.g2.akamai.net #www.msftncsi.com.edgesuite.net #www.msftncsi.com
-1.9.56.104 #a569.g.akamai.net #msntest.serving-sys.com.edgesuite.net #msntest.serving-sys.com
-1.9.56.154 #a569.g.akamai.net #msntest.serving-sys.com.edgesuite.net #msntest.serving-sys.com
+1.9.0.0/16 #ai-1.9.0.0-1.9.255.255
+#1.9.56.9 #a1095.g2.akamai.net #redir.metaservices.microsoft.com.edgesuite.net #redir.metaservices.microsoft.com
+#1.9.56.26 #a1961.g2.akamai.net #www.msftncsi.com.edgesuite.net #www.msftncsi.com
+#1.9.56.66 #a1095.g2.akamai.net #redir.metaservices.microsoft.com.edgesuite.net #redir.metaservices.microsoft.com #a1961.g2.akamai.net #www.msftncsi.com.edgesuite.net #www.msftncsi.com
+#1.9.56.104 #a569.g.akamai.net #msntest.serving-sys.com.edgesuite.net #msntest.serving-sys.com
+#1.9.56.154 #a569.g.akamai.net #msntest.serving-sys.com.edgesuite.net #msntest.serving-sys.com
 23.41.52.104 #e9946.g.akamaiedge.net #i.s1.social.ms.akadns.net #i1.services.social.microsoft.com
 23.51.54.73 #e2236.g.akamaiedge.net #secure.flashtalking.com.edgekey.net. #otherworld.secure.flashtalking.com.akadns.net #secure.flashtalking.com.akadns.net #secure.flashtalking.com
 31.13.95.2 #atlas.c10r.facebook.com #geo.atlassbx.com #ad.atdmt.com #view.atdmt.com
