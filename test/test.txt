@@ -33,33 +33,38 @@ statsfe2.ws.microsoft.com.nsatc.net #statsfe2.ws.microsoft.com
 192.229.145.200 #cs1.wpc.v0cdn.net
 204.79.197.200 #a-0001.a-msedge.net
 131.253.14.153 #statsfe2.update.microsoft.com.akadns.net
-#sls.update.microsoft.com.akadns.net
-#fe2.update.microsoft.com.akadns.net
-#diagnostics.support.microsoft.com
-#corp.sts.microsoft.com
-#statsfe1.ws.microsoft.com
-#pre.footprintpredict.com
-#i1.services.social.microsoft.com
-#i1.services.social.microsoft.com.nsatc.net
-#feedback.windows.com
-#feedback.microsoft-hohm.com
-#feedback.search.microsoft.com
-#rad.msn.com
-#preview.msn.com
-#ad.doubleclick.net
-#ads.msn.com
-#ads1.msads.net
-#ads1.msn.com
-#a.ads1.msn.com
-#a.ads2.msn.com
-#adnexus.net
-#adnxs.com
-#aidps.atdmt.com
-#apps.skype.com
-#az361816.vo.msecnd.net
-#az512334.vo.msecnd.net
-#a.rad.msn.com
-#a.ads2.msads.net
+65.55.138.111 #sls.update.microsoft.com.akadns.net
+65.55.138.114 #fe2.update.microsoft.com.akadns.net
+207.46.114.58 #fe2.update.microsoft.com.akadns.net
+65.55.138.112 #fe2.update.microsoft.com.akadns.net
+134.170.165.251 #fe2.update.microsoft.com.akadns.net
+65.55.138.126 #fe2.update.microsoft.com.akadns.net
+134.170.165.248 #fe2.update.microsoft.com.akadns.net
+134.170.165.249 #fe2.update.microsoft.com.akadns.net
+191.232.80.58 #fe2.update.microsoft.com.akadns.net
+diagnostics.support.microsoft.akadns.net #diagnostics.support.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com #corp.sts.microsoft.com
+statsfe1.ws.microsoft.com.nsatc.net #statsfe1.ws.microsoft.com
+65.55.138.110 #statsfe1.ws.microsoft.com
+i.s1.social.ms.akadns.net #i1.services.social.microsoft.com
+siweb.microsoft.akadns.net #feedback.windows.com
+microsoft-hohm.com #feedback.microsoft-hohm.com
+support.msn.microsoft.akadns.net #feedback.search.microsoft.com
+146.112.61.106 #rad.msn.com
+146.112.61.106 #preview.msn.com
+146.112.61.104 #ad.doubleclick.net
+146.112.61.106 #ads.msn.com
+146.112.61.104 #ads1.msads.net
+146.112.61.106 #ads1.msn.com
+146.112.61.106 #a.ads1.msn.com
+146.112.61.106 #a.ads2.msn.com
+01.auth.nym1.appnexus.net #adnexus.net
+146.112.61.104 #adnxs.com
+aidps.msn.com.nsatc.net #aidps.atdmt.com
+wildcard.skype.com.edgekey.net #apps.skype.com
+cs3.wpc.v0cdn.net #az361816.vo.msecnd.net #az512334.vo.msecnd.net
+146.112.61.106 #a.rad.msn.com
+msnads.vo.msecnd.net #a.ads2.msads.net
 #ac3.msn.com
 #aka-cdn-ns.adtech.de
 #b.rad.msn.com
