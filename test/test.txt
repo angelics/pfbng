@@ -1,109 +1,110 @@
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com
-0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
-0.0.0.0 sqm.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0 redir.metaservices.microsoft.com
-0.0.0.0 choice.microsoft.com
-0.0.0.0 choice.microsoft.com.nsatc.net
-0.0.0.0 df.telemetry.microsoft.com
-0.0.0.0 reports.wes.df.telemetry.microsoft.com
-0.0.0.0 wes.df.telemetry.microsoft.com
-0.0.0.0 services.wes.df.telemetry.microsoft.com
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.urs.microsoft.com
-0.0.0.0 telemetry.appex.bing.net:443
-0.0.0.0 settings-sandbox.data.microsoft.com
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 survey.watson.microsoft.com
-0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 statsfe2.ws.microsoft.com
-0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
-0.0.0.0 compatexchange.cloudapp.net
-0.0.0.0 cs1.wpc.v0cdn.net
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
-0.0.0.0 sls.update.microsoft.com.akadns.net
-0.0.0.0 fe2.update.microsoft.com.akadns.net
-0.0.0.0 diagnostics.support.microsoft.com
-0.0.0.0 corp.sts.microsoft.com
-0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 pre.footprintpredict.com
-0.0.0.0 i1.services.social.microsoft.com
-0.0.0.0 i1.services.social.microsoft.com.nsatc.net
-0.0.0.0 feedback.windows.com
-0.0.0.0 feedback.microsoft-hohm.com
-0.0.0.0 feedback.search.microsoft.com
-0.0.0.0 rad.msn.com
-0.0.0.0 preview.msn.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
-0.0.0.0 aidps.atdmt.com
-0.0.0.0 apps.skype.com
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 a.rad.msn.com
-0.0.0.0 a.ads2.msads.net
-0.0.0.0 ac3.msn.com
-0.0.0.0 aka-cdn-ns.adtech.de
-0.0.0.0 b.rad.msn.com
-0.0.0.0 b.ads2.msads.net
-0.0.0.0 b.ads1.msn.com
-0.0.0.0 bs.serving-sys.com
-0.0.0.0 c.msn.com
-0.0.0.0 cdn.atdmt.com
-0.0.0.0 cds26.ams9.msecn.net
-0.0.0.0 c.atdmt.com
-0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 ec.atdmt.com
-0.0.0.0 flex.msn.com
-0.0.0.0 g.msn.com
-0.0.0.0 h1.msn.com
-0.0.0.0 live.rads.msn.com
-0.0.0.0 msntest.serving-sys.com
-0.0.0.0 m.adnxs.com
-0.0.0.0 m.hotmail.com
-0.0.0.0 pricelist.skype.com
-0.0.0.0 rad.live.com
-0.0.0.0 secure.flashtalking.com
-0.0.0.0 static.2mdn.net
-0.0.0.0 s.gateway.messenger.live.com
-0.0.0.0 secure.adnxs.com
-0.0.0.0 sO.2mdn.net
-0.0.0.0 ui.skype.com
-0.0.0.0 www.msftncsi.com
-0.0.0.0 msftncsi.com
-0.0.0.0 view.atdmt.com
-0.0.0.0 msnbot-65-55-108-23.search.msn.com
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 schemas.microsoft.akadns.net 
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a-0002.a-msedge.net
-0.0.0.0 a-0003.a-msedge.net
-0.0.0.0 a-0004.a-msedge.net
-0.0.0.0 a-0005.a-msedge.net
-0.0.0.0 a-0006.a-msedge.net
-0.0.0.0 a-0007.a-msedge.net
-0.0.0.0 a-0008.a-msedge.net
-0.0.0.0 a-0009.a-msedge.net
-0.0.0.0 msedge.net
-0.0.0.0 a-msedge.net
-0.0.0.0 lb1.www.ms.akadns.net
-0.0.0.0 pre.footprintpredict.com
-0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
-0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
+asimov.vortex.data.microsoft.com.akadns.net #vortex.data.microsoft.com
+geo.vortex.data.microsoft.com.akadns.net #vortex.data.microsoft.com
+hk2.vortex.data.microsoft.com.akadns.net #vortex.data.microsoft.com
+111.221.29.254 #vortex.data.microsoft.com
+asimov-win.vortex.data.microsoft.com.akadns.net #vortex-win.data.microsoft.com
+co4.telecommand.telemetry.microsoft.com.akadns.net #telecommand.telemetry.microsoft.com
+65.55.252.190 #telecommand.telemetry.microsoft.com #telecommand.telemetry.microsoft.com.nsatc.net
+65.55.252.63 #oca.telemetry.microsoft.com.nsatc.net #oca.telemetry.microsoft.com #oca.telemetry.microsoft.com 
+65.55.252.93 #sqm.telemetry.microsoft.com #sqm.telemetry.microsoft.com.nsatc.net #sqm.telemetry.microsoft.com
+65.52.108.29 #watson.telemetry.microsoft.com #watson.telemetry.microsoft.com.nsatc.net
+redir.metaservices.microsoft.com.edgesuite.net #redir.metaservices.microsoft.com
+a1095.g2.akamai.net #redir.metaservices.microsoft.com
+choice.live.com #choice.microsoft.com
+65.55.130.50 #choice.microsoft.com #choice.microsoft.com.nsatc.net
+65.52.100.7 #df.telemetry.microsoft.com
+65.52.100.91 #reports.wes.df.telemetry.microsoft.com
+65.52.100.93 #wes.df.telemetry.microsoft.com
+65.52.100.92 #services.wes.df.telemetry.microsoft.com
+65.52.100.94 #sqm.df.telemetry.microsoft.com
+65.52.100.9 #telemetry.microsoft.com
+65.52.100.11 #watson.ppe.telemetry.microsoft.com
+telemetry.appex.search.prod.ms.akadns.net #telemetry.appex.bing.net
+t.urs.microsoft.com.nsatc.net #telemetry.urs.microsoft.com
+settings-sandbox.data.glbdns2.microsoft.com #settings-sandbox.data.microsoft.com
+asimov-sandbox.vortex.data.microsoft.com.akadns.net #vortex-sandbox.data.microsoft.com
+207.68.166.254 #survey.watson.microsoft.com
+207.46.223.94 #watson.live.com
+watson.microsoft.com.nsatc.net #watson.microsoft.com
+65.52.108.154 #watson.microsoft.com
+statsfe2.ws.microsoft.com.nsatc.net #statsfe2.ws.microsoft.com
+65.52.108.153 #statsfe2.ws.microsoft.com
+157.58.249.57 #corpext.msitadfs.glbdns2.microsoft.com
+192.229.145.200 #cs1.wpc.v0cdn.net
+204.79.197.200 #a-0001.a-msedge.net
+131.253.14.153 #statsfe2.update.microsoft.com.akadns.net
+#sls.update.microsoft.com.akadns.net
+#fe2.update.microsoft.com.akadns.net
+#diagnostics.support.microsoft.com
+#corp.sts.microsoft.com
+#statsfe1.ws.microsoft.com
+#pre.footprintpredict.com
+#i1.services.social.microsoft.com
+#i1.services.social.microsoft.com.nsatc.net
+#feedback.windows.com
+#feedback.microsoft-hohm.com
+#feedback.search.microsoft.com
+#rad.msn.com
+#preview.msn.com
+#ad.doubleclick.net
+#ads.msn.com
+#ads1.msads.net
+#ads1.msn.com
+#a.ads1.msn.com
+#a.ads2.msn.com
+#adnexus.net
+#adnxs.com
+#aidps.atdmt.com
+#apps.skype.com
+#az361816.vo.msecnd.net
+#az512334.vo.msecnd.net
+#a.rad.msn.com
+#a.ads2.msads.net
+#ac3.msn.com
+#aka-cdn-ns.adtech.de
+#b.rad.msn.com
+#b.ads2.msads.net
+#b.ads1.msn.com
+#bs.serving-sys.com
+#c.msn.com
+#cdn.atdmt.com
+#cds26.ams9.msecn.net
+#c.atdmt.com
+#db3aqu.atdmt.com
+#ec.atdmt.com
+#flex.msn.com
+#g.msn.com
+#h1.msn.com
+#live.rads.msn.com
+#msntest.serving-sys.com
+#m.adnxs.com
+#m.hotmail.com
+#pricelist.skype.com
+#rad.live.com
+#secure.flashtalking.com
+#static.2mdn.net
+#s.gateway.messenger.live.com
+#secure.adnxs.com
+#sO.2mdn.net
+#ui.skype.com
+#www.msftncsi.com
+#msftncsi.com
+#view.atdmt.com
+#msnbot-65-55-108-23.search.msn.com
+#settings-win.data.microsoft.com
+#schemas.microsoft.akadns.net 
+#a-0001.a-msedge.net
+#a-0002.a-msedge.net
+#a-0003.a-msedge.net
+#a-0004.a-msedge.net
+#a-0005.a-msedge.net
+#a-0006.a-msedge.net
+#a-0007.a-msedge.net
+#a-0008.a-msedge.net
+#a-0009.a-msedge.net
+#msedge.net
+#a-msedge.net
+#lb1.www.ms.akadns.net
+#pre.footprintpredict.com
+#vortex-bn2.metron.live.com.nsatc.net
+#vortex-cy2.metron.live.com.nsatc.net
