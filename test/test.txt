@@ -12,7 +12,22 @@
 23.59.118.157 #e8011.g.akamaiedge.net #wildcard.msads.net.edgekey.net #2-04-0073-0006.cdx.hwcdnlb.net #ads1.msads.net
 23.59.119.111 #e7173.g.akamaiedge.net #wildcard.msn.com.edgekey.net #2-04-0073-0005.cdx.hwcdnlb.net #h1.msn.com
 31.13.95.2 #atlas.c10r.facebook.com #geo.atlassbx.com #ad.atdmt.com #view.atdmt.com
+37.252.162.107 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
+37.252.162.120 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
+37.252.162.131 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
+37.252.162.188 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
+37.252.162.222 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.18 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.76 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.87 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.162 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.101 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.143 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
+37.252.163.144 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
+37.252.163.168 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
+37.252.163.225 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
 37.252.169.43 #01.auth.nym1.appnexus.net #adnexus.net
+40.127.139.224 #legacy-redirection-neurope-prod-hp.cloudapp.net #redirection.prod.cms.msn.com.akadns.net #redirection.prod.cms.msn.com #preview.msn.com #live.rads.msn.com
 64.4.6.100 #microsoft-hohm.com #feedback.microsoft-hohm.com
 64.4.45.58 #by2.skype.msnmessenger.msn.com.akadns.net #skype.geo.msnmessenger.msn.com.akadns.net #s.gateway.messenger.live.com
 64.4.54.22 #statsfe2.ws.microsoft.com.nsatc.net #statsfe2.ws.microsoft.com
@@ -33,6 +48,7 @@
 65.55.39.10 #microsoft-hohm.com #feedback.microsoft-hohm.com
 65.55.57.27 #lb1.www.ms.akadns.net
 65.55.108.23 #msnbot-65-55-108-23.search.msn.com
+65.55.128.80 #ads.msn.com.nsatc.net #ads.msn.com
 65.55.130.50 #choice.microsoft.com.nsatc.net #choice.live.com #choice.microsoft.com #choice.microsoft.com.nsatc.net
 65.55.138.110 #statsfe1.ws.microsoft.com.nsatc.net #statsfe1.ws.microsoft.com
 65.55.138.111 #sls.update.microsoft.com.akadns.net
@@ -52,29 +68,13 @@
 111.221.29.253 #hk2.settings.data.microsoft.com.akadns.net #geo.settings.data.microsoft.com.akadns.net #asimov-win.settings.data.microsoft.com.akadns.net #settings-win.data.microsoft.com
 111.221.29.254 #hk2.vortex.data.microsoft.com.akadns.net #geo.vortex.data.microsoft.com.akadns.net #asimov-win.vortex.data.microsoft.com.akadns.net #asimov.vortex.data.microsoft.com.akadns.net #vortex.data.microsoft.com
 111.221.123.231 #ui.skype.akadns.net #ui.skype.com
+131.253.14.76 #fesweb1.ch1d.binginternal.com #ac3.msn.com.nsatc.net #ac3.msn.com
 131.253.14.153 #statsfe2.update.microsoft.com.akadns.net
 134.170.52.151 #diagnostics.support.microsoft.akadns.net #diagnostics.support.microsoft.com
 134.170.165.248 #fe2.update.microsoft.com.akadns.net
 134.170.165.249 #fe2.update.microsoft.com.akadns.net
 134.170.165.251 #fe2.update.microsoft.com.akadns.net
 134.170.185.70 #siweb.microsoft.akadns.net #feedback.windows.com
-37.252.162.107 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
-37.252.162.120 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
-37.252.162.131 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
-37.252.162.188 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
-37.252.162.222 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.18 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.76 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.87 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.162 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.101 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.143 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
-37.252.163.144 #m.anycast.adnxs.com #microsoft.geogslb.com #m.adnxs.com
-37.252.163.168 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-37.252.163.225 #ib.anycast.adnxs.com #g.geogslb.com #secure.adnxs.com
-40.127.139.224 #legacy-redirection-neurope-prod-hp.cloudapp.net #redirection.prod.cms.msn.com.akadns.net #redirection.prod.cms.msn.com #preview.msn.com #live.rads.msn.com
-65.55.128.80 #ads.msn.com.nsatc.net #ads.msn.com
-131.253.14.76 #fesweb1.ch1d.binginternal.com #ac3.msn.com.nsatc.net #ac3.msn.com
 157.55.129.21 #support.msn.microsoft.akadns.net #feedback.search.microsoft.com
 157.58.211.44 #corpext.msitadfs.glbdns2.microsoft.com #corp.sts.microsoft.com
 157.58.249.57 #corpext.msitadfs.glbdns2.microsoft.com
