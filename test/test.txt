@@ -67,6 +67,7 @@
 
 23.5.242.203	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
 23.5.248.24		#ads1.msads.net
+23.15.255.214	#apps.skype.com
 23.45.135.154	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
 23.45.138.162	#ads1.msads.net
 23.99.98.228	#preview.msn.com
@@ -94,6 +95,7 @@
 65.52.100.92	#services.wes.df.telemetry.microsoft.com
 65.52.100.93	#wes.df.telemetry.microsoft.com
 65.52.100.94	#sqm.df.telemetry.microsoft.com
+65.52.108.3		#aidps.atdmt.com
 65.52.108.29 	#watson.telemetry.microsoft.com			#watson.telemetry.microsoft.com.nsatc.net
 65.52.108.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
 65.52.108.154	#watson.microsoft.com
@@ -125,6 +127,9 @@
 66.119.147.131	#diagnostics.support.microsoft.com
 
 68.232.34.200	#cs1.wpc.v0cdn.net
+68.232.45.201	#az361816.vo.msecnd.net
+
+72.21.81.200	#az361816.vo.msecnd.net
 
 74.125.28.148	#ad.doubleclick.net
 74.125.28.149	#ad.doubleclick.net
@@ -134,6 +139,9 @@
 74.125.130.149	#ad.doubleclick.net
 
 93.184.215.200	#cs1.wpc.v0cdn.net
+93.184.221.200	#az361816.vo.msecnd.net
+
+104.100.118.245	#apps.skype.com
 
 111.221.29.189	#rad.msn.com
 111.221.29.254	#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
@@ -144,6 +152,8 @@
 113.29.69.253	#ads1.msn.com							#a.ads2.msn.com
 
 131.253.14.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
+131.253.14.121	#aidps.atdmt.com
+131.253.40.44	#aidps.atdmt.com
 131.253.40.109	#telemetry.urs.microsoft.com
 
 134.170.51.190	#fe2.update.microsoft.com.akadns.net
@@ -253,59 +263,55 @@
 216.58.220.134	#ad.doubleclick.net
 216.58.221.230	#ad.doubleclick.net
 216.58.223.6	#ad.doubleclick.net
-0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
-0.0.0.0 aidps.atdmt.com
-0.0.0.0 apps.skype.com
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 a.rad.msn.com
-0.0.0.0 a.ads2.msads.net
-0.0.0.0 ac3.msn.com
-0.0.0.0 aka-cdn-ns.adtech.de
-0.0.0.0 b.rad.msn.com
-0.0.0.0 b.ads2.msads.net
-0.0.0.0 b.ads1.msn.com
-0.0.0.0 bs.serving-sys.com
-0.0.0.0 c.msn.com
-0.0.0.0 cdn.atdmt.com
-0.0.0.0 cds26.ams9.msecn.net
-0.0.0.0 c.atdmt.com
-0.0.0.0 db3aqu.atdmt.com
-0.0.0.0 ec.atdmt.com
-0.0.0.0 flex.msn.com
-0.0.0.0 g.msn.com
-0.0.0.0 h1.msn.com
-0.0.0.0 live.rads.msn.com
-0.0.0.0 msntest.serving-sys.com
-0.0.0.0 m.adnxs.com
-0.0.0.0 m.hotmail.com
-0.0.0.0 pricelist.skype.com
-0.0.0.0 rad.live.com
-0.0.0.0 secure.flashtalking.com
-0.0.0.0 static.2mdn.net
-0.0.0.0 s.gateway.messenger.live.com
-0.0.0.0 secure.adnxs.com
-0.0.0.0 sO.2mdn.net
-0.0.0.0 ui.skype.com
-0.0.0.0 www.msftncsi.com
-0.0.0.0 msftncsi.com
-0.0.0.0 view.atdmt.com
-0.0.0.0 msnbot-65-55-108-23.search.msn.com
-0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 schemas.microsoft.akadns.net 
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a-0002.a-msedge.net
-0.0.0.0 a-0003.a-msedge.net
-0.0.0.0 a-0004.a-msedge.net
-0.0.0.0 a-0005.a-msedge.net
-0.0.0.0 a-0006.a-msedge.net
-0.0.0.0 a-0007.a-msedge.net
-0.0.0.0 a-0008.a-msedge.net
-0.0.0.0 a-0009.a-msedge.net
-0.0.0.0 msedge.net
-0.0.0.0 a-msedge.net
-0.0.0.0 lb1.www.ms.akadns.net
-0.0.0.0 pre.footprintpredict.com
-0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
-0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
+
+#0.0.0.0 az512334.vo.msecnd.net
+#0.0.0.0 a.rad.msn.com
+#0.0.0.0 a.ads2.msads.net
+#0.0.0.0 ac3.msn.com
+#0.0.0.0 aka-cdn-ns.adtech.de
+#0.0.0.0 b.rad.msn.com
+#0.0.0.0 b.ads2.msads.net
+#0.0.0.0 b.ads1.msn.com
+#0.0.0.0 bs.serving-sys.com
+#0.0.0.0 c.msn.com
+#0.0.0.0 cdn.atdmt.com
+#0.0.0.0 cds26.ams9.msecn.net
+#0.0.0.0 c.atdmt.com
+#0.0.0.0 db3aqu.atdmt.com
+#0.0.0.0 ec.atdmt.com
+#0.0.0.0 flex.msn.com
+#0.0.0.0 g.msn.com
+#0.0.0.0 h1.msn.com
+#0.0.0.0 live.rads.msn.com
+#0.0.0.0 msntest.serving-sys.com
+#0.0.0.0 m.adnxs.com
+#0.0.0.0 m.hotmail.com
+#0.0.0.0 pricelist.skype.com
+#0.0.0.0 rad.live.com
+#0.0.0.0 secure.flashtalking.com
+#0.0.0.0 static.2mdn.net
+#0.0.0.0 s.gateway.messenger.live.com
+#0.0.0.0 secure.adnxs.com
+#0.0.0.0 sO.2mdn.net
+##0.0.0.0 ui.skype.com
+#0.0.0.0 www.msftncsi.com
+#0.0.0.0 msftncsi.com
+#0.0.0.0 view.atdmt.com
+#0.0.0.0 msnbot-65-55-108-23.search.msn.com
+#0.0.0.0 settings-win.data.microsoft.com
+#0.0.0.0 schemas.microsoft.akadns.net 
+#0.0.0.0 a-0001.a-msedge.net
+#0.0.0.0 a-0002.a-msedge.net
+#0.0.0.0 a-0003.a-msedge.net
+#0.0.0.0 a-0004.a-msedge.net
+#0.0.0.0 a-0005.a-msedge.net
+#0.0.0.0 a-0006.a-msedge.net
+#0.0.0.0 a-0007.a-msedge.net
+#0.0.0.0 a-0008.a-msedge.net
+#0.0.0.0 a-0009.a-msedge.net
+#0.0.0.0 msedge.net
+#0.0.0.0 a-msedge.net
+#0.0.0.0 lb1.www.ms.akadns.net
+#0.0.0.0 pre.footprintpredict.com
+#0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
+#0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
