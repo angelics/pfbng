@@ -53,8 +53,8 @@
 134.170.165.249 #fe2.update.microsoft.com.akadns.net
 134.170.165.251 #fe2.update.microsoft.com.akadns.net
 134.170.185.70 #siweb.microsoft.akadns.net #feedback.windows.com
-146.112.61.104 #ad.doubleclick.net #ads1.msads.net #adnxs.com #m.adnxs.com #secure.adnxs.com
-146.112.61.106 #rad.msn.com #preview.msn.com #ads.msn.com #ads1.msn.com #a.ads1.msn.com #a.ads2.msn.com #a.rad.msn.com #ac3.msn.com #b.rad.msn.com #b.ads1.msn.com #c.msn.com #flex.msn.com #g.msn.com #h1.msn.com #live.rads.msn.com #rad.msn.com #rad.live.com
+#ad.doubleclick.net #ads1.msads.net #adnxs.com #m.adnxs.com #secure.adnxs.com
+#rad.msn.com #preview.msn.com #ads.msn.com #ads1.msn.com #a.ads1.msn.com #a.ads2.msn.com #a.rad.msn.com #ac3.msn.com #b.rad.msn.com #b.ads1.msn.com #c.msn.com #flex.msn.com #g.msn.com #h1.msn.com #live.rads.msn.com #rad.msn.com #rad.live.com
 157.55.129.21 #support.msn.microsoft.akadns.net #feedback.search.microsoft.com
 157.58.211.44 #corpext.msitadfs.glbdns2.microsoft.com #corp.sts.microsoft.com
 157.58.249.57 #corpext.msitadfs.glbdns2.microsoft.com
