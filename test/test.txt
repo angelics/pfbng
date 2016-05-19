@@ -98,19 +98,109 @@
 23.103.189.157	#fe2.update.microsoft.com.akadns.net
 23.103.189.158	#fe2.update.microsoft.com.akadns.net
 
+31.13.64.2			#view.atdmt.com
+31.13.66.2			#view.atdmt.com
+31.13.69.193		#view.atdmt.com
+31.13.70.2			#view.atdmt.com
+31.13.73.2			#view.atdmt.com
+31.13.74.2			#view.atdmt.com
+31.13.76.98			#view.atdmt.com
+31.13.77.2			#view.atdmt.com
+31.13.79.242		#view.atdmt.com
+31.13.81.2			#view.atdmt.com
+31.13.84.1			#view.atdmt.com
+31.13.90.9			#view.atdmt.com
+31.13.91.9			#view.atdmt.com
+31.13.92.2			#view.atdmt.com
+
+37.252.163.5	#secure.adnxs.com
+37.252.162.11	#secure.adnxs.com
+37.252.162.15	#secure.adnxs.com
+37.252.162.45	#secure.adnxs.com
+37.252.162.68	#secure.adnxs.com
+37.252.162.72	#secure.adnxs.com
+37.252.162.78	#secure.adnxs.com
+37.252.162.90	#secure.adnxs.com
+37.252.162.95	#secure.adnxs.com
+37.252.162.106	#secure.adnxs.com
 37.252.162.107	#m.adnxs.com
 37.252.162.120	#m.adnxs.com
 37.252.162.131	#m.adnxs.com
 37.252.162.188	#m.adnxs.com
+37.252.162.224	#secure.adnxs.com
+37.252.162.229	#secure.adnxs.com
+37.252.162.230	#secure.adnxs.com
+37.252.162.232	#secure.adnxs.com
+37.252.162.242	#secure.adnxs.com
+37.252.162.243	#secure.adnxs.com
+37.252.162.252	#secure.adnxs.com
+37.252.163.21	#secure.adnxs.com
+37.252.163.76	#secure.adnxs.com
+37.252.163.77	#secure.adnxs.com
+37.252.163.80	#secure.adnxs.com
+37.252.163.81	#secure.adnxs.com
+37.252.163.84	#secure.adnxs.com
+37.252.163.90	#secure.adnxs.com
+37.252.163.92	#secure.adnxs.com
+37.252.163.96	#secure.adnxs.com
+37.252.163.102	#secure.adnxs.com
+37.252.163.103	#secure.adnxs.com
+37.252.163.106	#secure.adnxs.com
+37.252.163.112	#secure.adnxs.com
+37.252.163.113	#secure.adnxs.com
+37.252.163.119	#secure.adnxs.com
 37.252.163.143	#m.adnxs.com
 37.252.163.144	#m.adnxs.com
+37.252.163.152	#secure.adnxs.com
+37.252.163.153	#secure.adnxs.com
+37.252.163.162	#secure.adnxs.com
+37.252.163.164	#secure.adnxs.com
+37.252.163.167	#secure.adnxs.com
+37.252.163.169	#secure.adnxs.com
+37.252.163.183	#secure.adnxs.com
+37.252.163.184	#secure.adnxs.com
+37.252.163.205	#secure.adnxs.com
+37.252.163.207	#secure.adnxs.com
+37.252.163.209	#secure.adnxs.com
+37.252.163.210	#secure.adnxs.com
+37.252.163.213	#secure.adnxs.com
+37.252.163.231	#secure.adnxs.com
+37.252.163.233	#secure.adnxs.com
+37.252.170.89	#secure.adnxs.com
+37.252.170.95	#secure.adnxs.com
+37.252.170.97	#secure.adnxs.com
+37.252.170.104	#secure.adnxs.com
+37.252.170.105	#secure.adnxs.com
+37.252.170.108	#secure.adnxs.com
+37.252.170.119	#secure.adnxs.com
+37.252.170.120	#secure.adnxs.com
 37.252.170.123	#m.adnxs.com
 37.252.170.140	#m.adnxs.com
 37.252.170.141	#m.adnxs.com
 37.252.170.142	#m.adnxs.com
+37.252.170.153	#secure.adnxs.com
+37.252.170.157	#secure.adnxs.com
+37.252.170.161	#secure.adnxs.com
+37.252.170.165	#secure.adnxs.com
+37.252.170.166	#secure.adnxs.com
+37.252.170.167	#secure.adnxs.com
 37.252.170.182	#m.adnxs.com
+37.252.170.214	#secure.adnxs.com
+37.252.170.217	#secure.adnxs.com
+37.252.170.228	#secure.adnxs.com
+37.252.170.236	#secure.adnxs.com
+37.252.171.1	#secure.adnxs.com
+37.252.171.2	#secure.adnxs.com
+37.252.171.6	#secure.adnxs.com
+37.252.171.9	#secure.adnxs.com
+37.252.171.18	#secure.adnxs.com
 
 40.127.139.224	#preview.msn.com						#live.rads.msn.com
+
+52.20.242.224	#view.atdmt.com
+52.86.242.95	#view.atdmt.com
+52.201.158.185	#view.atdmt.com
+52.202.7.214	#view.atdmt.com
 
 61.120.150.61	#ads1.msn.com							#a.ads1.msn.com									#a.ads2.msn.com		#b.ads1.msn.com
 
@@ -118,12 +208,14 @@
 63.241.108.124	#bs.serving-sys.com
 
 64.4.6.100		#feedback.microsoft-hohm.com
+64.4.11.42		#lb1.www.ms.akadns.net
 64.4.45.58		#s.gateway.messenger.live.com
 64.4.45.210		#s.gateway.messenger.live.com
 64.4.54.22		#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
 64.4.54.32		#vortex-sandbox.data.microsoft.com
 64.4.54.153		#oca.telemetry.microsoft.com			#oca.telemetry.microsoft.com.nsatc.net
-64.4.54.167		#telemetry.urs.microsoft.com	
+64.4.54.167		#telemetry.urs.microsoft.com
+64.4.54.253		#settings-win.data.microsoft.com
 64.4.54.254		#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
 
 65.52.100.7		#df.telemetry.microsoft.com
@@ -144,12 +236,16 @@
 
 65.54.225.167	#m.hotmail.com
 65.54.225.168	#m.hotmail.com
+65.54.226.187	#schemas.microsoft.akadns.net 
 
 65.55.2.6		#rad.msn.com							#a.rad.msn.com								#b.rad.msn.com		#rad.live.com
 65.55.32.30		#m.hotmail.com
 65.55.39.10		#feedback.microsoft-hohm.com
 65.55.44.85		#telemetry.urs.microsoft.com
+65.55.44.108	#settings-win.data.microsoft.com
 65.55.44.109	#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
+65.55.57.27		#lb1.www.ms.akadns.net
+65.55.108.23	#msnbot-65-55-108-23.search.msn.com
 65.55.128.80	#ads.msn.com
 65.55.128.81	#choice.microsoft.com					#choice.microsoft.com.nsatc.net
 65.55.130.50	#choice.microsoft.com					#choice.microsoft.com.nsatc.net
@@ -172,26 +268,101 @@
 66.119.144.190	#fe2.update.microsoft.com.akadns.net
 66.119.147.131	#diagnostics.support.microsoft.com
 
+68.67.128.3		#secure.adnxs.com
+68.67.128.6		#secure.adnxs.com
+68.67.128.10	#secure.adnxs.com
+68.67.128.20	#secure.adnxs.com
+68.67.128.21	#secure.adnxs.com
+68.67.128.26	#secure.adnxs.com
+68.67.128.28	#secure.adnxs.com
+68.67.128.30	#secure.adnxs.com
 68.67.128.72	#m.adnxs.com
 68.67.128.73	#m.adnxs.com
 68.67.128.79	#m.adnxs.com
 68.67.128.84	#m.adnxs.com
 68.67.128.85	#m.adnxs.com
 68.67.128.86	#m.adnxs.com
+68.67.128.87	#secure.adnxs.com
 68.67.128.93	#m.adnxs.com
+68.67.128.94	#secure.adnxs.com
 68.67.128.95	#m.adnxs.com
+68.67.128.136	#secure.adnxs.com
+68.67.128.154	#secure.adnxs.com
+68.67.128.158	#secure.adnxs.com
+68.67.128.173	#secure.adnxs.com
+68.67.129.17	#secure.adnxs.com
+68.67.129.18	#secure.adnxs.com
+68.67.129.22	#secure.adnxs.com
+68.67.129.30	#secure.adnxs.com
+68.67.129.35	#secure.adnxs.com
+68.67.129.37	#secure.adnxs.com
+68.67.129.72	#secure.adnxs.com
+68.67.129.109	#secure.adnxs.com
+68.67.129.121	#secure.adnxs.com
+68.67.129.125	#secure.adnxs.com
+68.67.129.127	#secure.adnxs.com
+68.67.129.129	#secure.adnxs.com
+68.67.129.130	#secure.adnxs.com
+68.67.129.139	#secure.adnxs.com
+68.67.129.149	#secure.adnxs.com
+68.67.129.151	#secure.adnxs.com
+68.67.129.154	#secure.adnxs.com
+68.67.129.162	#secure.adnxs.com
+68.67.129.163	#secure.adnxs.com
 68.67.129.169	#m.adnxs.com
 68.67.129.171	#m.adnxs.com
+68.67.129.174	#secure.adnxs.com
+68.67.129.176	#secure.adnxs.com
+68.67.129.191	#secure.adnxs.com
+68.67.129.198	#secure.adnxs.com
+68.67.152.3		#secure.adnxs.com
+68.67.152.6		#secure.adnxs.com
+68.67.152.8		#secure.adnxs.com
+68.67.152.55	#secure.adnxs.com
+68.67.152.57	#secure.adnxs.com
+68.67.152.66	#secure.adnxs.com
 68.67.152.94	#m.adnxs.com
 68.67.152.110	#m.adnxs.com
+68.67.152.119	#secure.adnxs.com
 68.67.152.120	#m.adnxs.com
 68.67.152.131	#m.adnxs.com
 68.67.152.132	#m.adnxs.com
+68.67.152.137	#secure.adnxs.com
+68.67.152.143	#secure.adnxs.com
+68.67.152.171	#secure.adnxs.com
 68.67.152.172	#m.adnxs.com
 68.67.152.173	#m.adnxs.com
 68.67.152.174	#m.adnxs.com
+68.67.152.208	#secure.adnxs.com
+68.67.152.219	#secure.adnxs.com
+68.67.152.237	#secure.adnxs.com
+68.67.153.7		#secure.adnxs.com
 68.67.153.87	#m.adnxs.com
 68.67.153.89	#m.adnxs.com
+68.67.153.146	#secure.adnxs.com
+68.67.153.159	#secure.adnxs.com
+68.67.153.199	#secure.adnxs.com
+68.67.153.206	#secure.adnxs.com
+68.67.153.213	#secure.adnxs.com
+68.67.153.238	#secure.adnxs.com
+68.67.153.245	#secure.adnxs.com
+68.67.153.251	#secure.adnxs.com
+68.67.153.254	#secure.adnxs.com
+68.67.176.9		#secure.adnxs.com
+68.67.176.12	#secure.adnxs.com
+68.67.176.14	#secure.adnxs.com
+68.67.176.18	#secure.adnxs.com
+68.67.176.22	#secure.adnxs.com
+68.67.176.33	#secure.adnxs.com
+68.67.176.42	#secure.adnxs.com
+68.67.176.46	#secure.adnxs.com
+68.67.176.47	#secure.adnxs.com
+68.67.176.55	#secure.adnxs.com
+68.67.176.59	#secure.adnxs.com
+68.67.176.57	#secure.adnxs.com
+68.67.176.62	#secure.adnxs.com
+68.67.176.152	#secure.adnxs.com
+68.67.176.164	#secure.adnxs.com
 
 68.232.34.200	#cs1.wpc.v0cdn.net
 68.232.45.201	#az361816.vo.msecnd.net					#az512334.vo.msecnd.net						#a.ads2.msads.net	#b.ads2.msads.net		#ec.atdmt.com
@@ -222,11 +393,38 @@
 94.245.121.179	#db3aqu.atdmt.com
 
 103.243.222.7	#m.adnxs.com
+103.243.222.10	#secure.adnxs.com
+103.243.222.12	#secure.adnxs.com
+103.243.222.17	#secure.adnxs.com
+103.243.222.23	#secure.adnxs.com
 103.243.222.24	#m.adnxs.com
+103.243.222.25	#secure.adnxs.com
+103.243.222.26	#secure.adnxs.com
+103.243.222.27	#secure.adnxs.com
+103.243.222.31	#secure.adnxs.com
+103.243.222.32	#secure.adnxs.com
 103.243.222.33	#m.adnxs.com
 103.243.222.37	#m.adnxs.com
 103.243.222.40	#m.adnxs.com
+103.243.222.41	#secure.adnxs.com
+103.243.222.44	#secure.adnxs.com
+103.243.222.53	#secure.adnxs.com
+103.243.222.55	#secure.adnxs.com
+103.243.222.63	#secure.adnxs.com
+103.243.222.66	#secure.adnxs.com
+103.243.222.67	#secure.adnxs.com
+103.243.222.68	#secure.adnxs.com
+103.243.222.69	#secure.adnxs.com
+103.243.222.71	#secure.adnxs.com
+103.243.222.76	#secure.adnxs.com
+103.243.222.78	#secure.adnxs.com
+103.243.222.80	#secure.adnxs.com
 103.243.222.91	#m.adnxs.com
+103.243.222.94	#secure.adnxs.com
+103.243.222.96	#secure.adnxs.com
+103.243.222.99	#secure.adnxs.com
+103.243.222.101	#secure.adnxs.com
+103.243.222.155	#secure.adnxs.com
 
 104.82.201.42	#h1.msn.com
 
@@ -238,7 +436,9 @@
 111.221.29.13	#g.msn.com
 111.221.29.30	#c.msn.com								#c.atdmt.com
 111.221.29.189	#rad.msn.com							#a.rad.msn.com								#b.rad.msn.com		#rad.live.com
+111.221.29.253	#settings-win.data.microsoft.com
 111.221.29.254	#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
+111.221.123.231	#ui.skype.com
 
 113.29.17.253	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
 113.29.41.125	#ads1.msn.com							#a.ads1.msn.com
@@ -273,7 +473,9 @@
 134.170.165.249	#fe2.update.microsoft.com.akadns.net
 134.170.165.251	#fe2.update.microsoft.com.akadns.net
 134.170.165.253	#fe2.update.microsoft.com.akadns.net
+134.170.184.133	#lb1.www.ms.akadns.net
 134.170.185.70	#feedback.windows.com
+134.170.188.84	#lb1.www.ms.akadns.net
 134.170.188.248	#feedback.windows.com
 
 137.117.100.176	#preview.msn.com						#live.rads.msn.com
@@ -283,17 +485,23 @@
 157.55.129.21	#feedback.search.microsoft.com
 157.55.133.204	#sls.update.microsoft.com.akadns.net
 157.55.240.220	#sls.update.microsoft.com.akadns.net
+
 157.56.23.91	#ads.msn.com
 157.56.57.5		#diagnostics.support.microsoft.com
 157.56.77.138	#sls.update.microsoft.com.akadns.net
 157.56.77.139	#sls.update.microsoft.com.akadns.net
 157.56.96.58	#sls.update.microsoft.com.akadns.net
+157.56.109.8	#ui.skype.com
+157.56.198.14	#ui.skype.com
+
 157.58.211.44	#corpext.msitadfs.glbdns2.microsoft.com	#corp.sts.microsoft.com
 157.58.249.57	#corpext.msitadfs.glbdns2.microsoft.com	#corp.sts.microsoft.com
 
 165.254.47.107	#msntest.serving-sys.com
 165.254.47.121	#msntest.serving-sys.com
 165.254.96.111 	#redir.metaservices.microsoft.com
+165.254.96.117	#www.msftncsi.com
+165.254.96.133	#www.msftncsi.com
 165.254.96.135 	#redir.metaservices.microsoft.com
 
 168.63.108.233	#telemetry.appex.bing.net
@@ -303,9 +511,15 @@
 172.217.19.102	#ad.doubleclick.net
 172.217.28.102	#ad.doubleclick.net						#static.2mdn.net
 
+173.252.74.21	#view.atdmt.com
+
+179.60.192.10	#view.atdmt.com
+179.60.193.10	#view.atdmt.com
+
 191.232.80.58	#fe2.update.microsoft.com.akadns.net
 191.232.80.60	#fe2.update.microsoft.com.akadns.net
 191.232.139.13	#s.gateway.messenger.live.com
+191.232.139.253	#settings-win.data.microsoft.com
 191.232.139.254	#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
 191.232.140.76	#settings-sandbox.data.microsoft.com
 
@@ -327,6 +541,9 @@
 
 194.176.144.253	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
 
+195.59.122.145	#www.msftncsi.com
+195.59.122.168	#www.msftncsi.com
+
 197.80.129.125	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
 198.78.209.253	#b.ads1.msn.com
 198.78.210.126	#a.ads2.msn.com							#b.ads1.msn.com
@@ -342,7 +559,17 @@
 
 202.177.203.124	#bs.serving-sys.com
 
+204.79.197.197	#msedge.net
 204.79.197.200	#a-0001.a-msedge.net
+204.79.197.201	#a-0002.a-msedge.net
+204.79.197.203	#a-0003.a-msedge.net
+204.79.197.204	#a-0005.a-msedge.net
+204.79.197.206	#a-0004.a-msedge.net
+204.79.197.208	#a-0006.a-msedge.net
+204.79.197.209	#a-0007.a-msedge.net
+#204.79.197.210	#a-0008.a-msedge.net #break hotmail
+204.79.197.211	#a-0009.a-msedge.net
+
 204.160.96.125	#a.ads1.msn.com
 204.160.124.125	#a.ads1.msn.com							#b.ads1.msn.com
 204.160.125.254	#a.ads2.msn.com
@@ -399,240 +626,11 @@
 216.58.221.230	#ad.doubleclick.net						#static.2mdn.net
 216.58.223.6	#ad.doubleclick.net						#static.2mdn.net
 
-68.67.128.3		#secure.adnxs.com
-68.67.128.6		#secure.adnxs.com
-68.67.128.10	#secure.adnxs.com
-68.67.128.20	#secure.adnxs.com
-68.67.128.21	#secure.adnxs.com
-68.67.128.26	#secure.adnxs.com
-68.67.128.28	#secure.adnxs.com
-68.67.128.30	#secure.adnxs.com
-68.67.128.87	#secure.adnxs.com
-68.67.128.94	#secure.adnxs.com
-68.67.128.136	#secure.adnxs.com
-68.67.128.154	#secure.adnxs.com
-68.67.128.158	#secure.adnxs.com
-68.67.128.173	#secure.adnxs.com
-
-68.67.129.17	#secure.adnxs.com
-68.67.129.18	#secure.adnxs.com
-68.67.129.22	#secure.adnxs.com
-68.67.129.30	#secure.adnxs.com
-68.67.129.35	#secure.adnxs.com
-68.67.129.37	#secure.adnxs.com
-68.67.129.72	#secure.adnxs.com
-68.67.129.109	#secure.adnxs.com
-68.67.129.121	#secure.adnxs.com
-68.67.129.125	#secure.adnxs.com
-68.67.129.127	#secure.adnxs.com
-68.67.129.129	#secure.adnxs.com
-68.67.129.130	#secure.adnxs.com
-68.67.129.139	#secure.adnxs.com
-68.67.129.149	#secure.adnxs.com
-68.67.129.151	#secure.adnxs.com
-68.67.129.154	#secure.adnxs.com
-68.67.129.162	#secure.adnxs.com
-68.67.129.163	#secure.adnxs.com
-68.67.129.174	#secure.adnxs.com
-68.67.129.176	#secure.adnxs.com
-68.67.129.191	#secure.adnxs.com
-68.67.129.198	#secure.adnxs.com
-
-68.67.152.3		#secure.adnxs.com
-68.67.152.6		#secure.adnxs.com
-68.67.152.8		#secure.adnxs.com
-68.67.152.55	#secure.adnxs.com
-68.67.152.57	#secure.adnxs.com
-68.67.152.66	#secure.adnxs.com
-68.67.152.119	#secure.adnxs.com
-68.67.152.137	#secure.adnxs.com
-68.67.152.143	#secure.adnxs.com
-68.67.152.171	#secure.adnxs.com
-68.67.152.208	#secure.adnxs.com
-68.67.152.219	#secure.adnxs.com
-68.67.152.237	#secure.adnxs.com
-
-68.67.153.7		#secure.adnxs.com
-68.67.153.146	#secure.adnxs.com
-68.67.153.159	#secure.adnxs.com
-68.67.153.199	#secure.adnxs.com
-68.67.153.206	#secure.adnxs.com
-68.67.153.213	#secure.adnxs.com
-68.67.153.238	#secure.adnxs.com
-68.67.153.245	#secure.adnxs.com
-68.67.153.251	#secure.adnxs.com
-68.67.153.254	#secure.adnxs.com
-
-68.67.176.9		#secure.adnxs.com
-68.67.176.12	#secure.adnxs.com
-68.67.176.14	#secure.adnxs.com
-68.67.176.18	#secure.adnxs.com
-68.67.176.22	#secure.adnxs.com
-68.67.176.33	#secure.adnxs.com
-68.67.176.42	#secure.adnxs.com
-68.67.176.46	#secure.adnxs.com
-68.67.176.47	#secure.adnxs.com
-68.67.176.55	#secure.adnxs.com
-68.67.176.59	#secure.adnxs.com
-68.67.176.57	#secure.adnxs.com
-68.67.176.62	#secure.adnxs.com
-68.67.176.152	#secure.adnxs.com
-68.67.176.164	#secure.adnxs.com
-
-37.252.163.5	#secure.adnxs.com
-37.252.162.11	#secure.adnxs.com
-37.252.162.15	#secure.adnxs.com
-37.252.162.45	#secure.adnxs.com
-37.252.162.68	#secure.adnxs.com
-37.252.162.72	#secure.adnxs.com
-37.252.162.78	#secure.adnxs.com
-37.252.162.90	#secure.adnxs.com
-37.252.162.95	#secure.adnxs.com
-37.252.162.106	#secure.adnxs.com
-37.252.162.224	#secure.adnxs.com
-37.252.162.229	#secure.adnxs.com
-37.252.162.230	#secure.adnxs.com
-37.252.162.232	#secure.adnxs.com
-37.252.162.242	#secure.adnxs.com
-37.252.162.243	#secure.adnxs.com
-37.252.162.252	#secure.adnxs.com
-
-37.252.163.21	#secure.adnxs.com
-37.252.163.76	#secure.adnxs.com
-37.252.163.77	#secure.adnxs.com
-37.252.163.80	#secure.adnxs.com
-37.252.163.81	#secure.adnxs.com
-37.252.163.84	#secure.adnxs.com
-37.252.163.90	#secure.adnxs.com
-37.252.163.92	#secure.adnxs.com
-37.252.163.96	#secure.adnxs.com
-37.252.163.102	#secure.adnxs.com
-37.252.163.103	#secure.adnxs.com
-37.252.163.106	#secure.adnxs.com
-37.252.163.112	#secure.adnxs.com
-37.252.163.113	#secure.adnxs.com
-37.252.163.119	#secure.adnxs.com
-37.252.163.152	#secure.adnxs.com
-37.252.163.153	#secure.adnxs.com
-37.252.163.162	#secure.adnxs.com
-37.252.163.164	#secure.adnxs.com
-37.252.163.167	#secure.adnxs.com
-37.252.163.169	#secure.adnxs.com
-37.252.163.183	#secure.adnxs.com
-37.252.163.184	#secure.adnxs.com
-37.252.163.205	#secure.adnxs.com
-37.252.163.207	#secure.adnxs.com
-37.252.163.209	#secure.adnxs.com
-37.252.163.210	#secure.adnxs.com
-37.252.163.213	#secure.adnxs.com
-37.252.163.231	#secure.adnxs.com
-37.252.163.233	#secure.adnxs.com
-
-37.252.170.89	#secure.adnxs.com
-37.252.170.95	#secure.adnxs.com
-37.252.170.97	#secure.adnxs.com
-37.252.170.104	#secure.adnxs.com
-37.252.170.105	#secure.adnxs.com
-37.252.170.108	#secure.adnxs.com
-37.252.170.119	#secure.adnxs.com
-37.252.170.120	#secure.adnxs.com
-37.252.170.153	#secure.adnxs.com
-37.252.170.157	#secure.adnxs.com
-37.252.170.161	#secure.adnxs.com
-37.252.170.165	#secure.adnxs.com
-37.252.170.166	#secure.adnxs.com
-37.252.170.167	#secure.adnxs.com
-37.252.170.214	#secure.adnxs.com
-37.252.170.217	#secure.adnxs.com
-37.252.170.228	#secure.adnxs.com
-37.252.170.236	#secure.adnxs.com
-
-37.252.171.1	#secure.adnxs.com
-37.252.171.2	#secure.adnxs.com
-37.252.171.6	#secure.adnxs.com
-37.252.171.9	#secure.adnxs.com
-37.252.171.18	#secure.adnxs.com
-
-103.243.222.10	#secure.adnxs.com
-103.243.222.12	#secure.adnxs.com
-103.243.222.17	#secure.adnxs.com
-103.243.222.23	#secure.adnxs.com
-103.243.222.25	#secure.adnxs.com
-103.243.222.26	#secure.adnxs.com
-103.243.222.27	#secure.adnxs.com
-103.243.222.31	#secure.adnxs.com
-103.243.222.32	#secure.adnxs.com
-103.243.222.41	#secure.adnxs.com
-103.243.222.44	#secure.adnxs.com
-103.243.222.53	#secure.adnxs.com
-103.243.222.55	#secure.adnxs.com
-103.243.222.63	#secure.adnxs.com
-103.243.222.66	#secure.adnxs.com
-103.243.222.67	#secure.adnxs.com
-103.243.222.68	#secure.adnxs.com
-103.243.222.69	#secure.adnxs.com
-103.243.222.71	#secure.adnxs.com
-103.243.222.76	#secure.adnxs.com
-103.243.222.78	#secure.adnxs.com
-103.243.222.80	#secure.adnxs.com
-103.243.222.94	#secure.adnxs.com
-103.243.222.96	#secure.adnxs.com
-103.243.222.99	#secure.adnxs.com
-103.243.222.101	#secure.adnxs.com
-103.243.222.155	#secure.adnxs.com
-
-111.221.123.231	#ui.skype.com
-157.56.109.8	#ui.skype.com
-157.56.198.14	#ui.skype.com
-
-165.254.96.117	#www.msftncsi.com
-165.254.96.133	#www.msftncsi.com
-195.59.122.145	#www.msftncsi.com
-195.59.122.168	#www.msftncsi.com
-
-
-31.13.64.2			#view.atdmt.com
-31.13.66.2			#view.atdmt.com
-31.13.69.193		#view.atdmt.com
-31.13.70.2			#view.atdmt.com
-31.13.73.2			#view.atdmt.com
-31.13.74.2			#view.atdmt.com
-31.13.76.98			#view.atdmt.com
-31.13.77.2			#view.atdmt.com
-31.13.79.242		#view.atdmt.com
-31.13.81.2			#view.atdmt.com
-31.13.84.1			#view.atdmt.com
-31.13.90.9			#view.atdmt.com
-31.13.91.9			#view.atdmt.com
-31.13.92.2			#view.atdmt.com
-52.20.242.224		#view.atdmt.com
-52.86.242.95		#view.atdmt.com
-52.201.158.185		#view.atdmt.com
-52.202.7.214		#view.atdmt.com
-173.252.74.21		#view.atdmt.com
-179.60.192.10		#view.atdmt.com
-179.60.193.10		#view.atdmt.com
-
-#0.0.0.0 msnbot-65-55-108-23.search.msn.com
-#0.0.0.0 settings-win.data.microsoft.com
-#0.0.0.0 schemas.microsoft.akadns.net 
-#0.0.0.0 a-0001.a-msedge.net
-#0.0.0.0 a-0002.a-msedge.net
-#0.0.0.0 a-0003.a-msedge.net
-#0.0.0.0 a-0004.a-msedge.net
-#0.0.0.0 a-0005.a-msedge.net
-#0.0.0.0 a-0006.a-msedge.net
-#0.0.0.0 a-0007.a-msedge.net
-#0.0.0.0 a-0008.a-msedge.net
-#0.0.0.0 a-0009.a-msedge.net
-#0.0.0.0 msedge.net
-#0.0.0.0 a-msedge.net
-#0.0.0.0 lb1.www.ms.akadns.net
-#0.0.0.0 pre.footprintpredict.com
-#0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
-#0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
-
 #0.0.0.0 cds26.ams9.msecn.net
 #0.0.0.0 pricelist.skype.com
 #0.0.0.0 sO.2mdn.net
 #0.0.0.0 msftncsi.com
+#0.0.0.0 a-msedge.net
+#0.0.0.0 pre.footprintpredict.com
+#0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
+#0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
