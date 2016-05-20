@@ -281,8 +281,8 @@
 #65.55.138.126	#fe2.update.microsoft.com.akadns.net
 #65.55.138.186	#fe2.update.microsoft.com.akadns.net
 #65.55.163.221	#fe2.update.microsoft.com.akadns.net
-65.55.157.144 #break hotmail
-65.55.157.145 #break hotmail
+#65.55.157.144 #break hotmail
+#65.55.157.145 #break hotmail
 65.55.157.146/31 #65.55.157.146-65.55.255.255
 65.55.157.148/30 #65.55.157.146-65.55.255.255
 65.55.157.152/29 #65.55.157.146-65.55.255.255
