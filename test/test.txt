@@ -529,6 +529,9 @@
 113.29.41.253	#a.ads2.msn.com
 113.29.69.253	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
 
+121.123.204.85 #www.msftncsi.com
+121.123.204.101 #www.msftncsi.com
+
 131.253.12.0/22 #131.253.12.0-131.253.18.255
 #131.253.14.76	#ac3.msn.com
 #131.253.14.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
