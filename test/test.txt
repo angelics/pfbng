@@ -16,6 +16,7 @@
 4.27.4.126		#ads1.msn.com							#b.ads1.msn.com
 4.27.5.126		#a.ads1.msn.com
 4.27.8.126		#a.ads1.msn.com							#ads1.msn.com
+4.27.16.126		#a.ads2.msn.com
 4.27.18.254		#a.ads1.msn.com
 4.27.19.126		#a.ads1.msn.com
 4.27.28.126		#b.ads1.msn.com
@@ -23,71 +24,76 @@
 4.27.249.126	#a.ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
 4.27.252.254	#a.ads2.msn.com
 
-8.12.192.253	#ads1.msn.com
-8.12.207.125	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-8.12.220.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-8.12.222.126	#ads1.msn.com
+8.0.0.0/8 #8.0.0.0 - 8.255.255.255 #b.ads1.msn.com
+#8.12.192.253	#ads1.msn.com
+#8.12.207.125	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+#8.12.220.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+#8.12.222.126	#ads1.msn.com
 
-8.27.9.126		#a.ads1.msn.com
-8.27.81.126		#ads1.msn.com
-8.27.133.254	#ads1.msn.com							#a.ads2.msn.com
-8.27.235.126	#b.ads1.msn.com
-8.27.237.126	#ads1.msn.com							#a.ads1.msn.com
-8.27.237.254	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-8.27.239.254	#a.ads2.msn.com
-8.27.244.252	#a.ads2.msn.com
-8.27.246.126	#b.ads1.msn.com
-8.27.248.125	#a.ads1.msn.com							#a.ads2.msn.com
-8.27.253.254	#a.ads2.msn.com							#b.ads1.msn.com
+#8.27.9.126		#a.ads1.msn.com
+#8.27.81.126		#ads1.msn.com
+#8.27.133.254	#ads1.msn.com							#a.ads2.msn.com
+#8.27.235.126	#b.ads1.msn.com
+#8.27.237.126	#ads1.msn.com							#a.ads1.msn.com
+#8.27.237.254	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+#8.27.239.254	#a.ads2.msn.com
+#8.27.244.252	#a.ads2.msn.com
+#8.27.246.126	#b.ads1.msn.com
+#8.27.248.125	#a.ads1.msn.com							#a.ads2.msn.com
+#8.27.253.254	#a.ads2.msn.com							#b.ads1.msn.com
 
-8.253.23.126	#a.ads2.msn.com
-8.253.31.126	#a.ads1.msn.com
-8.253.32.126	#a.ads2.msn.com
-8.253.33.126	#a.ads2.msn.com							#b.ads1.msn.com
-8.253.34.254	#ads1.msn.com
-8.253.35.126	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
-8.253.36.254	#a.ads1.msn.com
-8.253.37.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-8.253.43.126	#b.ads1.msn.com
-8.253.43.254	#a.ads2.msn.com
-8.253.44.126	#a.ads1.msn.com							#b.ads1.msn.com
-8.253.51.254	#a.ads1.msn.com							#b.ads1.msn.com
-8.253.53.126	#ads1.msn.com							#a.ads1.msn.com
-8.253.57.254	#b.ads1.msn.com
-8.253.58.254	#a.ads1.msn.com
-8.253.88.126	#a.ads1.msn.com							#a.ads2.msn.com
-8.253.55.126	#ads1.msn.com	
+#8.253.23.126	#a.ads2.msn.com
+#8.253.31.126	#a.ads1.msn.com
+#8.253.32.126	#a.ads2.msn.com
+#8.253.33.126	#a.ads2.msn.com							#b.ads1.msn.com
+#8.253.34.254	#ads1.msn.com
+#8.253.35.126	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+#8.253.36.254	#a.ads1.msn.com
+#8.253.37.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+#8.253.43.126	#b.ads1.msn.com
+#8.253.43.254	#a.ads2.msn.com
+#8.253.44.126	#a.ads1.msn.com							#b.ads1.msn.com
+#8.253.51.254	#a.ads1.msn.com							#b.ads1.msn.com
+#8.253.53.126	#ads1.msn.com							#a.ads1.msn.com
+#8.253.57.254	#b.ads1.msn.com
+#8.253.58.254	#a.ads1.msn.com
+#8.253.88.126	#a.ads1.msn.com							#a.ads2.msn.com
+#8.253.55.126	#ads1.msn.com	
 
-8.254.11.126	#a.ads1.msn.com
-8.254.20.253	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
-8.254.27.254	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
-8.254.63.254	#a.ads2.msn.com
-8.254.70.126	#ads1.msn.com							#b.ads1.msn.com
-8.254.94.254	#ads1.msn.com
-8.254.95.126	#ads1.msn.com							#a.ads2.msn.com
-8.254.101.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
-8.254.101.253	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
-8.254.118.254	#b.ads1.msn.com
-8.254.119.126	#a.ads1.msn.com							#a.ads2.msn.com
-8.254.146.254	#b.ads1.msn.com
-8.254.189.254	#a.ads2.msn.com							#b.ads1.msn.com
-8.254.192.254	#b.ads1.msn.com
-8.254.196.126	#ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com
-8.254.209.126	#a.ads2.msn.com
-8.254.213.254	#a.ads1.msn.com
-8.254.215.126	#ads1.msn.com
-8.254.215.254	#a.ads1.msn.com
-8.254.219.254	#a.ads1.msn.com
-8.254.237.254	#b.ads1.msn.com
-8.254.244.126	#a.ads1.msn.com
-8.254.246.254	#ads1.msn.com							#a.ads2.msn.com
+#8.254.11.126	#a.ads1.msn.com
+#8.254.20.253	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
+#8.254.27.254	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+#8.254.63.254	#a.ads2.msn.com
+#8.254.70.126	#ads1.msn.com							#b.ads1.msn.com
+#8.254.94.254	#ads1.msn.com
+#8.254.95.126	#ads1.msn.com							#a.ads2.msn.com
+#8.254.101.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
+#8.254.101.253	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+#8.254.118.254	#b.ads1.msn.com
+#8.254.119.126	#a.ads1.msn.com							#a.ads2.msn.com
+#8.254.146.254	#b.ads1.msn.com
+#8.254.189.254	#a.ads2.msn.com							#b.ads1.msn.com
+#8.254.192.254	#b.ads1.msn.com
+#8.254.196.126	#ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com
+#8.254.209.126	#a.ads2.msn.com
+#8.254.213.254	#a.ads1.msn.com
+#8.254.215.126	#ads1.msn.com
+#8.254.215.254	#a.ads1.msn.com
+#8.254.219.254	#a.ads1.msn.com
+#8.254.237.254	#b.ads1.msn.com
+#8.254.244.126	#a.ads1.msn.com
+#8.254.246.254	#ads1.msn.com							#a.ads2.msn.com
 
 12.129.210.13	#bs.serving-sys.com
 12.129.210.71	#bs.serving-sys.com
 
-23.5.242.203	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
-23.5.248.24		#ads1.msads.net
-23.15.255.214	#apps.skype.com
+23.0.0.0/12 #23.0.0.0 - 23.15.255.255 #secure.flashtalking.com
+#23.4.139.104 #secure.flashtalking.com
+#23.4.143.176 #h1.msn.com
+#23.4.147.219 #apps.skype.com
+#23.5.242.203	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
+#23.5.248.24	#ads1.msads.net
+#23.15.255.214	#apps.skype.com
 
 23.34.82.223 #sway-cdn.com
 
@@ -524,11 +530,11 @@
 113.29.69.253	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
 
 131.253.12.0/22 #131.253.12.0-131.253.18.255
-131.253.14.76	#ac3.msn.com
-131.253.14.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
-131.253.14.121	#aidps.atdmt.com
-131.253.14.192	#c.msn.com								#c.atdmt.com
-131.253.14.195	#g.msn.com
+#131.253.14.76	#ac3.msn.com
+#131.253.14.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
+#131.253.14.121	#aidps.atdmt.com
+#131.253.14.192	#c.msn.com								#c.atdmt.com
+#131.253.14.195	#g.msn.com
 
 131.253.21.0/24 #131.253.21.0-131.253.47.255
 #131.253.34.162	#flex.msn.com
@@ -595,10 +601,21 @@
 172.217.19.102	#ad.doubleclick.net
 172.217.28.102	#ad.doubleclick.net						#static.2mdn.net
 
+172.224.0.0/12 #172.224.0.0 - 172.239.255.255
+#sway-cdn.com
+
 173.252.74.21	#view.atdmt.com
 
 179.60.192.10	#view.atdmt.com
 179.60.193.10	#view.atdmt.com
+
+184.24.0.0/13 #184.24.0.0 - 184.31.255.255 #www.msftncsi.com
+#184.25.63.18 #msntest.serving-sys.com
+#184.25.63.56 #msntest.serving-sys.com
+#184.26.93.35 #redir.metaservices.microsoft.com
+#184.26.93.58 #www.msftncsi.com
+#184.26.93.74 #redir.metaservices.microsoft.com
+#184.26.93.81 #www.msftncsi.com
 
 191.232.80.58	#fe2.update.microsoft.com.akadns.net
 191.232.80.60	#fe2.update.microsoft.com.akadns.net
@@ -609,14 +626,15 @@
 
 191.234.72.183	#fe2.update.microsoft.com.akadns.net
 
-192.221.99.253	#a.ads1.msn.com							#a.ads2.msn.com
-192.221.100.253	#a.ads2.msn.com							#b.ads1.msn.com
-192.221.106.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
-192.221.108.126	#ads1.msn.com
-192.221.113.253	#ads1.msn.com							#b.ads1.msn.com
-192.221.116.253	#ads1.msn.com							#a.ads2.msn.com
-192.221.118.253	#ads1.msn.com
-192.221.124.126	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+192.221.0.0/16 #192.221.0.0 - 192.221.255.255 #a.ads2.msn.com
+#192.221.99.253	#a.ads1.msn.com							#a.ads2.msn.com
+#192.221.100.253	#a.ads2.msn.com							#b.ads1.msn.com
+#192.221.106.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
+#192.221.108.126	#ads1.msn.com
+#192.221.113.253	#ads1.msn.com							#b.ads1.msn.com
+#192.221.116.253	#ads1.msn.com							#a.ads2.msn.com
+#192.221.118.253	#ads1.msn.com
+#192.221.124.126	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
 
 192.229.145.200	#cs1.wpc.v0cdn.net
 192.229.163.249	#aka-cdn-ns.adtech.de
