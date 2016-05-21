@@ -1,5 +1,7 @@
 2.22.77.127		#secure.flashtalking.com
 
+2.18.110.236 #sway-cdn.com
+
 4.23.36.253		#a.ads2.msn.com
 4.23.44.126		#a.ads2.msn.com
 4.23.50.252		#b.ads1.msn.com
@@ -86,17 +88,34 @@
 23.5.242.203	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
 23.5.248.24		#ads1.msads.net
 23.15.255.214	#apps.skype.com
+
+23.34.82.223 #sway-cdn.com
+
 23.45.135.154	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
 23.45.138.162	#ads1.msads.net
+
+
+23.53.213.79 #sway-cdn.com
 
 23.99.98.228	#preview.msn.com						#live.rads.msn.com
 
 23.101.196.141	#preview.msn.com						#live.rads.msn.com
 
+23.192.14.116 #sway-cdn.com
+
+23.195.131.140 #sway-cdn.com
+
+23.196.135.124 #sway-cdn.com
+23.196.245.89 #sway-cdn.com
+
+23.206.39.72 #sway-cdn.com
+
 23.103.189.125	#fe2.update.microsoft.com.akadns.net
 23.103.189.126	#fe2.update.microsoft.com.akadns.net
 23.103.189.157	#fe2.update.microsoft.com.akadns.net
 23.103.189.158	#fe2.update.microsoft.com.akadns.net
+
+23.221.121.76 #sway-cdn.com
 
 31.13.64.2			#view.atdmt.com
 31.13.66.2			#view.atdmt.com
@@ -419,6 +438,10 @@
 
 82.199.80.141	#bs.serving-sys.com
 
+88.221.63.16 #sway-cdn.com
+
+92.123.172.209 #sway-cdn.com
+
 93.184.215.200	#cs1.wpc.v0cdn.net
 93.184.221.200	#az361816.vo.msecnd.net					#az512334.vo.msecnd.net						#a.ads2.msads.net	#b.ads2.msads.net		#ec.atdmt.com
 
@@ -427,6 +450,8 @@
 #94.245.121.177	#db3aqu.atdmt.com
 #94.245.121.178	#db3aqu.atdmt.com
 #94.245.121.179	#db3aqu.atdmt.com
+
+96.6.68.215 #sway-cdn.com
 
 103.243.222.7	#m.adnxs.com
 103.243.222.10	#secure.adnxs.com
@@ -462,12 +487,25 @@
 103.243.222.101	#secure.adnxs.com
 103.243.222.155	#secure.adnxs.com
 
+104.66.27.197 #sway-cdn.com
+
+104.71.200.228 #sway-cdn.com
+
+104.74.48.252 #sway-cdn.com
+
 104.77.10.65 #sway-cdn.com
+
+104.81.56.247 #sway-cdn.com
+
 104.82.201.42	#h1.msn.com
+
+104.90.67.14 #sway-cdn.com
 
 104.100.97.163	#h1.msn.com
 104.100.113.51	#secure.flashtalking.com
 104.100.118.245	#apps.skype.com
+
+104.101.179.226 #sway-cdn.com
 
 111.221.16.0/20 #111.221.16.0-111.221.31.255
 #111.221.29.8	#flex.msn.com
