@@ -462,6 +462,7 @@
 103.243.222.101	#secure.adnxs.com
 103.243.222.155	#secure.adnxs.com
 
+104.77.10.65 #sway-cdn.com
 104.82.201.42	#h1.msn.com
 
 104.100.97.163	#h1.msn.com
