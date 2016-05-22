@@ -72,6 +72,8 @@
 #8.254.118.254	#b.ads1.msn.com
 #8.254.119.126	#a.ads1.msn.com							#a.ads2.msn.com
 #8.254.146.254	#b.ads1.msn.com
+#8.254.178.125	#b.ads1.msn.com
+#8.254.178.254	#b.ads1.msn.com
 #8.254.189.254	#a.ads2.msn.com							#b.ads1.msn.com
 #8.254.192.254	#b.ads1.msn.com
 #8.254.196.126	#ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com
@@ -80,6 +82,7 @@
 #8.254.215.126	#ads1.msn.com
 #8.254.215.254	#a.ads1.msn.com
 #8.254.219.254	#a.ads1.msn.com
+#8.254.222.126	#b.ads1.msn.com
 #8.254.237.254	#b.ads1.msn.com
 #8.254.244.126	#a.ads1.msn.com
 #8.254.246.254	#ads1.msn.com							#a.ads2.msn.com
@@ -100,8 +103,10 @@
 23.45.135.154	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
 23.45.138.162	#ads1.msads.net
 
-
 23.53.213.79 #sway-cdn.com
+
+23.59.86.199	#secure.flashtalking.com
+23.59.119.111 #h1.msn.com
 
 23.99.98.228	#preview.msn.com						#live.rads.msn.com
 
@@ -213,12 +218,19 @@
 37.252.170.214	#secure.adnxs.com
 37.252.170.217	#secure.adnxs.com
 37.252.170.228	#secure.adnxs.com
+37.252.170.230	#secure.adnxs.com
+37.252.170.234	#secure.adnxs.com
 37.252.170.236	#secure.adnxs.com
+37.252.170.237	#secure.adnxs.com
 37.252.171.1	#secure.adnxs.com
 37.252.171.2	#secure.adnxs.com
 37.252.171.6	#secure.adnxs.com
 37.252.171.9	#secure.adnxs.com
+37.252.171.10	#secure.adnxs.com
+37.252.171.14	#secure.adnxs.com
+37.252.171.16	#secure.adnxs.com
 37.252.171.18	#secure.adnxs.com
+37.252.171.20	#secure.adnxs.com
 
 40.127.139.224	#preview.msn.com						#live.rads.msn.com
 
@@ -427,6 +439,8 @@
 68.232.34.200	#cs1.wpc.v0cdn.net
 68.232.45.201	#az361816.vo.msecnd.net					#az512334.vo.msecnd.net						#a.ads2.msads.net	#b.ads2.msads.net		#ec.atdmt.com
 
+69.171.230.12	#view.atdmt.com
+
 72.21.81.200	#az361816.vo.msecnd.net					#az512334.vo.msecnd.net						#a.ads2.msads.net	#b.ads2.msads.net		#ec.atdmt.com
 
 74.125.28.148	#ad.doubleclick.net						#static.2mdn.net
@@ -445,7 +459,12 @@
 80.252.91.25	#bs.serving-sys.com
 80.252.91.41	#bs.serving-sys.com
 
+81.198.165.201	#msntest.serving-sys.com	#www.msftncsi.com
+81.198.165.210	#www.msftncsi.com
+81.198.165.216	#msntest.serving-sys.com
+
 82.199.80.141	#bs.serving-sys.com
+82.199.80.143	#bs.serving-sys.com
 
 88.221.63.16 #sway-cdn.com
 
@@ -670,6 +689,7 @@
 199.93.55.126	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
 199.93.59.254	#a.ads1.msn.com							#b.ads1.msn.com
 
+204.79.197.197	#msedge.net
 202.79.210.121	#bs.serving-sys.com
 
 202.177.203.124	#bs.serving-sys.com
@@ -768,6 +788,7 @@
 216.58.194.134	#ad.doubleclick.net						#static.2mdn.net
 216.58.199.70	#static.2mdn.net
 216.58.199.102	#ad.doubleclick.net
+216.58.209.134	#static.2mdn.net
 216.58.209.166	#ad.doubleclick.net						#static.2mdn.net
 216.58.211.38	#static.2mdn.net
 216.58.214.198	#ad.doubleclick.net						#static.2mdn.net
