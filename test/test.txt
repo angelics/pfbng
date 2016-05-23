@@ -1,6 +1,7 @@
 2.22.77.127		#secure.flashtalking.com
 
 2.18.110.236 #sway-cdn.com
+2.18.135.149 #sway-cdn.com
 
 4.23.36.253		#a.ads2.msn.com
 4.23.44.126		#a.ads2.msn.com
@@ -700,6 +701,7 @@
 204.79.197.197	#msedge.net
 202.79.210.121	#bs.serving-sys.com
 
+202.122.146.179 #tlu.dl.delivery.mp.microsoft.com
 202.122.146.184 #tlu.dl.delivery.mp.microsoft.com
 
 202.177.203.124	#bs.serving-sys.com
