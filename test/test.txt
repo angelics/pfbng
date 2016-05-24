@@ -91,7 +91,7 @@
 12.129.210.13	#bs.serving-sys.com
 12.129.210.71	#bs.serving-sys.com
 
-13.107.4.50 #tlu.dl.delivery.mp.microsoft.com
+#13.107.4.50 #tlu.dl.delivery.mp.microsoft.com #break defender definition update
 
 23.0.0.0/12 #23.0.0.0 - 23.15.255.255 #secure.flashtalking.com
 #23.4.139.104 #secure.flashtalking.com
