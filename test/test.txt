@@ -579,6 +579,9 @@
 #131.253.40.59	#g.msn.com
 #131.253.40.109	#telemetry.urs.microsoft.com
 
+#131.253.61.80 #break hotmail
+#131.253.61.98 #break hotmail
+
 134.170.0.0/16 #134.170.0.0-134.170.255.255
 #134.170.0.200	#m.hotmail.com
 #134.170.0.215	#m.hotmail.com
