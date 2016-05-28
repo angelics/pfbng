@@ -2,11 +2,12 @@
 111.221.29.174 #win10 activation
 111.221.29.194 #win10 activation
 65.54.226.151 #technet
-65.55.143.19 #break hotmail
-65.55.157.145 #break hotmail
-131.253.61.80 #break hotmail
-131.253.61.96 #break hotmail
-131.253.61.98 #break hotmail
+65.55.143.19 #hotmail
+65.55.157.145 #hotmail
+65.55.157.146 #hotmail
+131.253.61.80 #hotmail
+131.253.61.96 #hotmail
+131.253.61.98 #hotmail
 146.112.61.104 #opendns
 146.112.61.105 #opendns
 146.112.61.106 #opendns
@@ -17,7 +18,7 @@
 157.56.138.194 #microsoft forum
 157.55.240.220 #win10 activation
 163.172.27.3 #adwcleaner
-207.46.11.236 #break hotmail
-204.79.197.212 #break hotmail
+207.46.11.236 #hotmail
+204.79.197.212 #hotmail
 208.67.222.222 #opendns
 208.67.220.220 #opendns
