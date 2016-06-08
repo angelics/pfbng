@@ -2,6 +2,7 @@
 65.55.157.145 #hotmail
 65.55.157.146 #hotmail
 131.253.61.80 #hotmail
+131.253.61.82 #hotmail
 131.253.61.96 #hotmail
 131.253.61.98 #hotmail
 207.46.11.236 #hotmail
