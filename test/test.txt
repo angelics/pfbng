@@ -25,68 +25,68 @@
 4.27.249.126	#a.ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
 4.27.252.254	#a.ads2.msn.com
 
-8.0.0.0/8 #8.0.0.0 - 8.255.255.255 #b.ads1.msn.com
-#8.12.192.253	#ads1.msn.com
-#8.12.207.125	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-#8.12.220.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-#8.12.222.126	#ads1.msn.com
+#8.0.0.0/8 #8.0.0.0 - 8.255.255.255 #b.ads1.msn.com
+8.12.192.253	#ads1.msn.com
+8.12.207.125	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+8.12.220.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+8.12.222.126	#ads1.msn.com
 
-#8.27.9.126		#a.ads1.msn.com
-#8.27.81.126		#ads1.msn.com
-#8.27.133.254	#ads1.msn.com							#a.ads2.msn.com
-#8.27.235.126	#b.ads1.msn.com
-#8.27.237.126	#ads1.msn.com							#a.ads1.msn.com
-#8.27.237.254	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-#8.27.239.254	#a.ads2.msn.com
-#8.27.244.252	#a.ads2.msn.com
-#8.27.246.126	#b.ads1.msn.com
-#8.27.248.125	#a.ads1.msn.com							#a.ads2.msn.com
-#8.27.253.254	#a.ads2.msn.com							#b.ads1.msn.com
+8.27.9.126		#a.ads1.msn.com
+8.27.81.126		#ads1.msn.com
+8.27.133.254	#ads1.msn.com							#a.ads2.msn.com
+8.27.235.126	#b.ads1.msn.com
+8.27.237.126	#ads1.msn.com							#a.ads1.msn.com
+8.27.237.254	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+8.27.239.254	#a.ads2.msn.com
+8.27.244.252	#a.ads2.msn.com
+8.27.246.126	#b.ads1.msn.com
+8.27.248.125	#a.ads1.msn.com							#a.ads2.msn.com
+8.27.253.254	#a.ads2.msn.com							#b.ads1.msn.com
 
-#8.253.23.126	#a.ads2.msn.com
-#8.253.31.126	#a.ads1.msn.com
-#8.253.32.126	#a.ads2.msn.com
-#8.253.33.126	#a.ads2.msn.com							#b.ads1.msn.com
-#8.253.34.254	#ads1.msn.com
-#8.253.35.126	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
-#8.253.36.254	#a.ads1.msn.com
-#8.253.37.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
-#8.253.43.126	#b.ads1.msn.com
-#8.253.43.254	#a.ads2.msn.com
-#8.253.44.126	#a.ads1.msn.com							#b.ads1.msn.com
-#8.253.51.254	#a.ads1.msn.com							#b.ads1.msn.com
-#8.253.53.126	#ads1.msn.com							#a.ads1.msn.com
-#8.253.57.254	#b.ads1.msn.com
-#8.253.58.254	#a.ads1.msn.com
-#8.253.88.126	#a.ads1.msn.com							#a.ads2.msn.com
-#8.253.55.126	#ads1.msn.com	
+8.253.23.126	#a.ads2.msn.com
+8.253.31.126	#a.ads1.msn.com
+8.253.32.126	#a.ads2.msn.com
+8.253.33.126	#a.ads2.msn.com							#b.ads1.msn.com
+8.253.34.254	#ads1.msn.com
+8.253.35.126	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+8.253.36.254	#a.ads1.msn.com
+8.253.37.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com		#b.ads1.msn.com
+8.253.43.126	#b.ads1.msn.com
+8.253.43.254	#a.ads2.msn.com
+8.253.44.126	#a.ads1.msn.com							#b.ads1.msn.com
+8.253.51.254	#a.ads1.msn.com							#b.ads1.msn.com
+8.253.53.126	#ads1.msn.com							#a.ads1.msn.com
+8.253.57.254	#b.ads1.msn.com
+8.253.58.254	#a.ads1.msn.com
+8.253.88.126	#a.ads1.msn.com							#a.ads2.msn.com
+8.253.55.126	#ads1.msn.com	
 
-#8.254.11.126	#a.ads1.msn.com
-#8.254.20.253	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
-#8.254.27.254	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
-#8.254.63.254	#a.ads2.msn.com
-#8.254.70.126	#ads1.msn.com							#b.ads1.msn.com
-#8.254.94.254	#ads1.msn.com
-#8.254.95.126	#ads1.msn.com							#a.ads2.msn.com
-#8.254.101.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
-#8.254.101.253	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
-#8.254.118.254	#b.ads1.msn.com
-#8.254.119.126	#a.ads1.msn.com							#a.ads2.msn.com
-#8.254.146.254	#b.ads1.msn.com
-#8.254.178.125	#b.ads1.msn.com
-#8.254.178.254	#b.ads1.msn.com
-#8.254.189.254	#a.ads2.msn.com							#b.ads1.msn.com
-#8.254.192.254	#b.ads1.msn.com
-#8.254.196.126	#ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com
-#8.254.209.126	#a.ads2.msn.com
-#8.254.213.254	#a.ads1.msn.com
-#8.254.215.126	#ads1.msn.com
-#8.254.215.254	#a.ads1.msn.com
-#8.254.219.254	#a.ads1.msn.com
-#8.254.222.126	#b.ads1.msn.com
-#8.254.237.254	#b.ads1.msn.com
-#8.254.244.126	#a.ads1.msn.com
-#8.254.246.254	#ads1.msn.com							#a.ads2.msn.com
+8.254.11.126	#a.ads1.msn.com
+8.254.20.253	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
+8.254.27.254	#ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+8.254.63.254	#a.ads2.msn.com
+8.254.70.126	#ads1.msn.com							#b.ads1.msn.com
+8.254.94.254	#ads1.msn.com
+8.254.95.126	#ads1.msn.com							#a.ads2.msn.com
+8.254.101.126	#ads1.msn.com							#a.ads1.msn.com								#a.ads2.msn.com
+8.254.101.253	#a.ads1.msn.com							#a.ads2.msn.com								#b.ads1.msn.com
+8.254.118.254	#b.ads1.msn.com
+8.254.119.126	#a.ads1.msn.com							#a.ads2.msn.com
+8.254.146.254	#b.ads1.msn.com
+8.254.178.125	#b.ads1.msn.com
+8.254.178.254	#b.ads1.msn.com
+8.254.189.254	#a.ads2.msn.com							#b.ads1.msn.com
+8.254.192.254	#b.ads1.msn.com
+8.254.196.126	#ads1.msn.com							#ads1.msn.com								#a.ads2.msn.com
+8.254.209.126	#a.ads2.msn.com
+8.254.213.254	#a.ads1.msn.com
+8.254.215.126	#ads1.msn.com
+8.254.215.254	#a.ads1.msn.com
+8.254.219.254	#a.ads1.msn.com
+8.254.222.126	#b.ads1.msn.com
+8.254.237.254	#b.ads1.msn.com
+8.254.244.126	#a.ads1.msn.com
+8.254.246.254	#ads1.msn.com							#a.ads2.msn.com
 
 12.129.210.13	#bs.serving-sys.com
 12.129.210.71	#bs.serving-sys.com
