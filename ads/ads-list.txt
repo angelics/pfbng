@@ -1,9 +1,9 @@
-
-52.200.228.38 #trends.revcontent.com
-52.201.25.190 #trends.revcontent.com
-52.201.58.195 #trends.revcontent.com
-52.203.197.205 #trends.revcontent.com
-104.73.211.77 #sb.scorecardresearch.com
-108.161.189.121 #cdn.revcontent.com
-108.161.189.122 #cdn.revcontent.com
 118.214.92.168 #cdn.taboola.com
+72.5.205.36 #pixel.quantserve.com
+72.5.205.51 #pixel.quantserve.com
+72.5.205.32 #pixel.quantserve.com
+72.5.205.21 #pixel.quantserve.com
+72.5.205.38 #pixel.quantserve.com
+72.5.205.22 #pixel.quantserve.com
+72.5.205.39 #pixel.quantserve.com
+72.5.205.48 #pixel.quantserve.com
