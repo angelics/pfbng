@@ -1,2 +1,3 @@
 118.214.92.168 #cdn.taboola.com
 209.208.224.15 #revcontent.com
+108.161.189.122 #cdn.revcontent.com
