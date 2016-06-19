@@ -44,7 +44,6 @@
 172.217.24.206 #www.google-analytics.com
 172.217.24.238 #www.google-analytics.com
 216.58.196.46 #www.google-analytics.com
-216.58.196.206 #www.google-analytics.com
 216.58.221.46 #www.google-analytics.com
 
 74.125.207.154 #stats.g.doubleclick.net
