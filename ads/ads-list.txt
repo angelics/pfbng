@@ -1,63 +1,65 @@
-118.214.92.168 #cdn.taboola.com
-104.66.29.71 #cdn.taboola.com
-125.252.232.136 #cdn.taboola.com
 23.206.196.230 #cdn.taboola.com
+104.66.29.71 #cdn.taboola.com
+118.214.92.168 #cdn.taboola.com
+125.252.232.136 #cdn.taboola.com
 
 209.208.224.15 #revcontent.com
 
 108.161.189.122 #cdn.revcontent.com
 
-104.73.211.77 #sb.scorecardresearch.com
 104.66.22.50 #sb.scorecardresearch.com
+104.73.211.77 #sb.scorecardresearch.com
 
-72.5.205.36 #pixel.quantserve.com
-72.5.205.51 #pixel.quantserve.com
-72.5.205.32 #pixel.quantserve.com
 72.5.205.21 #pixel.quantserve.com
-72.5.205.38 #pixel.quantserve.com
 72.5.205.22 #pixel.quantserve.com
+72.5.205.32 #pixel.quantserve.com
+72.5.205.36 #pixel.quantserve.com
+72.5.205.38 #pixel.quantserve.com
 72.5.205.39 #pixel.quantserve.com
 72.5.205.48 #pixel.quantserve.com
-203.190.124.127 #pixel.quantserve.com
+72.5.205.51 #pixel.quantserve.com
 203.190.124.27 #pixel.quantserve.com
+203.190.124.127 #pixel.quantserve.com
 
 182.161.72.66 #cat.hk.as.criteo.com
 
-52.201.58.195 #trends.revcontent.com
-54.193.25.140 #trends.revcontent.com
 52.9.58.174 #trends.revcontent.com
-54.183.25.23 #trends.revcontent.com
-54.67.82.44 #trends.revcontent.com
-52.203.197.205 #trends.revcontent.com
-52.200.228.38 #trends.revcontent.com
-52.201.25.190 #trends.revcontent.com
-54.66.133.55 #trends.revcontent.com
 52.63.205.252 #trends.revcontent.com
+52.200.228.38 #trends.revcontent.com
+52.203.197.205 #trends.revcontent.com
+52.201.25.190 #trends.revcontent.com
+52.201.58.195 #trends.revcontent.com
+54.66.133.55 #trends.revcontent.com
+54.67.82.44 #trends.revcontent.com
+54.183.25.23 #trends.revcontent.com
+54.193.25.140 #trends.revcontent.com
 
 74.125.69.154 #www.googletagservices.com
 74.125.69.155 #www.googletagservices.com
 74.125.69.156 #www.googletagservices.com
 74.125.69.157 #www.googletagservices.com
 
-172.217.24.238 #www.google-analytics.com
 172.217.24.206 #www.google-analytics.com
+172.217.24.238 #www.google-analytics.com
 216.58.196.46 #www.google-analytics.com
 
-74.125.207.155 #stats.g.doubleclick.net
 74.125.207.154 #stats.g.doubleclick.net
+74.125.207.155 #stats.g.doubleclick.net
 74.125.207.156 #stats.g.doubleclick.net
 74.125.207.157 #stats.g.doubleclick.net
 
-184.172.1.99 #server.cpmstar.com
 50.22.46.25 #server.cpmstar.com
+184.172.1.99 #server.cpmstar.com
+
 
 182.161.72.71 #cas.criteo.com
 182.161.73.71 #cas.criteo.com
 
 182.161.73.66 #cat.jp.as.criteo.com
 
-182.161.72.74 #static.criteo.net 
 178.250.2.74 #static.criteo.net 
+182.161.72.74 #static.criteo.net 
+182.161.73.74 #static.criteo.net
 
 108.161.189.121 #serve.revcontent.com
 
