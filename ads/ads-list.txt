@@ -30,10 +30,13 @@
 74.125.69.156 #www.googletagservices.com
 74.125.69.157 #www.googletagservices.com
 172.217.24.238 #www.google-analytics.com
+172.217.24.206 #www.google-analytics.com
 74.125.207.155 #stats.g.doubleclick.net
 74.125.207.154 #stats.g.doubleclick.net
 74.125.207.156 #stats.g.doubleclick.net
 74.125.207.157 #stats.g.doubleclick.net
 184.172.1.99 #server.cpmstar.com
+50.22.46.25 #server.cpmstar.com
 182.161.72.71 #cas.criteo.com
 182.161.72.74 #static.criteo.net 
+178.250.2.74 #static.criteo.net 
