@@ -1,9 +1,2 @@
 118.214.92.168 #cdn.taboola.com
-72.5.205.36 #pixel.quantserve.com
-72.5.205.51 #pixel.quantserve.com
-72.5.205.32 #pixel.quantserve.com
-72.5.205.21 #pixel.quantserve.com
-72.5.205.38 #pixel.quantserve.com
-72.5.205.22 #pixel.quantserve.com
-72.5.205.39 #pixel.quantserve.com
-72.5.205.48 #pixel.quantserve.com
+209.208.224.15 #revcontent.com
