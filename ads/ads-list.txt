@@ -50,6 +50,7 @@
 184.172.1.99 #server.cpmstar.com
 
 74.119.118.71 #cas.criteo.com
+103.59.77.71 #cas.criteo.com
 182.161.72.71 #cas.criteo.com
 182.161.73.71 #cas.criteo.com
 
