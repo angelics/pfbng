@@ -65,6 +65,9 @@
 
 108.161.189.121 #img.revcontent.com
 
+118.215.100.30 #js1.nend.net
+
+124.83.159.76 #static.adroute.focas.jp
 124.83.159.92 #static.adroute.focas.jp
 182.22.30.252 #static.adroute.focas.jp
 
