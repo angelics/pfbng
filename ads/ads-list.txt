@@ -64,3 +64,7 @@
 108.161.189.121 #serve.revcontent.com
 
 108.161.189.121 #img.revcontent.com
+
+182.22.30.252 #static.adroute.focas.jp
+
+23.51.40.125 #spdeliver.i-mobile.co.jp
