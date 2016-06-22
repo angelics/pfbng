@@ -72,3 +72,13 @@
 182.22.30.252 #static.adroute.focas.jp
 
 23.51.40.125 #spdeliver.i-mobile.co.jp
+
+54.192.156.108 #d31qbv1cthcecs.cloudfront.net
+
+54.192.156.189 #d5nxst8fruw4z.cloudfront.net
+
+54.239.16.235 #cloudfront-labs.amazonaws.com
+
+107.178.254.65 #pippio.com
+
+146.112.61.104 #disqusads.com
