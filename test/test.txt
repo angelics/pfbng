@@ -112,6 +112,8 @@
 23.59.119.111 #h1.msn.com
 
 23.76.109.197 #go.microsoft.com/fwlink/?
+23.76.166.201 #cdn.content.prod.cms.msn.com
+23.76.171.182 #tile-service.weather.microsoft.com
 
 23.99.98.228	#preview.msn.com						#live.rads.msn.com
 
