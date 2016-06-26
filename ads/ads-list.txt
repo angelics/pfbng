@@ -105,3 +105,5 @@
 
 74.125.130.154 #pubads.g.doubleclick.net
 172.217.24.226 #pubads.g.doubleclick.net
+
+172.217.24.230 #static.doubleclick.net
