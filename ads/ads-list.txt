@@ -88,3 +88,6 @@
 107.178.244.119 #pixel.sojern.com
 
 146.112.61.104 #disqusads.com
+
+216.58.196.198 #ad.doubleclick.net
+216.58.196.194 #pagead2.googlesyndication.com #securepubads.g.doubleclick.net #googleads.g.doubleclick.net
