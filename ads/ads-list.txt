@@ -107,3 +107,5 @@
 172.217.24.226 #pubads.g.doubleclick.net
 
 172.217.24.230 #static.doubleclick.net
+
+202.79.210.121 #bs.serving-sys.com
