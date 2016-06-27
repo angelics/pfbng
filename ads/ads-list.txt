@@ -65,33 +65,10 @@
 
 108.161.189.121 #img.revcontent.com
 
-118.215.100.30 #js1.nend.net
-
-124.83.159.76 #static.adroute.focas.jp
-124.83.159.92 #static.adroute.focas.jp
-182.22.30.252 #static.adroute.focas.jp
-
-23.51.40.125 #spdeliver.i-mobile.co.jp
-
-54.192.156.64 #d31qbv1cthcecs.cloudfront.net
-54.192.156.108 #d31qbv1cthcecs.cloudfront.net
-
-54.192.156.96 #d5nxst8fruw4z.cloudfront.net
-54.192.156.189 #d5nxst8fruw4z.cloudfront.net
-
-54.239.16.235 #cloudfront-labs.amazonaws.com
-
-107.178.254.65 #pippio.com
-
-52.3.189.203 #cm.dpclk.com
-
-107.178.244.119 #pixel.sojern.com
-
 146.112.61.104 #disqusads.com
 
 216.58.196.198 #ad.doubleclick.net
 216.58.221.38 #ad.doubleclick.net
-
 
 74.125.68.155 #pagead2.googlesyndication.com #partner.googleadservices.com #googleads.g.doubleclick.net
 172.217.24.194 #pagead2.googlesyndication.com
