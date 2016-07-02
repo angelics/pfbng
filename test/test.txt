@@ -536,6 +536,7 @@
 121.123.204.18 #wscont.apps.microsoft.com.edgesuite.net
 121.123.204.85 #www.msftncsi.com
 121.123.204.101 #www.msftncsi.com
+121.123.204.209 #au.v4.download.windowsupdate.com
 
 131.253.12.0/22 #131.253.12.0-131.253.18.255
 #131.253.14.76	#ac3.msn.com
