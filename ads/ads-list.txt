@@ -90,3 +90,5 @@
 172.217.24.230 #static.doubleclick.net
 
 202.79.210.121 #bs.serving-sys.com
+
+58.27.86.73 #a248.e.akamai.net
