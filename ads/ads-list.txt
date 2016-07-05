@@ -91,4 +91,16 @@
 
 202.79.210.121 #bs.serving-sys.com
 
+58.27.86.66 #a248.e.akamai.net
 58.27.86.73 #a248.e.akamai.net
+
+8.253.44.188 #acdn.adnxs.com
+
+103.243.222.7 #m.adnxs.com
+103.243.222.40 #m.adnxs.com
+
+103.243.222.15 #secure-sin.adnxs.com
+103.243.222.72 #secure-sin.adnxs.com
+
+103.243.222.31 #secure.adnxs.com
+103.243.222.48 #secure.adnxs.com
