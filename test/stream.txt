@@ -74,7 +74,10 @@
 #173.194.57.235 #r6---sn-q4f7snsl.googlevideo.com
 173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
 173.194.141.220 #r6---sn-q4f7sn7d.googlevideo.com
-173.194.143.244 #r15---sn-q4f7sned.googlevideo.com
+173.194.143.0/24 #173.194.143.1-173.194.143.254
+#173.194.143.38 #r1---sn-q4f7sne7.googlevideo.com
+#173.194.143.244 #r15---sn-q4f7sned.googlevideo.com
+173.194.153.55 #r18---sn-5hne6n7r.googlevideo.com
 173.194.156.77 #r8---sn-5hne6ney.googlevideo.com
 173.194.160.200 #r2---sn-hpa7zn76.googlevideo.com
 
