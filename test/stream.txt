@@ -16,6 +16,7 @@
 74.125.1.83 #r14---sn-q4f7sns6.googlevideo.com
 74.125.1.223 #r13---sn-q4fl6nee.googlevideo.com
 74.125.3.7 #r1---sn-q4fl6n7y.googlevideo.com
+74.125.3.57 #r3---sn-q4fl6n7s.googlevideo.com
 74.125.5.205 #r8---sn-nx57ynle.googlevideo.com
 74.125.102.88 #r2---sn-i3b7kn7z.googlevideo.com
 74.125.105.240 #r11---sn-aigllned.googlevideo.com
