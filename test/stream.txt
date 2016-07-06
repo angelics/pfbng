@@ -1,0 +1,31 @@
+31.13.67.15 #video-kul1-1.xx.fbcdn.net
+
+58.26.8.81 #r6---sn-uh-30aek.googlevideo.com
+58.26.8.82 #r7---sn-uh-30aek.googlevideo.com
+58.26.8.83 #r8---sn-uh-30aek.googlevideo.com
+
+58.27.27.206 #r3---sn-uh-30as.googlevideo.com
+58.27.61.12 #r1---sn-uh-2xoe.googlevideo.com
+
+74.125.1.49 #r12---sn-q4f7snsz.googlevideo.com
+74.125.1.83 #r14---sn-q4f7sns6.googlevideo.com
+74.125.1.223 #r13---sn-q4fl6nee.googlevideo.com
+74.125.3.7 #r1---sn-q4fl6n7y.googlevideo.com
+74.125.105.240 #r11---sn-aigllned.googlevideo.com
+74.125.170.202 #r4---sn-n4v7sn7s.googlevideo.com
+
+173.194.4.134 #r1---sn-30a7en7s.googlevideo.com
+173.194.4.173 #r8---sn-30a7en7z.googlevideo.com
+173.194.22.108 #r7---sn-30a7dn7z.googlevideo.com
+173.194.24.82 #r13---sn-q4f7snsy.googlevideo.com
+173.194.49.50 #r13---sn-npo7enee.googlevideo.com
+173.194.54.231 #r1---sn-vgqs7ney.googlevideo.com
+173.194.57.235 #r6---sn-q4f7snsl.googlevideo.com
+173.194.141.220 #r6---sn-q4f7sn7d.googlevideo.com
+
+209.85.227.40 #r3---sn-q4f7sner.googlevideo.com
+209.85.230.8 #r2---sn-aiglln6e.googlevideo.com
+
+218.208.3.208 #r5---sn-uh-30ad.googlevideo.com
+218.208.3.210 #r7---sn-uh-30ad.googlevideo.com
+218.208.3.211 #r8---sn-uh-30ad.googlevideo.com
