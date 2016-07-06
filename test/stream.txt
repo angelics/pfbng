@@ -58,6 +58,7 @@
 173.194.49.50 #r13---sn-npo7enee.googlevideo.com
 173.194.49.167 #r1---sn-30a7dne6.googlevideo.com
 173.194.54.231 #r1---sn-vgqs7ney.googlevideo.com
+173.194.57.169 #r4---sn-q4f7sns7.googlevideo.com
 173.194.57.235 #r6---sn-q4f7snsl.googlevideo.com
 173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
 173.194.141.220 #r6---sn-q4f7sn7d.googlevideo.com
