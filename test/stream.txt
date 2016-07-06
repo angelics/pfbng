@@ -15,6 +15,7 @@
 
 58.27.27.206 #r3---sn-uh-30as.googlevideo.com
 58.27.61.12 #r1---sn-uh-2xoe.googlevideo.com
+58.27.61.16 #r5---sn-uh-2xoe.googlevideo.com
 58.27.61.79 #r4---sn-uh-2xol.googlevideo.com
 58.27.61.81 #r6---sn-uh-2xol.googlevideo.com
 
@@ -33,6 +34,7 @@
 74.125.160.21 #r16---sn-4g57knz6.googlevideo.com
 74.125.166.55 #r18---sn-a5m7zne6.googlevideo.com
 74.125.166.105 #r4---sn-a5m7znek.googlevideo.com
+74.125.170.199 #r1---sn-n4v7sn7s.googlevideo.com
 74.125.170.202 #r4---sn-n4v7sn7s.googlevideo.com
 74.125.170.235 #r5---sn-n4v7sn76.googlevideo.com
 74.125.173.141 #r8---sn-4g57kn6y.googlevideo.com
