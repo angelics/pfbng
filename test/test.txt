@@ -93,13 +93,12 @@
 
 13.107.4.50 #tlu.dl.delivery.mp.microsoft.com #break defender definition update
 
-23.0.0.0/12 #23.0.0.0 - 23.15.255.255 #secure.flashtalking.com
-#23.4.139.104 #secure.flashtalking.com
-#23.4.143.176 #h1.msn.com
-#23.4.147.219 #apps.skype.com
-#23.5.242.203	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
-#23.5.248.24	#ads1.msads.net
-#23.15.255.214	#apps.skype.com
+23.4.139.104 #secure.flashtalking.com
+23.4.143.176 #h1.msn.com
+23.4.147.219 #apps.skype.com
+23.5.242.203	#i1.services.social.microsoft.com		#i1.services.social.microsoft.com.nsatc.net
+23.5.248.24	#ads1.msads.net
+23.15.255.214	#apps.skype.com
 
 23.34.82.223 #sway-cdn.com
 
