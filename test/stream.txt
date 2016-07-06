@@ -46,6 +46,7 @@
 173.194.49.50 #r13---sn-npo7enee.googlevideo.com
 173.194.54.231 #r1---sn-vgqs7ney.googlevideo.com
 173.194.57.235 #r6---sn-q4f7snsl.googlevideo.com
+173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
 173.194.141.220 #r6---sn-q4f7sn7d.googlevideo.com
 173.194.160.200 #r2---sn-hpa7zn76.googlevideo.com
 
@@ -53,6 +54,9 @@
 209.85.227.170 #r5---sn-q4f7snll.googlevideo.com
 209.85.227.245 #r16---sn-q4f7snlz.googlevideo.com
 209.85.230.8 #r2---sn-aiglln6e.googlevideo.com
+
+210.187.25.209 #r6---sn-uh-30ae7.googlevideo.com
+210.187.25.211 #r8---sn-uh-30ae7.googlevideo.com
 
 218.208.3.208 #r5---sn-uh-30ad.googlevideo.com
 218.208.3.210 #r7---sn-uh-30ad.googlevideo.com
