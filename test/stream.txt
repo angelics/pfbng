@@ -1,25 +1,30 @@
 31.13.67.15 #video-kul1-1.xx.fbcdn.net
 
-1.9.57.12 #r1---sn-uh-30aes.googlevideo.com
-1.9.57.13 #r2---sn-uh-30aes.googlevideo.com
-1.9.57.14 #r3---sn-uh-30aes.googlevideo.com
-1.9.57.19 #r8---sn-uh-30aes.googlevideo.com
-1.9.57.142 #r3---sn-uh-30ae6.googlevideo.com
-1.9.57.143 #r4---sn-uh-30ae6.googlevideo.com
+1.9.57.0/27 #1.9.57.1-1.9.57.30
+#1.9.57.12 #r1---sn-uh-30aes.googlevideo.com
+#1.9.57.13 #r2---sn-uh-30aes.googlevideo.com
+#1.9.57.14 #r3---sn-uh-30aes.googlevideo.com
+#1.9.57.19 #r8---sn-uh-30aes.googlevideo.com
+1.9.57.128/27 #1.9.57.129-1.9.57.158
+#1.9.57.142 #r3---sn-uh-30ae6.googlevideo.com
+#1.9.57.143 #r4---sn-uh-30ae6.googlevideo.com
 
-58.26.8.76 #r1---sn-uh-30aek.googlevideo.com
-58.26.8.80 #r5---sn-uh-30aek.googlevideo.com
-58.26.8.81 #r6---sn-uh-30aek.googlevideo.com
-58.26.8.82 #r7---sn-uh-30aek.googlevideo.com
-58.26.8.83 #r8---sn-uh-30aek.googlevideo.com
+58.26.8.64/27 #58.26.8.65-58.26.8.94
+#58.26.8.76 #r1---sn-uh-30aek.googlevideo.com
+#58.26.8.80 #r5---sn-uh-30aek.googlevideo.com
+#58.26.8.81 #r6---sn-uh-30aek.googlevideo.com
+#58.26.8.82 #r7---sn-uh-30aek.googlevideo.com
+#58.26.8.83 #r8---sn-uh-30aek.googlevideo.com
 
 58.27.27.206 #r3---sn-uh-30as.googlevideo.com
-58.27.61.12 #r1---sn-uh-2xoe.googlevideo.com
-58.27.61.16 #r5---sn-uh-2xoe.googlevideo.com
-58.27.61.77 #r2---sn-uh-2xol.googlevideo.com
-58.27.61.79 #r4---sn-uh-2xol.googlevideo.com
-58.27.61.80 #r5---sn-uh-2xol.googlevideo.com
-58.27.61.81 #r6---sn-uh-2xol.googlevideo.com
+58.27.61.0/27 #58.27.61.1-58.27.61.30
+#58.27.61.12 #r1---sn-uh-2xoe.googlevideo.com
+#58.27.61.16 #r5---sn-uh-2xoe.googlevideo.com
+58.27.61.64/27 #58.27.61.65-58.27.61.94
+#58.27.61.77 #r2---sn-uh-2xol.googlevideo.com
+#58.27.61.79 #r4---sn-uh-2xol.googlevideo.com
+#58.27.61.80 #r5---sn-uh-2xol.googlevideo.com
+#58.27.61.81 #r6---sn-uh-2xol.googlevideo.com
 
 74.125.1.49 #r12---sn-q4f7snsz.googlevideo.com
 74.125.1.52 #r15---sn-q4f7snsz.googlevideo.com
@@ -32,8 +37,9 @@
 74.125.6.201 #r4---sn-5uaeznls.googlevideo.com
 74.125.102.88 #r2---sn-i3b7kn7z.googlevideo.com
 74.125.105.240 #r11---sn-aigllned.googlevideo.com
-74.125.106.104 #r2---sn-30a7dn7y.googlevideo.com
-74.125.106.106 #r4---sn-30a7dn7y.googlevideo.com
+74.125.106.96/28 #74.125.106.97-74.125.106.110
+#74.125.106.104 #r2---sn-30a7dn7y.googlevideo.com
+#74.125.106.106 #r4---sn-30a7dn7y.googlevideo.com
 74.125.160.21 #r16---sn-4g57knz6.googlevideo.com
 74.125.166.55 #r18---sn-a5m7zne6.googlevideo.com
 74.125.166.105 #r4---sn-a5m7znek.googlevideo.com
@@ -63,10 +69,12 @@
 209.85.227.245 #r16---sn-q4f7snlz.googlevideo.com
 209.85.230.8 #r2---sn-aiglln6e.googlevideo.com
 
-210.187.25.209 #r6---sn-uh-30ae7.googlevideo.com
-210.187.25.211 #r8---sn-uh-30ae7.googlevideo.com
+210.187.25.208/29 #210.187.25.209-210.187.25.214
+#210.187.25.209 #r6---sn-uh-30ae7.googlevideo.com
+#210.187.25.211 #r8---sn-uh-30ae7.googlevideo.com
 
-218.208.3.205 #r2---sn-uh-30ad.googlevideo.com
-218.208.3.208 #r5---sn-uh-30ad.googlevideo.com
-218.208.3.210 #r7---sn-uh-30ad.googlevideo.com
-218.208.3.211 #r8---sn-uh-30ad.googlevideo.com
+218.208.3.192/27 #218.208.3.193-218.208.3.222
+#218.208.3.205 #r2---sn-uh-30ad.googlevideo.com
+#218.208.3.208 #r5---sn-uh-30ad.googlevideo.com
+#218.208.3.210 #r7---sn-uh-30ad.googlevideo.com
+#218.208.3.211 #r8---sn-uh-30ad.googlevideo.com
