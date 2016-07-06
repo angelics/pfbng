@@ -463,6 +463,9 @@
 
 96.6.68.215 #sway-cdn.com
 
+96.16.7.42 #msntest.serving-sys.com
+96.16.7.83 #msntest.serving-sys.com
+
 103.243.222.7	#m.adnxs.com
 103.243.222.10	#secure.adnxs.com
 103.243.222.12	#secure.adnxs.com
@@ -762,6 +765,7 @@
 216.58.214.230	#ad.doubleclick.net						#static.2mdn.net
 216.58.216.6	#static.2mdn.net
 216.58.217.166	#ad.doubleclick.net						#static.2mdn.net
+216.58.218.166 #ad.doubleclick.net
 216.58.219.230	#static.2mdn.net
 216.58.220.134	#ad.doubleclick.net
 216.58.221.102	#static.2mdn.net
