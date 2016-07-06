@@ -81,6 +81,7 @@
 216.58.196.194 #pagead2.googlesyndication.com #securepubads.g.doubleclick.net #googleads.g.doubleclick.net
 216.58.221.34 #pagead2.googlesyndication.com
 
+74.125.68.154 #googleads.g.doubleclick.net
 172.217.25.130 #googleads.g.doubleclick.net
 172.217.26.2 #googleads.g.doubleclick.net
 216.58.196.66 #googleads.g.doubleclick.net
