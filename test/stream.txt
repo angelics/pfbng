@@ -9,6 +9,7 @@
 1.9.57.0/24 #1.9.57.1-1.9.57.254
 #1.9.57.142 #r3---sn-uh-30ae6.googlevideo.com
 #1.9.57.143 #r4---sn-uh-30ae6.googlevideo.com
+1.9.131.17 #r6---sn-uh-wice.googlevideo.com
 
 58.26.8.0/24 #58.26.8.1-58.26.8.254
 #58.26.8.76 #r1---sn-uh-30aek.googlevideo.com
