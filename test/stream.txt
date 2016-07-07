@@ -102,6 +102,9 @@
 #74.125.173.141 #r8---sn-4g57kn6y.googlevideo.com
 #74.125.173.173 #r8---sn-4g57knd7.googlevideo.com
 
+173.194.3.0/24 #173.194.3.1-173.194.3.254
+#173.194.3.24 #r19---sn-aigllnl6.googlevideo.com
+
 173.194.4.0/24 #173.194.4.1-173.194.4.254
 #173.194.4.134 #r1---sn-30a7en7s.googlevideo.com
 #173.194.4.173 #r8---sn-30a7en7z.googlevideo.com
