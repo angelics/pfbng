@@ -101,7 +101,11 @@
 173.194.61.238 #r9---sn-ab5l6ne6.googlevideo.com
 173.194.62.181 #r16---sn-4g57knll.googlevideo.com
 173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
-173.194.141.220 #r6---sn-q4f7sn7d.googlevideo.com
+173.194.134.168 #r3---sn-vgqsenez.googlevideo.com
+
+173.194.141.0 #173.194.141.1-173.194.141.254
+#173.194.141.152 #r2---sn-q4f7sn7l.googlevideo.com
+#173.194.141.220 #r6---sn-q4f7sn7d.googlevideo.com
 
 173.194.143.0/24 #173.194.143.1-173.194.143.254
 #173.194.143.38 #r1---sn-q4f7sne7.googlevideo.com
