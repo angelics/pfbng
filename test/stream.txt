@@ -108,6 +108,7 @@
 173.194.57.0/24 #173.194.57.1-173.194.57.254
 #173.194.57.169 #r4---sn-q4f7sns7.googlevideo.com
 #173.194.57.235 #r6---sn-q4f7snsl.googlevideo.com
+173.194.59.88 #r2---sn-i3beln7d.googlevideo.com
 173.194.61.238 #r9---sn-ab5l6ne6.googlevideo.com
 173.194.62.181 #r16---sn-4g57knll.googlevideo.com
 173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
