@@ -22,7 +22,8 @@
 #58.26.8.82 #r7---sn-uh-30aek.googlevideo.com
 #58.26.8.83 #r8---sn-uh-30aek.googlevideo.com
 
-58.27.27.206 #r3---sn-uh-30as.googlevideo.com
+58.27.27.0/24 #58.27.27.1-58.27.27.254
+#58.27.27.206 #r3---sn-uh-30as.googlevideo.com
 
 58.27.61.0/24 #58.27.61.1-58.27.61.254
 #58.27.61.12 #r1---sn-uh-2xoe.googlevideo.com
@@ -31,7 +32,9 @@
 #58.27.61.79 #r4---sn-uh-2xol.googlevideo.com
 #58.27.61.80 #r5---sn-uh-2xol.googlevideo.com
 #58.27.61.81 #r6---sn-uh-2xol.googlevideo.com
-58.27.108.144 #r5---sn-uh-30ae.googlevideo.com
+
+58.27.108.0/24 #58.27.108.1-58.27.108.254
+#58.27.108.144 #r5---sn-uh-30ae.googlevideo.com
 
 58.27.109.0/24 #58.27.109.1-58.27.109.254
 #58.27.109.204 #r1---sn-uh-30al.googlevideo.com
@@ -51,18 +54,34 @@
 74.125.5.0/24 #74.125.5.1-74.125.5.254
 #74.125.5.20 #r15---sn-nx57ynee.googlevideo.com
 #74.125.5.205 #r8---sn-nx57ynle.googlevideo.com
-74.125.6.201 #r4---sn-5uaeznls.googlevideo.com
-74.125.8.27 #r5---sn-5hne6n7l.googlevideo.com
-74.125.100.156 #r6---sn-5hnedn7l.googlevideo.com
-74.125.102.88 #r2---sn-i3b7kn7z.googlevideo.com
-74.125.105.240 #r11---sn-aigllned.googlevideo.com
+
+74.125.6.0/24 #74.125.6.1-74.125.6.254
+#74.125.6.201 #r4---sn-5uaeznls.googlevideo.com
+
+74.125.8.0/24 #74.125.8.1-74.125.8.254
+#74.125.8.27 #r5---sn-5hne6n7l.googlevideo.com
+
+74.125.100.0/24 #74.125.100.1-74.125.100.254
+#74.125.100.156 #r6---sn-5hnedn7l.googlevideo.com
+
+74.125.102.0/24 #74.125.102.1-74.125.102.254
+#74.125.102.88 #r2---sn-i3b7kn7z.googlevideo.com
+
+74.125.105.0/24 #74.125.105.1-74.125.105.254
+#74.125.105.240 #r11---sn-aigllned.googlevideo.com
 
 74.125.106.0/24 #74.125.106.1-74.125.106.254
 #74.125.106.104 #r2---sn-30a7dn7y.googlevideo.com
 #74.125.106.106 #r4---sn-30a7dn7y.googlevideo.com
-74.125.157.238 #r9---sn-n4v7knee.googlevideo.com
-74.125.159.9 #r3---sn-vgqs7nlr.googlevideo.com
-74.125.160.21 #r16---sn-4g57knz6.googlevideo.com
+
+74.125.157.0/24 #74.125.157.1-74.125.157.254
+#74.125.157.238 #r9---sn-n4v7knee.googlevideo.com
+
+74.125.159.0/24 #74.125.159.1-74.125.159.254
+#74.125.159.9 #r3---sn-vgqs7nlr.googlevideo.com
+
+74.125.160.0/24 #74.125.160.1-74.125.160.254
+#74.125.160.21 #r16---sn-4g57knz6.googlevideo.com
 
 74.125.166.0/24 #74.125.166.1-74.125.166.254
 #74.125.166.55 #r18---sn-a5m7zne6.googlevideo.com
@@ -84,7 +103,10 @@
 173.194.4.0/24 #173.194.4.1-173.194.4.254
 #173.194.4.134 #r1---sn-30a7en7s.googlevideo.com
 #173.194.4.173 #r8---sn-30a7en7z.googlevideo.com
-173.194.12.91 #r5---sn-o097znlr.googlevideo.com
+
+173.194.12.0/24 #173.194.12.1-173.194.12.254
+#173.194.12.91 #r5---sn-o097znlr.googlevideo.com
+#173.194.12.249 #r20---sn-a5m7znes.googlevideo.com
 
 173.194.22.0/24 #173.194.22.1-173.194.22.254
 #173.194.22.108 #r7---sn-30a7dn7z.googlevideo.com
@@ -93,8 +115,12 @@
 173.194.24.0/24 #173.194.24.1-173.194.24.254
 #173.194.24.55 #r18---sn-q4f7snsr.googlevideo.com
 #173.194.24.82 #r13---sn-q4f7snsy.googlevideo.com
-173.194.25.84 #r15---sn-o097znel.googlevideo.com
-173.194.26.20 #r15---sn-a5m7ln7s.googlevideo.com
+
+173.194.25.0/24 #173.194.25.1-173.194.25.254
+#173.194.25.84 #r15---sn-o097znel.googlevideo.com
+
+173.194.26.0/24 #173.194.26.1-173.194.26.254
+#173.194.26.20 #r15---sn-a5m7ln7s.googlevideo.com
 
 173.194.49.0/24 #173.194.49.1-173.194.49.254
 #173.194.49.9 #r4---sn-npo7ene7.googlevideo.com
@@ -108,10 +134,18 @@
 173.194.57.0/24 #173.194.57.1-173.194.57.254
 #173.194.57.169 #r4---sn-q4f7sns7.googlevideo.com
 #173.194.57.235 #r6---sn-q4f7snsl.googlevideo.com
-173.194.59.88 #r2---sn-i3beln7d.googlevideo.com
-173.194.61.238 #r9---sn-ab5l6ne6.googlevideo.com
-173.194.62.181 #r16---sn-4g57knll.googlevideo.com
-173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
+
+173.194.59.0/24 #173.194.59.1-173.194.59.254
+#173.194.59.88 #r2---sn-i3beln7d.googlevideo.com
+
+173.194.61.0/24 #173.194.61.1-173.194.61.254
+#173.194.61.238 #r9---sn-ab5l6ne6.googlevideo.com
+
+173.194.62.0/24 #173.194.62.1-173.194.62.254
+#173.194.62.181 #r16---sn-4g57knll.googlevideo.com
+
+173.194.132.0/24 #173.194.132.1-173.194.132.254
+#173.194.132.39 #r2---sn-p5qlsned.googlevideo.com
 
 173.194.134.0/24 #173.194.134.1-173.194.134.254
 #173.194.134.72 #r3---sn-vgqs7nee.googlevideo.com
@@ -124,18 +158,23 @@
 173.194.143.0/24 #173.194.143.1-173.194.143.254
 #173.194.143.38 #r1---sn-q4f7sne7.googlevideo.com
 #173.194.143.244 #r15---sn-q4f7sned.googlevideo.com
-173.194.151.183 #r1---sn-4g5e6n7r.googlevideo.com
-173.194.153.55 #r18---sn-5hne6n7r.googlevideo.com
+
+173.194.151.0/24 #173.194.151.1-173.194.151.254
+#173.194.151.183 #r1---sn-4g5e6n7r.googlevideo.com
+
+173.194.153.0/24 #173.194.153.1-173.194.153.254
+#173.194.153.55 #r18---sn-5hne6n7r.googlevideo.com
 
 173.194.156.0/24 #173.194.156.1-173.194.156.254
 #173.194.156.77 #r8---sn-5hne6ney.googlevideo.com
 #173.194.156.199 #r2---sn-5hnedn7k.googlevideo.com
 
-173.194.160.0 #173.194.160.1-173.194.160.254
-173.194.160.82 #r13---sn-4g57knrz.googlevideo.com
-173.194.160.200 #r2---sn-hpa7zn76.googlevideo.com
+173.194.160.0/24 #173.194.160.1-173.194.160.254
+#173.194.160.82 #r13---sn-4g57knrz.googlevideo.com
+#173.194.160.200 #r2---sn-hpa7zn76.googlevideo.com
 
-208.117.236.106 #r5---sn-25g7sm7z.googlevideo.com
+208.117.236.0/24 #208.117.236.1-208.117.236.254
+#208.117.236.106 #r5---sn-25g7sm7z.googlevideo.com
 
 209.85.227.0/24 #209.85.227.1-209.85.227.254
 #209.85.227.40 #r3---sn-q4f7sner.googlevideo.com
@@ -143,7 +182,9 @@
 #209.85.227.170 #r5---sn-q4f7snll.googlevideo.com
 #209.85.227.178 #r13---sn-q4f7snll.googlevideo.com
 #209.85.227.245 #r16---sn-q4f7snlz.googlevideo.com
-209.85.230.8 #r2---sn-aiglln6e.googlevideo.com
+
+209.85.230.0/24 #209.85.230.1-209.85.230.254
+#209.85.230.8 #r2---sn-aiglln6e.googlevideo.com
 
 210.187.25.0/24 #210.187.25.1-210.187.25.254
 #210.187.25.209 #r6---sn-uh-30ae7.googlevideo.com
