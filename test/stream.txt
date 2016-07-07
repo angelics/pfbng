@@ -1,3 +1,4 @@
+31.13.67.7 #scontent-kul1-1.xx.fbcdn.net
 31.13.67.15 #video-kul1-1.xx.fbcdn.net
 
 1.9.24.0/24 #1.9.24.1-1.9.24.254
