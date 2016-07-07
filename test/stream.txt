@@ -1,6 +1,8 @@
 31.13.67.15 #video-kul1-1.xx.fbcdn.net
 
-1.9.24.16 #r5---sn-uh-30ar.googlevideo.com
+1.9.24.0/24 #1.9.24.1-1.9.24.254
+#1.9.24.12 #r1---sn-uh-30ar.googlevideo.com
+#1.9.24.16 #r5---sn-uh-30ar.googlevideo.com
 
 1.9.57.0/24 #1.9.57.1-1.9.57.254
 #1.9.57.12 #r1---sn-uh-30aes.googlevideo.com
