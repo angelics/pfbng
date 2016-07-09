@@ -537,6 +537,7 @@
 
 115.164.13.11 #ctldl.windowsupdate.com
 
+121.123.204.8 #ctldl.windowsupdate.com
 121.123.204.18 #wscont.apps.microsoft.com.edgesuite.net
 121.123.204.77 #ctldl.windowsupdate.com
 121.123.204.85 #www.msftncsi.com
