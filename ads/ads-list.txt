@@ -109,3 +109,5 @@
 
 103.243.222.31 #secure.adnxs.com
 103.243.222.48 #secure.adnxs.com
+
+207.7.84.5 #admanager.ibay.com.mv
