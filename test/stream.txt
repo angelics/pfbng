@@ -18,6 +18,8 @@
 1.9.131.0/24 #1.9.131.1-1.9.131.254
 #1.9.131.17 #r6---sn-uh-wice.googlevideo.com
 
+45.113.128.164 #video-edge-755f88.hkg01.hls.ttvnw.net
+
 58.26.8.0/24 #58.26.8.1-58.26.8.254
 #58.26.8.76 #r1---sn-uh-30aek.googlevideo.com
 #58.26.8.80 #r5---sn-uh-30aek.googlevideo.com
