@@ -68,6 +68,7 @@
 
 146.112.61.104 #disqusads.com
 
+74.125.200.148 #ad.doubleclick.net
 172.217.24.198 #ad.doubleclick.net
 172.217.25.6 #ad.doubleclick.net
 172.217.26.6 #ad.doubleclick.net
@@ -78,6 +79,7 @@
 74.125.68.155 #pagead2.googlesyndication.com #partner.googleadservices.com #googleads.g.doubleclick.net
 74.125.68.156 #pagead2.googlesyndication.com
 74.125.200.156 #securepubads.g.doubleclick.net
+74.125.200.157 #pubads.g.doubleclick.net
 172.217.24.194 #pagead2.googlesyndication.com
 172.217.25.2 #pagead2.googlesyndication.com
 172.217.26.34 #pagead2.googlesyndication.com #googleads.g.doubleclick.net #googleads.g.doubleclick.net
@@ -87,6 +89,7 @@
 216.58.221.34 #pagead2.googlesyndication.com
 
 74.125.68.154 #googleads.g.doubleclick.net
+74.125.130.157 #googleads.g.doubleclick.net
 172.217.25.130 #googleads.g.doubleclick.net
 172.217.26.2 #googleads.g.doubleclick.net
 216.58.196.66 #googleads.g.doubleclick.net
@@ -114,3 +117,6 @@
 103.243.222.48 #secure.adnxs.com
 
 207.7.84.5 #admanager.ibay.com.mv
+
+54.175.250.204 #yts.moatads.com
+125.252.235.213 #yt.moatads.com
