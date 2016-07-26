@@ -107,6 +107,7 @@
 172.217.26.2 #googleads.g.doubleclick.net
 172.217.26.6 #ad.doubleclick.net
 172.217.26.34 #pagead2.googlesyndication.com #googleads.g.doubleclick.net #googleads.g.doubleclick.net
+172.217.26.66 #pagead2.googlesyndication.com
 
 178.250.2.74 #static.criteo.net 
 
