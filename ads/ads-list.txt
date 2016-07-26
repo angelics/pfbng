@@ -57,10 +57,12 @@
 74.125.130.154 #pubads.g.doubleclick.net
 74.125.130.157 #googleads.g.doubleclick.net
 
-74.125.200.148 #ad.doubleclick.net
-74.125.200.155 #pubads.g.doubleclick.net
-74.125.200.156 #securepubads.g.doubleclick.net
-74.125.200.157 #pubads.g.doubleclick.net
+74.125.200.0/24 #74.125.200.1-74.125.200.254
+#74.125.200.148 #ad.doubleclick.net
+#74.125.200.154 #pubads.g.doubleclick.net
+#74.125.200.155 #pubads.g.doubleclick.net
+#74.125.200.156 #securepubads.g.doubleclick.net
+#74.125.200.157 #pubads.g.doubleclick.net
 
 74.125.207.154 #stats.g.doubleclick.net
 74.125.207.155 #stats.g.doubleclick.net
