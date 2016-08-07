@@ -133,6 +133,7 @@
 209.208.224.15 #revcontent.com
 
 #216.58.196.0/24 #216.58.196.1-216.58.196.254 #break youtube
+216.58.196.2 #pagead2.googlesyndication.com
 216.58.196.34 #pagead2.googlesyndication.com #partner.googleadservices.com
 216.58.196.38 #ad.doubleclick.net
 216.58.196.66 #pagead2.googlesyndication.com #googleads.g.doubleclick.net
