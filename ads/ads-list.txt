@@ -6,6 +6,8 @@
 
 23.206.196.230 #cdn.taboola.com
 
+50.17.248.221 #www.zergnet.com
+
 50.22.46.25 #server.cpmstar.com
 
 52.9.58.174 #trends.revcontent.com
