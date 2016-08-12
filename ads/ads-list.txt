@@ -1,5 +1,7 @@
 8.253.44.188 #acdn.adnxs.com
 
+23.21.59.176 #www.zergnet.com
+
 23.76.172.168 #cdn.taboola.com
 
 23.206.196.230 #cdn.taboola.com
