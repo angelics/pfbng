@@ -49,6 +49,7 @@
 74.119.118.71 #cas.criteo.com
 
 74.125.68.148 #ad.doubleclick.net
+74.125.68.149 #static.doubleclick.net
 74.125.68.154 #googleads.g.doubleclick.net
 74.125.68.155 #pagead2.googlesyndication.com #partner.googleadservices.com #googleads.g.doubleclick.net
 74.125.68.156 #pagead2.googlesyndication.com
@@ -150,3 +151,4 @@
 
 216.58.221.34 #pagead2.googlesyndication.com
 216.58.221.38 #ad.doubleclick.net
+216.58.221.66 #googleads.g.doubleclick.net
