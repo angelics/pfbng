@@ -90,6 +90,10 @@
 
 104.73.211.77 #sb.scorecardresearch.com
 
+106.10.158.52 #global.adserver.yahoo.com
+
+106.10.198.33 #na.ads.yahoo.com
+
 108.161.189.121 #serve.revcontent.com #img.revcontent.com
 108.161.189.122 #cdn.revcontent.com
 
