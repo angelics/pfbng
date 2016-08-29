@@ -630,15 +630,15 @@
 179.60.192.10	#view.atdmt.com
 179.60.193.10	#view.atdmt.com
 
-184.24.0.0/13 #184.24.0.0 - 184.31.255.255 #www.msftncsi.com
-#184.25.63.8 #wscont.apps.microsoft.com.edgesuite.net
-#184.25.63.18 #msntest.serving-sys.com
-#184.25.63.56 #msntest.serving-sys.com
-#184.26.93.35 #redir.metaservices.microsoft.com
-#184.25.63.49 #wscont.apps.microsoft.com.edgesuite.net
-#184.26.93.58 #www.msftncsi.com
-#184.26.93.74 #redir.metaservices.microsoft.com
-#184.26.93.81 #www.msftncsi.com
+#184.24.0.0/13 #184.24.0.0 - 184.31.255.255 #www.msftncsi.com #break alibaba
+184.25.63.8 #wscont.apps.microsoft.com.edgesuite.net
+184.25.63.18 #msntest.serving-sys.com
+184.25.63.56 #msntest.serving-sys.com
+184.26.93.35 #redir.metaservices.microsoft.com
+184.25.63.49 #wscont.apps.microsoft.com.edgesuite.net
+184.26.93.58 #www.msftncsi.com
+184.26.93.74 #redir.metaservices.microsoft.com
+184.26.93.81 #www.msftncsi.com
 
 191.232.80.58	#fe2.update.microsoft.com.akadns.net
 191.232.80.60	#fe2.update.microsoft.com.akadns.net
