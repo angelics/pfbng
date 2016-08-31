@@ -60,6 +60,7 @@
 74.125.69.156 #www.googletagservices.com
 74.125.69.157 #www.googletagservices.com
 
+74.125.130.148 #ad.doubleclick.net
 74.125.130.154 #pubads.g.doubleclick.net
 74.125.130.155 #pagead2.googlesyndication.com
 74.125.130.156 #googleads.g.doubleclick.net
@@ -155,6 +156,8 @@
 216.58.196.66 #pagead2.googlesyndication.com #googleads.g.doubleclick.net
 216.58.196.194 #pagead2.googlesyndication.com #securepubads.g.doubleclick.net #googleads.g.doubleclick.net
 216.58.196.198 #ad.doubleclick.net
+
+216.58.199.194 #googleads.g.doubleclick.net
 
 216.58.203.98 #googleads.g.doubleclick.net
 
