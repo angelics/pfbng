@@ -265,51 +265,51 @@
 #64.4.54.253		#settings-win.data.microsoft.com
 #64.4.54.254		#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
 
-#65.52.0.0/14 #65.52.0.0-65.55.255.255 #break win7 activation
-65.52.100.7		#df.telemetry.microsoft.com
-65.52.100.9		#telemetry.microsoft.com
-65.52.100.11	#watson.ppe.telemetry.microsoft.com
-65.52.100.91	#reports.wes.df.telemetry.microsoft.com
-65.52.100.92	#services.wes.df.telemetry.microsoft.com
-65.52.100.93	#wes.df.telemetry.microsoft.com
-65.52.100.94	#sqm.df.telemetry.microsoft.com
-65.52.108.3		#aidps.atdmt.com
-65.52.108.11	#c.msn.com								#c.atdmt.com
-65.52.108.27	#g.msn.com
-65.52.108.29 	#watson.telemetry.microsoft.com			#watson.telemetry.microsoft.com.nsatc.net
-65.52.108.74	#s.gateway.messenger.live.com
-65.52.108.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
-65.52.108.154	#watson.microsoft.com
-65.52.108.251	#rad.msn.com							#a.rad.msn.com								#b.rad.msn.com		#rad.live.com
+65.52.0.0/14 #65.52.0.0-65.55.255.255
+#65.52.100.7		#df.telemetry.microsoft.com
+#65.52.100.9		#telemetry.microsoft.com
+#65.52.100.11	#watson.ppe.telemetry.microsoft.com
+#65.52.100.91	#reports.wes.df.telemetry.microsoft.com
+#65.52.100.92	#services.wes.df.telemetry.microsoft.com
+#65.52.100.93	#wes.df.telemetry.microsoft.com
+#65.52.100.94	#sqm.df.telemetry.microsoft.com
+#65.52.108.3		#aidps.atdmt.com
+#65.52.108.11	#c.msn.com								#c.atdmt.com
+#65.52.108.27	#g.msn.com
+#65.52.108.29 	#watson.telemetry.microsoft.com			#watson.telemetry.microsoft.com.nsatc.net
+#65.52.108.74	#s.gateway.messenger.live.com
+#65.52.108.153	#statsfe2.ws.microsoft.com				#statsfe2.update.microsoft.com.akadns.net
+#65.52.108.154	#watson.microsoft.com
+#65.52.108.251	#rad.msn.com							#a.rad.msn.com								#b.rad.msn.com		#rad.live.com
 
-65.54.225.167	#m.hotmail.com
-65.54.225.168	#m.hotmail.com
-65.54.226.187	#schemas.microsoft.akadns.net 
-65.55.2.6		#rad.msn.com							#a.rad.msn.com								#b.rad.msn.com		#rad.live.com
-65.55.32.30		#m.hotmail.com #break mail
-65.55.39.10		#feedback.microsoft-hohm.com
-65.55.44.85		#telemetry.urs.microsoft.com
-65.55.44.108	#settings-win.data.microsoft.com
-65.55.44.109	#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
-65.55.57.27		#lb1.www.ms.akadns.net
-65.55.108.23	#msnbot-65-55-108-23.search.msn.com
-65.55.128.80	#ads.msn.com
-65.55.128.81	#choice.microsoft.com					#choice.microsoft.com.nsatc.net
-65.55.130.50	#choice.microsoft.com					#choice.microsoft.com.nsatc.net
-65.55.138.110	#statsfe1.ws.microsoft.com
-65.55.138.111	#sls.update.microsoft.com.akadns.net
-65.55.138.112	#fe2.update.microsoft.com.akadns.net
-65.55.138.114	#fe2.update.microsoft.com.akadns.net
-65.55.138.126	#fe2.update.microsoft.com.akadns.net
-65.55.138.186	#fe2.update.microsoft.com.akadns.net
-65.55.163.221	#fe2.update.microsoft.com.akadns.net
-65.55.157.144 #break hotmail
-65.55.157.145 #break hotmail
-65.55.252.43 	#watson.telemetry.microsoft.com			#watson.telemetry.microsoft.com.nsatc.net
-65.55.252.63	#oca.telemetry.microsoft.com			#oca.telemetry.microsoft.com.nsatc.net
-65.55.252.71	#watson.microsoft.com
-65.55.252.93	#sqm.telemetry.microsoft.com			#sqm.telemetry.microsoft.com.nsatc.net
-65.55.252.190	#telecommand.telemetry.microsoft.com	#telecommand.telemetry.microsoft.com.nsatc.net
+#65.54.225.167	#m.hotmail.com
+#65.54.225.168	#m.hotmail.com
+#65.54.226.187	#schemas.microsoft.akadns.net 
+#65.55.2.6		#rad.msn.com							#a.rad.msn.com								#b.rad.msn.com		#rad.live.com
+#65.55.32.30		#m.hotmail.com #break mail
+#65.55.39.10		#feedback.microsoft-hohm.com
+#65.55.44.85		#telemetry.urs.microsoft.com
+#65.55.44.108	#settings-win.data.microsoft.com
+#65.55.44.109	#vortex.data.microsoft.com				#vortex-win.data.microsoft.com
+#65.55.57.27		#lb1.www.ms.akadns.net
+#65.55.108.23	#msnbot-65-55-108-23.search.msn.com
+#65.55.128.80	#ads.msn.com
+#65.55.128.81	#choice.microsoft.com					#choice.microsoft.com.nsatc.net
+#65.55.130.50	#choice.microsoft.com					#choice.microsoft.com.nsatc.net
+#65.55.138.110	#statsfe1.ws.microsoft.com
+#65.55.138.111	#sls.update.microsoft.com.akadns.net
+#65.55.138.112	#fe2.update.microsoft.com.akadns.net
+#65.55.138.114	#fe2.update.microsoft.com.akadns.net
+#65.55.138.126	#fe2.update.microsoft.com.akadns.net
+#65.55.138.186	#fe2.update.microsoft.com.akadns.net
+#65.55.163.221	#fe2.update.microsoft.com.akadns.net
+#65.55.157.144 #break hotmail
+#65.55.157.145 #break hotmail
+#65.55.252.43 	#watson.telemetry.microsoft.com			#watson.telemetry.microsoft.com.nsatc.net
+#65.55.252.63	#oca.telemetry.microsoft.com			#oca.telemetry.microsoft.com.nsatc.net
+#65.55.252.71	#watson.microsoft.com
+#65.55.252.93	#sqm.telemetry.microsoft.com			#sqm.telemetry.microsoft.com.nsatc.net
+#65.55.252.190	#telecommand.telemetry.microsoft.com	#telecommand.telemetry.microsoft.com.nsatc.net
 
 66.119.144.157	#fe2.update.microsoft.com.akadns.net
 66.119.144.158	#fe2.update.microsoft.com.akadns.net
