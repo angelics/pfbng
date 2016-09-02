@@ -1,4 +1,4 @@
-#65.52.98.231
+65.52.98.231 #win7 activation
 65.52.98.233 #win10 #co2.activation-v2.sls.microsoft.com
 65.55.138.111 #win10
 111.221.29.174 #win10
