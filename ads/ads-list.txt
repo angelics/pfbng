@@ -138,6 +138,8 @@
 
 184.172.1.99 #server.cpmstar.com
 
+192.229.144.135 #ads.exoclick.com
+
 202.79.210.121 #bs.serving-sys.com
 
 203.190.124.18 #pixel.quantserve.com
