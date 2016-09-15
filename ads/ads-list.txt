@@ -8,6 +8,8 @@
 
 37.157.4.15 #track.adform.net
 
+46.137.245.68 #match.adsrvr.org
+
 50.17.248.221 #www.zergnet.com
 
 50.22.46.25 #server.cpmstar.com
@@ -17,6 +19,10 @@
 52.63.9.173 #trends.revcontent.com
 
 52.63.205.252 #trends.revcontent.com
+
+52.73.123.67 #ad.360yield.com
+
+52.73.178.249 #ad.360yield.com
 
 52.73.182.32 #ad.360yield.com
 
@@ -114,6 +120,8 @@
 125.252.235.213 #yt.moatads.com
 
 146.112.61.104 #disqusads.com
+
+149.174.66.131 #cas.pxl.ace.advertising.com
 
 172.217.24.66 #googleads.g.doubleclick.net
 172.217.24.98 #googleads.g.doubleclick.net
