@@ -6,6 +6,8 @@
 
 23.206.196.230 #cdn.taboola.com
 
+37.157.4.15 #track.adform.net
+
 50.17.248.221 #www.zergnet.com
 
 50.22.46.25 #server.cpmstar.com
@@ -15,6 +17,8 @@
 52.63.9.173 #trends.revcontent.com
 
 52.63.205.252 #trends.revcontent.com
+
+52.73.182.32 #ad.360yield.com
 
 52.200.228.38 #trends.revcontent.com
 
@@ -80,6 +84,8 @@
 74.125.207.157 #stats.g.doubleclick.net
 
 103.59.77.71 #cas.criteo.com
+
+103.243.221.75 #ib.adnxs.com
 
 103.243.222.0/24 #103.243.222.1-103.243.222.254
 #103.243.222.7 #m.adnxs.com
@@ -156,6 +162,7 @@
 216.58.196.34 #pagead2.googlesyndication.com #partner.googleadservices.com
 216.58.196.38 #ad.doubleclick.net
 216.58.196.66 #pagead2.googlesyndication.com #googleads.g.doubleclick.net
+216.58.196.70 #ad.doubleclick.net
 216.58.196.194 #pagead2.googlesyndication.com #securepubads.g.doubleclick.net #googleads.g.doubleclick.net
 216.58.196.198 #ad.doubleclick.net
 
