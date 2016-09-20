@@ -117,6 +117,7 @@
 
 118.214.92.168 #cdn.taboola.com
 
+125.252.232.64 #secure-ds.serving-sys.com
 125.252.232.136 #cdn.taboola.com
 
 125.252.235.213 #yt.moatads.com
