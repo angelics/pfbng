@@ -6,6 +6,7 @@
 13.107.4.50 #wsus
 65.54.226.150 #msdn.microsoft.com
 65.54.226.151 #technet
+65.55.138.186 #win7update
 68.232.45.201 #microsoft.com technet.microsoft.com download
 103.6.196.152 #power2.mschosting.com
 104.28.4.29 #pogodev.org
@@ -23,6 +24,7 @@
 118.214.92.114 #download.microsoft.com
 118.215.103.19 #download.microsoft.com
 134.170.51.247 #win7update
+134.170.58.123 #win7update
 134.170.165.251 #win7update
 134.170.165.253 #win7update
 178.162.199.80 #mydigitallife.info
