@@ -142,6 +142,9 @@
 172.217.26.34 #pagead2.googlesyndication.com #googleads.g.doubleclick.net #googleads.g.doubleclick.net
 172.217.26.66 #pagead2.googlesyndication.com
 
+172.217.27.2 #pubads.g.doubleclick.net
+172.217.27.6 #ad.doubleclick.net
+
 178.250.2.74 #static.criteo.net 
 
 182.161.72.66 #cat.hk.as.criteo.com
