@@ -2,5 +2,7 @@
 360.com
 360safe.com
 qhmsg.com
+res.qhcdn.com
 res.qhupdate.com
 qhimg.com
+www.360kan.com
