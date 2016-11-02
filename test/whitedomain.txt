@@ -12,3 +12,8 @@ mydigitallife.info
 definitionupdates.microsoft.com
 safer-networking.org
 gverswijvel.wordpress.com
+co2.activation-v2.sls.microsoft.com
+c.kakaku.com
+adf.ly
+nirsoft.net
+majorgeeks.com
