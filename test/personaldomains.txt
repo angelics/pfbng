@@ -6,6 +6,10 @@ res.qhcdn.com
 res.qhupdate.com
 qhimg.com
 www.360kan.com
+config.znyshurufa.com
+fs.fun.tv
+vasd.fun.tv
+vas.fun.tv
 #malwarebytesblog
 adbreak.info
 adsads.info
