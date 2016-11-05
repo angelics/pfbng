@@ -10,6 +10,8 @@ config.znyshurufa.com
 fs.fun.tv
 vasd.fun.tv
 vas.fun.tv
+tjv1.znyshurufa.com
+tj.znyshurufa.com
 #malwarebytesblog
 adbreak.info
 adsads.info
