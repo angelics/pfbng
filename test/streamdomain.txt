@@ -8,5 +8,6 @@ video-edge-7ea2f4.hkg01.hls.ttvnw.net
 video-edge-7563ec.hkg01.hls.ttvnw.net
 video-edge-7cbdcc.hkg01.hls.ttvnw.net
 video-edge-7e9324.hkg01.hls.ttvnw.net
+video-edge-7dbce0.hkg01.hls.ttvnw.net
 video.fkul4-1.fna.fbcdn.net
 video-kul1-1.xx.fbcdn.net
