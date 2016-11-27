@@ -108,3 +108,4 @@ pre.footprintpredict.com
 vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 tile-service.weather.microsoft.com
+cdn.content.prod.cms.msn.com
