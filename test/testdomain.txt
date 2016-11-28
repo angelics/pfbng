@@ -111,3 +111,4 @@ tile-service.weather.microsoft.com
 cdn.content.prod.cms.msn.com
 7.tlu.dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com
+img.stb.s-msn.com
