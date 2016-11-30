@@ -27,7 +27,6 @@ match.adsrvr.org
 m.adnxs.com
 
 n56adshostnet.com
-n56adshostney.com
 na.ads.yahoo.com
 
 pubads.g.doubleclick.net
@@ -49,6 +48,7 @@ secure-ds.serving-sys.com
 serve.revcontent.com
 
 track.adform.net
+track.frwdx.com
 trends.revcontent.com
 
 www.googletagservices.com
