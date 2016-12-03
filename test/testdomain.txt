@@ -86,8 +86,8 @@ s.gateway.messenger.live.com
 secure.adnxs.com
 sO.2mdn.net
 ui.skype.com
-www.msftncsi.com
-msftncsi.com
+#www.msftncsi.com
+#msftncsi.com
 view.atdmt.com
 msnbot-65-55-108-23.search.msn.com
 settings-win.data.microsoft.com
