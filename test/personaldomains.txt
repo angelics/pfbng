@@ -15,6 +15,13 @@ appuse.sj.91.com
 wps.cn
 dl.op.wpscdn.cn
 iqiyi.com
+res.qhsetup.com
+gieap.com
+kencgj.com
+flahswl.com
+fbvzij.com
+zxdmf.com
+pjjop.com
 #malwarebytesblog
 adbreak.info
 adsads.info
