@@ -175,5 +175,7 @@ wideads.info
 wildwildmedia.info
 yoursbanner.info
 zorroads.info
+#
+spcoptimizer.com
 #mbamkey
 keystone.mwbsys.com
