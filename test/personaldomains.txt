@@ -24,6 +24,8 @@ zxdmf.com
 pjjop.com
 pdata.video.qiyi.com
 msg.71.am
+sync.malwareprotectionlive.com
+cloud.malwareprotectionlive.com
 #malwarebytesblog
 adbreak.info
 adsads.info
