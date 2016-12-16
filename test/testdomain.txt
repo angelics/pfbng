@@ -127,6 +127,5 @@ s0.2mdn.net
 settings.data.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
-telecommand.telemetry.microsoft.com.nsat­c.net
 v10.vortex-win.data.microsoft.com
 win10.ipv6.microsoft.com
