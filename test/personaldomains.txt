@@ -40,6 +40,8 @@ s.360safe.com
 tconf2.uk.cloud.360safe.com
 tconf.uk.cloud.360safe.com
 iup.360safe.com
+vq61355.com
+sdup.update.360safe.com
 #malwarebytesblog
 adbreak.info
 adsads.info
