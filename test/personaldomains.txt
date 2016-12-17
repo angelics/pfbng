@@ -24,6 +24,9 @@ zxdmf.com
 pjjop.com
 pdata.video.qiyi.com
 msg.71.am
+pan.baidu.com
+update.pan.baidu.com
+nj.t.bcsp2p.baidu.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
