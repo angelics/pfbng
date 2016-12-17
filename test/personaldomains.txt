@@ -33,9 +33,6 @@ rq.wh.cmcm.com
 data.bilibili.com
 ws.acgvideo.com
 app.sjk.ijinshan.com
-#malwareprotectionlive
-sync.malwareprotectionlive.com
-cloud.malwareprotectionlive.com
 s.360safe.com
 tconf2.uk.cloud.360safe.com
 tconf.uk.cloud.360safe.com
@@ -44,6 +41,17 @@ vq61355.com
 sdup.update.360safe.com
 download.pchome.net
 down.it168.com
+cu001.sjk.ijinshan.com
+app.sjk.ijinshan.com
+interface.bilibili.com
+static.hdslb.com
+comment.bilibili.com
+i0.hdslb.com
+i2.hdslb.com
+ws.acgvideo.com
+#malwareprotectionlive
+sync.malwareprotectionlive.com
+cloud.malwareprotectionlive.com
 #malwarebytesblog
 adbreak.info
 adsads.info
