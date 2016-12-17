@@ -42,6 +42,8 @@ tconf.uk.cloud.360safe.com
 iup.360safe.com
 vq61355.com
 sdup.update.360safe.com
+download.pchome.net
+down.it168.com
 #malwarebytesblog
 adbreak.info
 adsads.info
