@@ -52,6 +52,7 @@ ws.acgvideo.com
 get.sogou.com
 config.pinyin.sogou.com
 ping.pinyin.sogou.com
+input.shouji.sogou.com
 p3p.sogou.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
