@@ -54,6 +54,9 @@ config.pinyin.sogou.com
 ping.pinyin.sogou.com
 input.shouji.sogou.com
 p3p.sogou.com
+config.zhushou.sogou.com
+info.pinyin.sogou.com
+ime.sogou.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
