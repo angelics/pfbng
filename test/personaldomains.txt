@@ -60,7 +60,7 @@ ime.sogou.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
-#malwarebytesblog
+#blog.malwarebytes.com/cybercrime/exploits/2016/11/the-hookads-malvertising-campaign/
 adbreak.info
 adsads.info
 adsgodzilla.info
@@ -208,7 +208,13 @@ wideads.info
 wildwildmedia.info
 yoursbanner.info
 zorroads.info
-#
+#blog.malwarebytes.com/101/mac-the-basics/2017/01/tech-support-scam-page-attempts-denial-of-service-via-mail-app/
+safari-get.com
+safari-get.net
+safari-serverhost.com
+safari-serverhost.net
+#blog.malwarebytes.com/cybercrime/2016/12/a-closer-look-at-a-tech-support-screen-locker/
 spcoptimizer.com
+tempuri.org
 #mbamkey
 keystone.mwbsys.com
