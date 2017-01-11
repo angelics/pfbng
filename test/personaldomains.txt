@@ -4556,6 +4556,22 @@ empowernetworkads.com
 149.202.164.86
 158.69.87.196
 158.69.86.203
+#blog.malwarebytes.com/cybercrime/2017/01/clickjacking-campaign-abuses-google-adsense-avoids-ad-fraud-bots/
+stockwebhosting.com
+doctorwebhosting.com
+triwebhosting.com
+webhostingfashion.com
+justhappymarriage.com
+myamericansofa.com
+instaautohire.com
+bugcurb.com
+bestautotariff.com
+pestdomination.com
+pleasedwedding.com
+nicewashing.com
+theusaappliance.com
+topcaraccidentals.com
+perfectpurification.com
 #yhosts 690ab41
 #acdsee
 acdid.acdsystems.com
