@@ -62,6 +62,7 @@ sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
 plugin.xl7.xunlei.com
 xl7xml.client.xunlei.com
+tp.client.xunlei.com
 qboota.f.360.cn
 tconf2.f.360.cn
 s.f.360.cn
