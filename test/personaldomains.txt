@@ -60,6 +60,12 @@ ime.sogou.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
+plugin.xl7.xunlei.com
+xl7xml.client.xunlei.com
+qboota.f.360.cn
+tconf2.f.360.cn
+s.f.360.cn
+s.conf.wsm.360.cn
 #yhosts 690ab41
 #down
 #down-2345
