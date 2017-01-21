@@ -4578,6 +4578,9 @@ nicewashing.com
 theusaappliance.com
 topcaraccidentals.com
 perfectpurification.com
+#blog.malwarebytes.com/threat-analysis/2017/01/new-mac-backdoor-using-antiquated-code/
+99.153.29.240
+eidk.hopto.org
 #yhosts 690ab41
 #acdsee
 acdid.acdsystems.com
