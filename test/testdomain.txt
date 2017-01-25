@@ -109,6 +109,7 @@ vortex-bn2.metron.live.com.nsatc.net
 vortex-cy2.metron.live.com.nsatc.net
 tile-service.weather.microsoft.com
 cdn.content.prod.cms.msn.com
+7.dl.delivery.mp.microsoft.com
 7.tlu.dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com
 1d.tlu.dl.delivery.mp.microsoft.com
