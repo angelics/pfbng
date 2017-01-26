@@ -287,6 +287,11 @@ perfectpurification.com
 #blog.malwarebytes.com/threat-analysis/2017/01/new-mac-backdoor-using-antiquated-code/
 99.153.29.240
 eidk.hopto.org
+#blog.malwarebytes.com/cybercrime/2017/01/avoid-these-free-minecraft-garrys-mod-adverts/
+kidsvideogame.com
+thuggamerz.com
+bubblegif.com
+gameshaunt.com
 #yhosts 690ab41
 #acdsee
 acdid.acdsystems.com
