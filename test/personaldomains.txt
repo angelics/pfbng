@@ -67,6 +67,14 @@ qboota.f.360.cn
 tconf2.f.360.cn
 s.f.360.cn
 s.conf.wsm.360.cn
+bp.conf.f.360.cn
+bp.conf2.f.360.cn
+s.360.cn
+vconf.f.360.cn
+res.qhmsg.com
+updatem.360safe.com
+softm.update.360safe.com
+sconf.f.360.cn
 rp.yefeneri2.com
 os.yefeneri2.com
 img.yefeneri2.com
