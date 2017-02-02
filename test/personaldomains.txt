@@ -75,6 +75,7 @@ res.qhmsg.com
 updatem.360safe.com
 softm.update.360safe.com
 sconf.f.360.cn
+n3.jomo.qianqian.jomodns.com
 rp.yefeneri2.com
 os.yefeneri2.com
 img.yefeneri2.com
