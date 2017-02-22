@@ -522,6 +522,10 @@ gameshaunt.com
 proinstall-download.com
 report-download.com
 secure.fileldr08.com
+#blog.malwarebytes.com/threat-analysis/2017/02/rogue-chrome-extension-pushes-tech-support-scam/
+amserver.info
+qma0.2dn.xyz
+microsoft-official-warning.info
 #yhosts 690ab41
 #acdsee
 acdid.acdsystems.com
