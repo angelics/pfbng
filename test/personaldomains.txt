@@ -73,8 +73,10 @@ tp.client.xunlei.com
 n3.jomo.qianqian.jomodns.com
 rp.yefeneri2.com
 os.yefeneri2.com
+os2.yefeneri2.com
 img.yefeneri2.com
 cdneu.yefeneri2.com
+cdnus.yefeneri2.com
 gads.pubmatic.com
 ads.pubmatic.com
 haso.pubmatic.com
