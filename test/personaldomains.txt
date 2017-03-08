@@ -8,12 +8,14 @@ bp.conf2.f.360.cn
 s.360.cn
 vconf.f.360.cn
 sconf.f.360.cn
+intf.zsall.mobilem.360.cn
 360.com
 360safe.com
 s.360safe.com
 tconf2.uk.cloud.360safe.com
 tconf.uk.cloud.360safe.com
 iup.360safe.com
+update.360safe.com
 sdup.update.360safe.com
 updatem.360safe.com
 softm.update.360safe.com
