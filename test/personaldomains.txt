@@ -554,5 +554,9 @@ airlinescustomer.support
 peletycmc.sk
 #blog.malwarebytes.com/cybercrime/2017/03/drafta-multi-purpose-fake-online-scanner/
 systemcheck.club
+#bleepingcomputer.com/news/security/new-cerber-ransomware-variant-released-that-keeps-original-filename/
+87.96.148.0/27
+87.97.148.0/27
+87.98.148.0/22
 #malwarebytes
 keystone.mwbsys.com
