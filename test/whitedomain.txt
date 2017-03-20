@@ -17,3 +17,19 @@ c.kakaku.com
 adf.ly
 nirsoft.net
 majorgeeks.com
+youtube.com
+s.youtube.com
+s2.youtube.com
+ytimg.com
+dota2.vpgame.com
+.storage.googleapis.com
+.storage.l.googleusercontent.com # CNAME for (storage.googleapis.com)
+.spclient.wg.spotify.com
+.weblb-wg.gslb.spotify.com # CNAME for (spclient.wg.spotify.com)
+.gdlp01.c-wss.com # canon download
+.gdlp01.c-wss.com.edgesuite.net # CNAME for (gdlp01.c-wss.com)
+.a1584.g.akamai.net # CNAME for (gdlp01.c-wss.com)
+.clientconfig.passport.net # skype
+.auth.msa.akadns.net # CNAME for (clientconfig.passport.net)
+.auth.gfx.ms.edgekey.net # CNAME for (clientconfig.passport.net)
+.e8318.g.akamaiedge.net # CNAME for (clientconfig.passport.net)
