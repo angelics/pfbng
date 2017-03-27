@@ -1,4 +1,5 @@
 360.cn
+hao.360.cn
 qboota.f.360.cn
 tconf2.f.360.cn
 s.f.360.cn
