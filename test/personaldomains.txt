@@ -12,6 +12,7 @@ vconf.f.360.cn
 sconf.f.360.cn
 stat.sd.360.cn
 intf.zsall.mobilem.360.cn
+cdn.weather.hao.360.cn
 360.com
 360safe.com
 s.360safe.com
