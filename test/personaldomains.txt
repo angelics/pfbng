@@ -10,6 +10,7 @@ bp.conf2.f.360.cn
 s.360.cn
 vconf.f.360.cn
 sconf.f.360.cn
+stat.sd.360.cn
 intf.zsall.mobilem.360.cn
 360.com
 360safe.com
