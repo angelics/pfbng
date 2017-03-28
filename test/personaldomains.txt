@@ -4,6 +4,7 @@ qboota.f.360.cn
 tconf.f.360.cn
 tconf2.f.360.cn
 s.f.360.cn
+conf.wsm.360.cn
 s.conf.wsm.360.cn
 bp.conf.f.360.cn
 bp.conf2.f.360.cn
