@@ -574,6 +574,7 @@ mail.spa.gov.sa/ews/exchange/exchange.asmx
 webmail.ecra/ews/exchange/exchange.asmx
 62.149.118.67
 85.194.112.9
+93.184.220.29
 #blog.malwarebytes.com/cybercrime/2017/03/advanis-tech-support-screenlocker/
 getfixpc.net
 installreports.com
