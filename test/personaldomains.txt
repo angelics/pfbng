@@ -85,6 +85,8 @@ xl7xml.client.xunlei.com
 tp.client.xunlei.com
 n3.jomo.qianqian.jomodns.com
 www.amisites.com
+start.myplaycity.com
+www.istartsurf.com
 rp.yefeneri2.com
 os.yefeneri2.com
 os2.yefeneri2.com
