@@ -602,10 +602,18 @@ securecheckapp.com
 52.29.11.13
 104.31.67.144
 104.28.17.3
+#www.malware-traffic-analysis.net/2017/04/06/index2.html
+www.trackingsharks.com
+fast.app-garden.info
+stat3.s76.r53.com.ua
+109.234.36.165
+31.41.216.90
+31.41.217.90
+195.248.235.240
+195.248.235.241
 #www.malware-traffic-analysis.net/2017/04/07/index.html
-www.trackingsharks.com - Compromised website (EITest campaign)
-www.everythingcebu.com - Compromised website (EITest campaign)
-www.mojdehstudio.ir - Compromised website (EITest campaign)
+www.everythingcebu.com
+www.mojdehstudio.ir
 www.lannexedumoulin.be
 clinicalpsychology.psiedu.ubbcluj.ro
 torifyme.com
@@ -616,11 +624,6 @@ stat6.s76.r53.com.ua
 176.223.207.41
 186.2.161.51
 185.159.128.247
-185.159.128.247
-31.41.216.90
-31.41.217.90
 148.251.13.83
-195.248.235.240
-195.248.235.241
 #malwarebytes
 keystone.mwbsys.com
