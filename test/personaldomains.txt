@@ -754,5 +754,17 @@ uploadrobot.download/frame.php
 46.101.101.142
 159.203.185.4
 46.166.185.57
+#www.malware-traffic-analysis.net/2017/04/13/index.html
+185.58.225.60
+microfitsecuretest.info
+217.23.1.61
+microfitsecuretest.trade
+185.158.112.49
+#www.malware-traffic-analysis.net/2017/04/14/index.html
+31.7.63.186
+vicals.pw
+188.166.27.60
+86.106.102.17
+alooki.accountant
 #malwarebytes
 keystone.mwbsys.com
