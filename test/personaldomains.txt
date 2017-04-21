@@ -935,5 +935,28 @@ jeanevermore.com
 175.33.53.77
 190.12.10.94
 196.42.9.214
+#30 20 May 2017, 90 19 July 2017, 180 17 October 2017
+#www.malware-traffic-analysis.net/2017/04/20/index.html
+207.62.63.149
+clinicalpsychology.psiedu.ubbcluj.ro
+186.2.161.51
+torifyme.com
+92.53.119.52
+saywitzproperties.com
+52.90.24.205
+unisdr.top
+trackerhost.us
+gerber.gdn
+#30 20 May 2017, 90 19 July 2017, 180 17 October 2017
+#www.malware-traffic-analysis.net/2017/04/20/index2.html
+47.91.76.28
+badwerkad.top
+resettinfgd1991.pw
+resettinfgd1991.club
+94.21.172.0/27
+94.22.172.0/27
+94.23.172.0/22
+193.169.135.155
+p27dokhpz2n7nvgr.1jpb8w.top
 #malwarebytes
 keystone.mwbsys.com
