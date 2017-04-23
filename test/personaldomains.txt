@@ -1025,5 +1025,22 @@ bitmixc.ml
 matthi.tk
 sally33.cf
 siri5.ml
+#30 21 May 2017, 90 20 July 2017, 180 18 October 2017
+#www.malware-traffic-analysis.net/2017/04/21/index3.html
+abcenglishclub.com
+aielloengineering.com
+aim-controls.com
+bhmech.com
+cindysplace.net
+clayhero.com
+dont.pl
+ercelectronics.com
+maheriscriverius.nl
+rootcellar.us
+ros-jurist.ru
+sgph.comcastbiz.net
+sherwoodbusiness.com
+uwdesign.com.br
+80.85.158.212
 #malwarebytes
 keystone.mwbsys.com
