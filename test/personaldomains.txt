@@ -1105,5 +1105,19 @@ smulpapentocht.be
 94.198.98.20
 119.81.249.228
 46.211.17.153
+#30 26 May 2016,90 25 July 2017, 180 23 October 2017
+#www.malware-traffic-analysis.net/2017/04/26/index2.html
+217.23.152.16
+IPACUNIV.COM
+LORIBYDESYGN.NET
+ROYALEAGLELODGE.COM
+sparxdynamix.co.uk
+withedtwilrit.ru
+212.116.113.108
+thenwisedsup.com
+134.0.11.119
+ciceromc.com
+95.46.98.132
+kparxehisfup.com
 #malwarebytes
 keystone.mwbsys.com
