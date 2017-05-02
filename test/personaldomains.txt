@@ -1130,5 +1130,16 @@ wowaskopoq.top
 94.23.172.0/22
 23.249.163.4
 p27dokhpz2n7nvgr.1kyjw7.top
+#30 31 May 2016,90 30 July 2017, 180 28 October 2017
+#www.malware-traffic-analysis.net/2017/05/01/index.html
+5.101.77.80
+dhvoilfieldservices.com
+karmafishing.biz
+212.116.113.108
+morolrecto.com
+69.195.100.157
+tulsawebconnect.com
+85.17.82.119
+tertdownugand.com
 #malwarebytes
 keystone.mwbsys.com
