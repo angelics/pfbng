@@ -482,10 +482,7 @@ www.mdfond.ru
 185.44.105.92
 #blog.malwarebytes.com/threat-analysis/2017/04/sundown-ek-gone-missing-terror-ek-flavours-seen-in-active-drive-by-campaigns/
 sweetwine.club
-uploadrobot.download/frame.php
-46.101.101.142
-159.203.185.4
-46.166.185.57
+uploadrobot.download
 #www.malware-traffic-analysis.net/2017/04/13/index.html
 185.58.225.60
 microfitsecuretest.info
@@ -995,5 +992,18 @@ sell.northwestfloridacannabis.online
 top.northwestfloridacannabis.org
 95.215.108.213
 mudsaoojbjijj999.com
+#10 June 2017, 9 August 2017, 7 November 2017
+#www.malware-traffic-analysis.net/2017/05/11/index2.html
+demirbasetiketi.net
+gokcentunc.com
+ikincielesyaevi.com
+ronakco.com
+samenloopvanomstandigheden.nl
+steuer-wirtschaft-recht.de
+50.87.230.180
+50.207.132.72
+69.195.110.206
+173.165.17.10
+195.154.77.231
 #malwarebytes
 keystone.mwbsys.com
