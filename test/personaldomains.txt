@@ -1005,5 +1005,39 @@ steuer-wirtschaft-recht.de
 69.195.110.206
 173.165.17.10
 195.154.77.231
+::11 June 2017, 10 August 2017, 8 November 2017
+#www.malware-traffic-analysis.net/2017/05/12/index.html
+47.91.89.227
+unityqueryzouneasty.pw
+47.91.93.208
+momendfakol.top
+94.21.172.0/27
+94.22.172.0/27
+94.23.172.0/22
+185.117.72.230
+p27dokhpz2n7nvgr.1mfakx.top
+#11 June 2017, 10 August 2017, 8 November 2017
+#www.malware-traffic-analysis.net/2017/05/12/index2.html
+185.154.52.254
+vsa.revolution-inspire-water.com
+sas.siliconsantamonica.com
+xzx.soulbatical.co
+185.154.53.7
+add.venicebeachsurflodge.com
+top.5nerds.com
+#11 June 2017, 10 August 2017, 8 November 2017
+#www.malware-traffic-analysis.net/2017/05/12/index3.html
+eduartfun.pl
+followthecamera.com
+gokcentunc.com
+myo.net.au
+ns.patricklepinay.com
+ronakco.com
+steuer-wirtschaft-recht.de
+vasterasstadsmission.se
+101.69.113.26
+104.151.122.223
+180.234.205.38
+208.106.173.218
 #malwarebytes
 keystone.mwbsys.com
