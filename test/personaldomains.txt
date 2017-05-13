@@ -130,15 +130,6 @@ istart.webssearches.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
-#blacklist
-#tcp 80
-31.41.216.90
-195.248.235.240
-159.203.185.4
-212.116.113.108
-47.91.76.28
-176.223.207.41
-186.2.161.51
 #blog.malwarebytes.com/threat-analysis/2017/02/rogue-chrome-extension-pushes-tech-support-scam/
 amserver.info
 qma0.2dn.xyz
