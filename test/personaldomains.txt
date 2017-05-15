@@ -123,6 +123,9 @@ istart.webssearches.com
 pq.f.360.cn
 vcheck.f.360.cn
 sd.p.360.cn
+c.skconf.f.360.cn
+netmon.stat.360safe.com
+bbs.360.cn
 42.236.9.57
 42.236.36.241
 42.236.37.12
@@ -149,6 +152,12 @@ sd.p.360.cn
 221.181.72.103
 221.181.72.250
 221.228.204.36
+220.181.131.231
+123.125.81.118
+123.125.81.117
+42.236.37.7
+180.163.251.159
+221.181.72.99
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
