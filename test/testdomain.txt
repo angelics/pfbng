@@ -112,6 +112,7 @@ cdn.content.prod.cms.msn.com
 7.dl.delivery.mp.microsoft.com
 7.tlu.dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com
+3.tlu.dl.delivery.mp.microsoft.com
 1d.tlu.dl.delivery.mp.microsoft.com
 img.stb.s-msn.com
 candycrushsoda.king.com
