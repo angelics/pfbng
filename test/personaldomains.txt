@@ -553,12 +553,8 @@ vicals.pw
 86.106.102.17
 alooki.accountant
 #www.malware-traffic-analysis.net/2017/04/15/index.html
-186.2.161.51
 torifyme.com
-217.23.1.61
 microfitsecuretest.us
-185.158.112.49
-51.141.33.47
 unisdr.top
 trackerhost.us
 #www.malware-traffic-analysis.net/2017/04/16/index.html
@@ -1096,5 +1092,18 @@ vasterasstadsmission.se
 104.151.122.223
 180.234.205.38
 208.106.173.218
+#14 June 2017, 13 August 2017, 11 November 2017
+#www.malware-traffic-analysis.net/2017/05/15/index.html
+203.170.192.184
+urachart.com
+185.2.31.189
+fotografikum.com
+185.109.146.224
+5hdnnd74fffrottd.com
+byydei74fg43ff4f.net
+sjffonrvcik45bd.info
+47.91.107.213
+h552terriddows.com
+rktazuzi7hbln7sy.onion
 #malwarebytes
 keystone.mwbsys.com
