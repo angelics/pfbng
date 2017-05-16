@@ -131,6 +131,7 @@ cx.soft.360.cn
 relate.apc.360.cn
 dl2.360safe.com
 conf.f.360.cn
+conna.gj.qq.com
 42.236.9.57
 42.236.36.241
 42.236.37.7
