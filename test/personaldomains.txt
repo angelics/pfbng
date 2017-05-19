@@ -575,13 +575,9 @@ statcs.s76.r53.com.ua
 statcs.s76.r53.com.ua
 #30 18 May 2017, 90 17 July 2017, 180 15 October 2017
 #www.malware-traffic-analysis.net/2017/04/18/index.html
-207.62.63.149
 elearning.lamission.edu
-186.2.161.51
 torifyme.com
-92.53.104.104
 new.5efinance.com
-51.141.33.47
 unisdr.top
 trackerhost.us
 gerber.gdn
@@ -678,20 +674,7 @@ steve-b.com
 thefatdude.co.uk
 twotime.comcastbiz.net
 webrus.net
-216.117.150.240
 jeanevermore.com
-216.177.132.93
-203.206.230.127
-2.220.229.217
-66.214.155.189
-86.26.134.210
-92.29.196.119
-104.162.69.154
-109.170.219.19
-154.0.173.188
-175.33.53.77
-190.12.10.94
-196.42.9.214
 #30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #www.malware-traffic-analysis.net/2017/04/20/index.html
 207.62.63.149
@@ -1142,5 +1125,13 @@ ormolesit.com
 yusufdemirci.com.tr
 81.177.27.113
 oneharhaprow.com
+#16 June 2017, 15 August 2017, 13 November 2017
+#www.malware-traffic-analysis.net/2017/05/17/index.html
+173.255.128.189
+www.intothebluefishing.com
+176.223.207.41
+clinicalpsychology.psiedu.ubbcluj.ro
+190.115.19.190
+spora.biz
 #malwarebytes
 keystone.mwbsys.com
