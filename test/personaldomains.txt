@@ -1133,5 +1133,10 @@ www.intothebluefishing.com
 clinicalpsychology.psiedu.ubbcluj.ro
 190.115.19.190
 spora.biz
+#28 May 2017, 27 July 2017, 25 October 2017
+#www.broadanalysis.com/2017/04/28/rig-exploit-kit-via-eitest-campaign-delivers-mole-ransomware/
+188.225.73.230
+add.thebestofwichitadirectory.com
+194.165.16.140
 #malwarebytes
 keystone.mwbsys.com
