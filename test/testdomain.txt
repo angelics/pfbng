@@ -134,3 +134,4 @@ win10.ipv6.microsoft.com
 2.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 1d.dl.delivery.mp.microsoft.com
+3.dl.delivery.mp.microsoft.com
