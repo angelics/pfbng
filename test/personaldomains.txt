@@ -198,10 +198,6 @@ conna.gj.qq.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
-#blog.malwarebytes.com/threat-analysis/2017/02/rogue-chrome-extension-pushes-tech-support-scam/
-amserver.info
-qma0.2dn.xyz
-microsoft-official-warning.info
 #due Thursday, 1 June 2017
 #blog.malwarebytes.com/threat-analysis/2017/03/free-antivirus-coupon-leads-tech-support-scam/
 123care.co
@@ -677,26 +673,17 @@ webrus.net
 jeanevermore.com
 #30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #www.malware-traffic-analysis.net/2017/04/20/index.html
-207.62.63.149
 clinicalpsychology.psiedu.ubbcluj.ro
-186.2.161.51
 torifyme.com
-92.53.119.52
 saywitzproperties.com
-52.90.24.205
 unisdr.top
 trackerhost.us
 gerber.gdn
 #30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #www.malware-traffic-analysis.net/2017/04/20/index2.html
-47.91.76.28
 badwerkad.top
 resettinfgd1991.pw
 resettinfgd1991.club
-94.21.172.0/27
-94.22.172.0/27
-94.23.172.0/22
-193.169.135.155
 p27dokhpz2n7nvgr.1jpb8w.top
 #30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #blog.malwarebytes.com/threat-analysis/2017/04/binary-options-malvertising-campaign-drops-isfb-banking-trojan/
@@ -723,13 +710,6 @@ financesoptionbinarys.com
 financesoptionsbinary.com
 financesoptionsbinarys.com
 opteckoption.com
-217.23.1.65
-217.23.1.66
-217.23.1.67
-217.23.1.104
-217.23.1.130
-217.23.1.187
-217.23.1.200
 basefont.ul-8.moskvi.ru
 p.figcaption-7.nfl.si
 command.bdo-3.mirifictour.ro
@@ -740,7 +720,6 @@ input.noframes-8.narovlya.ru
 col.output-9.nfl.si
 meter.em-8.narovlya.ru
 applet.x-3.nomundodapaula.com.br
-158.69.176.173
 ip-addr.es
 aeeeeeeeeeeeeeeeeeeeeeeeeeeeva.onion
 #30 21 May 2017,90 20 July 2017,180 18 October 2017
@@ -781,19 +760,13 @@ ros-jurist.ru
 sgph.comcastbiz.net
 sherwoodbusiness.com
 uwdesign.com.br
-80.85.158.212
 ::30 24 May 2016,90 23 July 2017, 180 21 October 2017
 #www.malware-traffic-analysis.net/2017/04/24/index.html
-47.91.77.245
 dintandnesin.ru
 pardtosinsing.ru
-129.215.32.13
 homepages.inf.ed.ac.uk
-212.116.113.108
 howrowthettof.com
-213.186.33.19
 www.casalparis.cat
-185.173.178.5
 ropretratspar.com
 #30 25 May 2016,90 24 July 2017, 180 22 October 2017
 #www.malware-traffic-analysis.net/2017/04/25/index.html
@@ -1138,5 +1111,62 @@ spora.biz
 188.225.73.230
 add.thebestofwichitadirectory.com
 194.165.16.140
+#::21 June 2017, 20 August 2017, 18 November 2017
+www.malware-traffic-analysis.net/2017/05/22/index.html
+brotexxshferrogd.net
+datadunyasi.com
+dewatch.de
+electua.org
+essensworld.cz
+everstruct.com.au
+f1toh1.com
+herrossoidffr6644qa.top
+joesrv.com
+knowyourmarketing.com
+pattumalamatha.com
+primary-ls.ru
+tayangfood.com
+tipografia.by
+way2lab.com
+217.29.63.199
+trollitrancessions.net
+rktazuzi7hbln7sy.onion
+#21 June 2017, 20 August 2017, 18 November 2017
+#www.malware-traffic-analysis.net/2017/05/22/index.html
+brotexxshferrogd.net
+datadunyasi.com
+dewatch.de
+electua.org
+essensworld.cz
+everstruct.com.au
+f1toh1.com
+herrossoidffr6644qa.top
+joesrv.com
+knowyourmarketing.com
+pattumalamatha.com
+primary-ls.ru
+tayangfood.com
+tipografia.by
+way2lab.com
+217.29.63.199
+trollitrancessions.net
+rktazuzi7hbln7sy.onion
+#23 June 2017, 22 August 2017, 20 November 2017
+#www.malware-traffic-analysis.net/2017/05/24/index.html
+david-faber.de
+elateplaza.com
+electron-trade.ru
+fjjslyw.com
+hr991.com
+jinyuxuan.de
+khaosoklake.com
+minnessotaswordfishh.com
+oliverkuo.com.au
+pcflame.com.au
+tdtuusula.com
+williams-fitness.com
+185.109.147.122
+maximusstafastoriesticks.info
+rktazuzi7hbln7sy.onion
 #malwarebytes
 keystone.mwbsys.com
