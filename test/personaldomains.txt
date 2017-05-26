@@ -1111,8 +1111,8 @@ spora.biz
 188.225.73.230
 add.thebestofwichitadirectory.com
 194.165.16.140
-#::21 June 2017, 20 August 2017, 18 November 2017
-www.malware-traffic-analysis.net/2017/05/22/index.html
+::21 June 2017, 20 August 2017, 18 November 2017
+#www.malware-traffic-analysis.net/2017/05/22/index.html
 brotexxshferrogd.net
 datadunyasi.com
 dewatch.de
