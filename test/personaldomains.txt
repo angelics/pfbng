@@ -760,7 +760,7 @@ ros-jurist.ru
 sgph.comcastbiz.net
 sherwoodbusiness.com
 uwdesign.com.br
-::30 24 May 2016,90 23 July 2017, 180 21 October 2017
+#30 24 May 2016,90 23 July 2017, 180 21 October 2017
 #www.malware-traffic-analysis.net/2017/04/24/index.html
 dintandnesin.ru
 pardtosinsing.ru
@@ -772,8 +772,6 @@ ropretratspar.com
 #www.malware-traffic-analysis.net/2017/04/25/index.html
 hurtmehard.net
 end.chaggama.com
-188.225.72.88
-37.72.175.221
 #30 26 May 2016,90 25 July 2017, 180 23 October 2017
 #www.malware-traffic-analysis.net/2017/04/26/index.html
 www.apui95.org
@@ -806,7 +804,6 @@ www.spaziosportsrl.com
 www.teapotcollector.org
 www.trikolkysmile.cz
 www.uiccoin.org
-185.189.14.112
 servisedelivery.com
 statusdelivery.com
 atrium-nieruchomosci.pl
@@ -814,22 +811,15 @@ js-electronics.be
 lecamorariu.ro
 protectie-electromagnetica.ro
 smulpapentocht.be
-94.198.98.20
-119.81.249.228
-46.211.17.153
 #30 26 May 2016,90 25 July 2017, 180 23 October 2017
 #www.malware-traffic-analysis.net/2017/04/26/index2.html
-217.23.152.16
 IPACUNIV.COM
 LORIBYDESYGN.NET
 ROYALEAGLELODGE.COM
 sparxdynamix.co.uk
 withedtwilrit.ru
-212.116.113.108
 thenwisedsup.com
-134.0.11.119
 ciceromc.com
-95.46.98.132
 kparxehisfup.com
 #30 27 May 2016,90 26 July 2017, 180 24 October 2017
 #www.malware-traffic-analysis.net/2017/04/27/index.html
@@ -1012,7 +1002,7 @@ steuer-wirtschaft-recht.de
 69.195.110.206
 173.165.17.10
 195.154.77.231
-::11 June 2017, 10 August 2017, 8 November 2017
+#11 June 2017, 10 August 2017, 8 November 2017
 #www.malware-traffic-analysis.net/2017/05/12/index.html
 47.91.89.227
 unityqueryzouneasty.pw
@@ -1111,7 +1101,7 @@ spora.biz
 188.225.73.230
 add.thebestofwichitadirectory.com
 194.165.16.140
-::21 June 2017, 20 August 2017, 18 November 2017
+#21 June 2017, 20 August 2017, 18 November 2017
 #www.malware-traffic-analysis.net/2017/05/22/index.html
 brotexxshferrogd.net
 datadunyasi.com
@@ -1168,5 +1158,79 @@ williams-fitness.com
 185.109.147.122
 maximusstafastoriesticks.info
 rktazuzi7hbln7sy.onion
+#23 June 2017, 22 August 2017, 20 November 2017
+#www.malware-traffic-analysis.net/2017/05/24/index2.html
+better57toiuydof.net
+david-faber.de
+digital-helpdesk.com
+dogplay.co.kr
+ecoeventlogistics.com
+elateplaza.com
+minnessotaswordfishh.com
+pcflame.com.au
+tdtuusula.com
+uslugitransportowe-warszawa.pl
+198.105.244.228
+y887drossetorling.info
+rktazuzi7hbln7sy.onion
+#24 June 2017, 23 August 2017, 21 November 2017
+#www.malware-traffic-analysis.net/2017/05/25/index.html
+46.173.218.143
+homesmartinsurancegroup.com
+212.129.51.160
+fordebubut.com
+50.62.110.1
+gregoryrullo.com
+192.196.156.150
+www.homesdecoratingideas.com
+185.118.66.252
+rewningiden.com
+198.105.244.228
+kedrolhechedt.com
+dijussoda.com
+#24 June 2017, 23 August 2017, 21 November 2017
+#www.malware-traffic-analysis.net/2017/05/25/index2.html
+better57toiuydof.ne
+blackstoneconsultants.com
+derossigroup.it
+dianagaertner.com
+hunter.cz
+youtoolgrabeertorse.org
+34.225.214.20
+dorobratiohdtyszxwk.com
+rktazuzi7hbln7sy.onion
+#24 June 2017, 23 August 2017, 21 November 2017
+#www.malware-traffic-analysis.net/2017/05/25/index3.html
+104.24.116.139
+1317587423345278789.win
+91.195.102.3
+gio.aquastring.bid
+91.195.102.3
+wide.bonesboxowersa.info
+81.177.135.229
+port.preferredsurgicenter.com
+supportjy2xvvdmx.onion
+#25 June 2017, 24 August 2017, 22 November 2017
+#www.malware-traffic-analysis.net/2017/05/26/index.html
+89.223.26.202
+dhldeliverymailservice.com
+89.223.31.232
+#25 June 2017, 24 August 2017, 22 November 2017
+#www.malware-traffic-analysis.net/2017/05/26/index2.html
+104.18.37.164
+462781647864529375896239.win
+91.195.102.3
+gio.aquastring.bid
+91.195.102.3
+wide.bonesboxowersa.info
+185.154.53.83
+art.606kingsplace.com
+178.33.158.0/27
+178.33.159.0/27
+178.33.160.0/22
+104.223.87.60
+p27dokhpz2n7nvgr.1fgywm.top
+104.168.188.240
+shernagarasfmadrasah.edu.bd
 #malwarebytes
 keystone.mwbsys.com
