@@ -532,23 +532,14 @@ trans-atm.com
 tserv.su
 usawaterproofing.com
 www.mdfond.ru
-64.79.205.100
-185.25.184.214
-185.44.105.92
 #blog.malwarebytes.com/threat-analysis/2017/04/sundown-ek-gone-missing-terror-ek-flavours-seen-in-active-drive-by-campaigns/
 sweetwine.club
 uploadrobot.download
 #www.malware-traffic-analysis.net/2017/04/13/index.html
-185.58.225.60
 microfitsecuretest.info
-217.23.1.61
 microfitsecuretest.trade
-185.158.112.49
 #www.malware-traffic-analysis.net/2017/04/14/index.html
-31.7.63.186
 vicals.pw
-188.166.27.60
-86.106.102.17
 alooki.accountant
 #www.malware-traffic-analysis.net/2017/04/15/index.html
 torifyme.com
@@ -563,11 +554,8 @@ unisdr.top
 trackerhost.us
 #due 2 July 2017, 3 May 2017
 #malware-traffic-analysis.net/2017/04/03/index3.html
-46.173.214.185
 open.auctionforintros.com
-31.41.216.90
 statcs.s76.r53.com.ua
-195.248.235.240
 statcs.s76.r53.com.ua
 #30 18 May 2017, 90 17 July 2017, 180 15 October 2017
 #www.malware-traffic-analysis.net/2017/04/18/index.html
@@ -1280,5 +1268,24 @@ add.akselegance.com
 202.120.202.245
 76.8.251.242
 202.120.202.245
+#30 June 2017, 29 August 2017, 27 November 2017
+#www.malware-traffic-analysis.net/2017/05/31/index.html
+216.158.235.250
+krabithailandproperty.trade
+197.210.25.103
+patrickcrouzet5.ddns.net
+190.123.44.138
+#30 June 2017, 29 August 2017, 27 November 2017
+#www.malware-traffic-analysis.net/2017/05/31/index2.html
+185.109.147.125
+gmoempartsonline.info
+GOINTROLLIN.COM
+happyhippiemaplesyrup.com
+109.234.34.154
+lingarledhes.com
+108.167.180.12
+techtach.com
+176.99.7.225
+waratrolper.ru
 #malwarebytes
 keystone.mwbsys.com
