@@ -198,8 +198,6 @@ conna.gj.qq.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
-#blog.malwarebytes.com/cybercrime/2017/03/australians-beware-mygov-phishing-on-the-prowl/
-peletycmc.sk
 #blog.malwarebytes.com/cybercrime/2017/03/drafta-multi-purpose-fake-online-scanner/
 systemcheck.club
 #blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/new-targeted-attack-saudi-arabia-government/
@@ -832,21 +830,14 @@ myrerithad.ru
 hesoneheci.ru
 #30 2 June 2017,90 1 August 2017, 180 30 October 2017
 #www.malware-traffic-analysis.net/2017/05/04/index.html
-162.220.246.254
-195.154.72.149
 aoids03wkde38.us
 #30 2 June 2017,90 1 August 2017, 180 30 October 2017
 #www.malware-traffic-analysis.net/2017/05/04/index2.html
-47.91.78.8
 ALARISREALESTATE.COM
 LAZYJPRINTINGSERVICES.COM
-146.120.110.146
 sitcahadling.com
-86.105.215.161
 sebastianbizduna.com
-185.86.79.93
 thephahedthe.com
-137.74.176.54
 didnhelittrat.com
 #30 3 June 2017,90 2 August 2017, 180 31 October 2017
 #www.malware-traffic-analysis.net/2017/05/05/index.html
@@ -1288,5 +1279,36 @@ nyatguted.com
 janettelouden.com
 176.99.7.225
 soevenghappar.ru
+#2 July 2017, 31 August 2017, 29 November 2017
+#www.malware-traffic-analysis.net/2017/06/02/index.html
+eselink.com.my
+lanphuong.vn
+lordheals.com
+meiyizixun.com
+midiconcept.com
+mountmary.ca
+newserniggrofg.net
+orhangazitur.com
+resevesssetornument.com
+shrideva.co.in
+strassensammler.de
+systemalu.com
+yoyogi.com.au
+zvezda-k.ru
+147.32.5.111
+200.119.46.10
+203.206.230.127
+80.229.36.165
+81.170.50.252
+94.226.67.55
+185.141.25.23
+216.165.249.150
+#2 July 2017, 31 August 2017, 29 November 2017
+#www.malware-traffic-analysis.net/2017/06/02/index2.html
+81.177.165.194
+5.101.77.64
+free.crystallandis.com
+188.93.211.166
+atw82ye63ymdp.com
 #malwarebytes
 keystone.mwbsys.com
