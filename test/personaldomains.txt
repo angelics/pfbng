@@ -849,23 +849,13 @@ p27dokhpz2n7nvgr.17gvad.top
 p27dokhpz2n7nvgr.133chr.top
 #8 June 2017, 7 August 2017, 5 November 2017
 #www.malware-traffic-analysis.net/2017/05/09/index.html
-78.46.232.211
 slotdown.info
 slotdown3.info
-109.234.36.216
 free.420native.org
-209.85.144.100
-85.25.110.235
-217.118.19.171
-96.44.144.181
 b.trabiudsfaum.net
-84.218.38.200
 l.trabiudsfaum.net
-216.181.91.136
-52.173.193.166
 #8 June 2017, 7 August 2017, 5 November 2017
 #www.malware-traffic-analysis.net/2017/05/09/index2.html
-47.91.92.1
 andsihowdint.ru
 boatingflagpole.com
 godisimnot.com
@@ -877,11 +867,8 @@ partnersprojectinc.net
 precisionexposures.com
 rewthenreti.ru
 zariyamatrimony.com
-151.80.190.158
 geheppauld.com
-69.90.66.240
 codybraithwaite.com
-185.42.15.171
 wadidncise.com
 #9 June 2017, 8 August 2017, 6 November 2017
 #www.malware-traffic-analysis.net/2017/05/10/index.html
@@ -1373,5 +1360,22 @@ hedttoftsanot.ru
 retinningheg.ru
 185.75.46.134
 theburatrin.ru
+#10 July 2017, 8 September 2017, 7 December 2017
+#www.malware-traffic-analysis.net/2017/06/07/index.html
+paste.ee
+111.90.139.246
+deniumwears.xyz
+#10 July 2017, 8 September 2017, 7 December 2017
+#www.malware-traffic-analysis.net/2017/06/07/index2.html
+93.95.97.125
+fenixconnection.com
+PAMTHELANDGAL.COM
+tee2green.org
+88.214.236.156
+bettontgotbab.com
+37.152.88.6
+www.valdelomarasesores.com
+185.17.121.22
+foonlachim.ru
 #malwarebytes
 keystone.mwbsys.com
