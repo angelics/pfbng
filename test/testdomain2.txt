@@ -12,6 +12,5 @@ pagead.l.google.com
 youtube-ui.l.google.com
 pagead46.l.doubleclick.net
 www.adnxs.com
-scontent-veil-1.xx.fbcdn.net
 vcm-media.valueclick.akadns.net
 demopool02.2cnt.net
