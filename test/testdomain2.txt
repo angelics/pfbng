@@ -1,0 +1,17 @@
+ib.anycast.adnxs.com
+global.msads.net.c.footprint.net
+z-m.c10r.facebook.com
+m.anycast.adnxs.com
+scontent.xx.fbcdn.net
+scontent-vie1-1.xx.fbcdn.net
+ads.msn.com.nsatc.net
+google.analytics.com
+pagead.l.doubleclick.net
+ssl-google-analytics.l.google.com
+pagead.l.google.com
+youtube-ui.l.google.com
+pagead46.l.doubleclick.net
+www.adnxs.com
+scontent-veil-1.xx.fbcdn.net
+vcm-media.valueclick.akadns.net
+demopool02.2cnt.net
