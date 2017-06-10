@@ -1399,3 +1399,8 @@ suphersun.ru
 185.173.178.177
 downdintwiltit.ru
 lonemoning.ru
+#12 July 2017, 10 September 2017, 9 December 2017
+#www.malware-traffic-analysis.net/2017/06/09/index.html
+91.195.102.3
+gio.connecthome.top
+help.reportgeek.gdn
