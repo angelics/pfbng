@@ -133,6 +133,11 @@ relate.apc.360.cn
 dl2.360safe.com
 conf.f.360.cn
 conna.gj.qq.com
+www.123rede.com
+img.123rede.com
+config.yeadesktop.com
+id.netok123.com
+data6.saveserpnow.com
 42.236.9.57
 42.236.36.241
 42.236.37.7
