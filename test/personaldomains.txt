@@ -924,15 +924,11 @@ steuer-wirtschaft-recht.de
 vasterasstadsmission.se
 #14 June 2017, 13 August 2017, 11 November 2017
 #www.malware-traffic-analysis.net/2017/05/15/index.html
-203.170.192.184
 urachart.com
-185.2.31.189
 fotografikum.com
-185.109.146.224
 5hdnnd74fffrottd.com
 byydei74fg43ff4f.net
 sjffonrvcik45bd.info
-47.91.107.213
 h552terriddows.com
 rktazuzi7hbln7sy.onion
 #15 June 2017, 14 August 2017, 12 November 2017
@@ -1423,3 +1419,60 @@ gaparugret.com
 controlzeta.cl
 176.103.48.219
 evengtounty.com
+#16 July 2017, 14 September 2017, 13 December 2017
+#www.malware-traffic-analysis.net/2017/06/13/index.html
+16892.net
+78tguyc876wwirglmltm.net
+aarontax.com
+abyzon.com
+careermag.in
+ciiltire.com
+cinema-strasbourg.com
+e67tfgc4uybfbnfmd.org
+makkahhaj.com
+mseconsultant.com
+oscarbenson.com
+qiyuner.com
+scjjh.cn
+sock.lt
+speedgrow.com
+yes2malaysia.com
+zabandan.com
+zebtex.com
+119.28.98.205
+hv7verjdhfbvdd44f.info
+rktazuzi7hbln7sy.onion
+#17 July 2017, 15 September 2017, 14 December 2017
+#www.malware-traffic-analysis.net/2017/06/14/index.html
+equaldayequalpay.info
+lyftreviewer.com
+TEQUILACLUBUS.ORG
+uberattitude.com
+ubertooter.com
+95.169.184.25
+rirethenheg.com
+50.23.16.14
+realassist.ca
+80.67.160.70
+www.madeinla.fr
+146.185.254.187
+johngasebed.ru
+#17 July 2017, 15 September 2017, 14 December 2017
+#www.malware-traffic-analysis.net/2017/06/14/index2.html
+56530006.com
+78tguyc876wwirglmltm.net
+altisso.pl
+apagmar.pl
+cclimoji.com
+ctinfotech.com
+loantm.com
+mahovik-bg.com
+milchdieb.com
+randomessstioprottoy.net
+sandat-bali.com
+sharuindustries.com
+snnftp.com
+www.montostroj.eu
+186.103.161.204
+195.69.196.77
+94.140.121.174
