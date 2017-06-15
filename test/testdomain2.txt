@@ -2,7 +2,7 @@ ib.anycast.adnxs.com
 global.msads.net.c.footprint.net
 z-m.c10r.facebook.com
 m.anycast.adnxs.com
-scontent.xx.fbcdn.net
+#scontent.xx.fbcdn.net #mobile fb photo
 scontent-vie1-1.xx.fbcdn.net
 ads.msn.com.nsatc.net
 google.analytics.com
