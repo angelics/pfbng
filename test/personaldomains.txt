@@ -956,11 +956,8 @@ yusufdemirci.com.tr
 oneharhaprow.com
 #16 June 2017, 15 August 2017, 13 November 2017
 #www.malware-traffic-analysis.net/2017/05/17/index.html
-173.255.128.189
 www.intothebluefishing.com
-176.223.207.41
 clinicalpsychology.psiedu.ubbcluj.ro
-190.115.19.190
 spora.biz
 #28 May 2017, 27 July 2017, 25 October 2017
 #www.broadanalysis.com/2017/04/28/rig-exploit-kit-via-eitest-campaign-delivers-mole-ransomware/
@@ -1493,3 +1490,28 @@ schoolhousebrasil.com.br
 foaningundthe.com
 46.183.223.230
 hertertrighheg.com
+#19 July 2017, 17 September 2017, 16 December 2017
+#www.malware-traffic-analysis.net/2017/06/16/index.html
+65.181.127.152
+5w9u7np1.i7o8e15brw3eed5jabzl9hu3zuxx1o8l.top
+view.4tqgbgond2m7tbeo73jlvcd0vfkao7qm.pw
+gfonseca.sslblindado.com
+65.181.122.158
+65.181.112.252
+www.petr4.in
+54.232.207.222
+ssl.suzukiburgman.top
+158.69.99.214
+log.suzukiburgman.top
+imestre.suzukiburgman.top
+169.57.146.90
+#19 July 2017, 17 September 2017, 16 December 2017
+#www.malware-traffic-analysis.net/2017/06/16/index2.html
+80.77.82.41
+rabbey.info
+immedience.info
+188.225.75.148
+188.225.76.234
+144.168.45.110
+198.105.244.228
+wdwefwefwwfewdefewfwefw.onion
