@@ -961,9 +961,7 @@ clinicalpsychology.psiedu.ubbcluj.ro
 spora.biz
 #28 May 2017, 27 July 2017, 25 October 2017
 #www.broadanalysis.com/2017/04/28/rig-exploit-kit-via-eitest-campaign-delivers-mole-ransomware/
-188.225.73.230
 add.thebestofwichitadirectory.com
-194.165.16.140
 #21 June 2017, 20 August 2017, 18 November 2017
 #www.malware-traffic-analysis.net/2017/05/22/index.html
 brotexxshferrogd.net
@@ -1515,3 +1513,15 @@ immedience.info
 144.168.45.110
 198.105.244.228
 wdwefwefwwfewdefewfwefw.onion
+#23 July 2017, 21 September 2017, 20 December 2017
+#www.malware-traffic-analysis.net/2017/06/19/index.html
+80.77.82.41
+sungary.info
+92.53.119.254
+144.168.45.110
+#23 June 2017, 23 July 2017, 20 November 2017
+#broadanalysis.com/2017/05/24/rig-exploit-kit-via-eitest-campaign-from-109-234-36-68-delivers-mole-ransomware/
+109.234.36.68
+set.tilleystudio.com
+144.217.240.227
+supportjy2xvvdmx.onion
