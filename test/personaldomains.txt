@@ -920,9 +920,7 @@ techtach.com
 waratrolper.ru
 #1 July 2017, 30 August 2017, 28 November 2017
 #www.malware-traffic-analysis.net/2017/06/01/index.html
-141.8.195.82
 pidars.info
-5.8.88.39
 chibasuka.top
 #1 July 2017, 30 August 2017, 28 November 2017
 #www.malware-traffic-analysis.net/2017/06/01/index2.html
@@ -934,26 +932,17 @@ praktikum-marketing.de
 resevesssetornument.com
 tasfirin-ustasi.net
 theexcelconsultant.com
-5.101.66.85
 whoisfoxxrobiouy.net
 rktazuzi7hbln7sy.onion
 #1 July 2017, 30 August 2017, 28 November 2017
 #www.malware-traffic-analysis.net/2017/06/01/index3.html
-184.168.221.55
 AWESOMEINAUSTIN.COM
-52.23.200.184
 f8ality.com
-184.168.221.47
 HNMDEVELOPMENT.COM
-50.63.202.33
 RVANDSTORAGE.US
-52.23.200.184
 WALKERHOMEBUILDERS.INFO
-178.170.189.193
 nyatguted.com
-184.168.18.1
 janettelouden.com
-176.99.7.225
 soevenghappar.ru
 #2 July 2017, 31 August 2017, 29 November 2017
 #www.malware-traffic-analysis.net/2017/06/02/index.html
@@ -971,20 +960,9 @@ strassensammler.de
 systemalu.com
 yoyogi.com.au
 zvezda-k.ru
-147.32.5.111
-200.119.46.10
-203.206.230.127
-80.229.36.165
-81.170.50.252
-94.226.67.55
-185.141.25.23
-216.165.249.150
 #2 July 2017, 31 August 2017, 29 November 2017
 #www.malware-traffic-analysis.net/2017/06/02/index2.html
-81.177.165.194
-5.101.77.64
 free.crystallandis.com
-188.93.211.166
 atw82ye63ymdp.com
 #5 July 2017, 3 September 2017, 2 December 2017
 #www.malware-traffic-analysis.net/2017/06/05/index.html
@@ -1435,3 +1413,35 @@ operty.info
 49.51.37.177
 multifest.bit
 46.173.218.100
+#6 August 2017, 5 October 2017, 3 January 2018
+#www.malware-traffic-analysis.net/2017/07/03/index.html
+auburnmachine.com
+careermoveresumes.us
+GPAC.BIZ
+GPAC-LLC.COM
+GPAC-LLC.NET
+rz-restaurants.com
+tucsonweddingexpo.com
+WOMENSLIFEANDSTYLEEXPO.COM
+185.7.30.140
+fortronsofher.com
+176.99.7.116
+wonderhosting.ru
+81.177.141.140
+makedbosand.com
+10.0.2.2
+#6 August 2017, 5 October 2017, 3 January 2018
+#www.malware-traffic-analysis.net/2017/07/03/index2.html
+artdecorfashion.com
+csasesores.com.ar
+desinano.com.ar
+elita5.md
+goldwingclub.ru
+natiwa.com
+resedaplumbing.com
+singley-construction.com
+uploadmiller.miller-media.at
+vademecsa.com.ar
+vindexsa.com.ar
+winnicemoldawii.pl
+www.gloszp.pl
