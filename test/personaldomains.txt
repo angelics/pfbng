@@ -1445,3 +1445,14 @@ vademecsa.com.ar
 vindexsa.com.ar
 winnicemoldawii.pl
 www.gloszp.pl
+#7 August 2017, 6 October 2017, 4 January 2018
+#www.malware-traffic-analysis.net/2017/07/04/index.html
+191.101.22.49
+#8 August 2017, 7 October 2017, 5 January 2018
+#www.malware-traffic-analysis.net/2017/07/05/index.html
+91.239.200.176
+liomericka504.cz
+46.183.166.84
+bifoop.com
+185.22.174.149
+centler.at 
