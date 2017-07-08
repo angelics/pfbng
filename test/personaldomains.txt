@@ -138,6 +138,7 @@ img.123rede.com
 config.yeadesktop.com
 id.netok123.com
 data6.saveserpnow.com
+bigpicturepop.com
 42.236.9.57
 42.236.36.241
 42.236.37.7
