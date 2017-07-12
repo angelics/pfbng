@@ -1464,19 +1464,14 @@ theburatrin.ru
 #10 July 2017, 8 September 2017, 7 December 2017
 #www.malware-traffic-analysis.net/2017/06/07/index.html
 paste.ee
-111.90.139.246
 deniumwears.xyz
 #10 July 2017, 8 September 2017, 7 December 2017
 #www.malware-traffic-analysis.net/2017/06/07/index2.html
-93.95.97.125
 fenixconnection.com
 PAMTHELANDGAL.COM
 tee2green.org
-88.214.236.156
 bettontgotbab.com
-37.152.88.6
 www.valdelomarasesores.com
-185.17.121.22
 foonlachim.ru
 #11 July 2017, 9 September 2017, 8 December 2017
 #www.malware-traffic-analysis.net/2017/06/08/index.html
@@ -1935,3 +1930,10 @@ www.shiashop.com
 54.76.31.12
 203.230.208.42
 205.209.188.189
+#13 August 2017, 12 October 2017, 10 January 2018
+#www.malware-traffic-analysis.net/2017/07/10/index2.html
+80.77.82.41
+homocyte.info
+188.225.79.167
+188.225.36.208
+198.55.107.156
