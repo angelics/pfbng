@@ -1475,42 +1475,29 @@ www.valdelomarasesores.com
 foonlachim.ru
 #11 July 2017, 9 September 2017, 8 December 2017
 #www.malware-traffic-analysis.net/2017/06/08/index.html
-217.182.84.120
 prefeitura.gov.br.impostocontribuinte.com
-fs09n2.sendspace.com
-177.12.174.101
 cthrp.com.br
-191.252.101.74
 www.horariodebrasilia.org
-177.54.146.52
 hinv8cwfrkp.ddns.net
 #11 July 2017, 9 September 2017, 8 December 2017
 #www.malware-traffic-analysis.net/2017/06/08/index2.html
-52.15.91.247
 brri.in
 bucksinvestmentgroup.com
 BUCKSREALESTATECENTER.COM
-184.168.221.51
 gottliebfamilypartnership.com
 laceyagency.com
-52.15.91.247
 nhphomes.com
 PILOTCLUBLIFELINE.COM
 SAFELIFESENIORSC.COM
 scottshelp.com
 selectionsmaricopa.com
-91.230.211.174
 tohageheg.com
-195.42.120.213
 www.av-signage.de
-95.47.161.46
 suphersun.ru
-185.173.178.177
 downdintwiltit.ru
 lonemoning.ru
 #12 July 2017, 10 September 2017, 9 December 2017
 #www.malware-traffic-analysis.net/2017/06/09/index.html
-91.195.102.3
 gio.connecthome.top
 help.reportgeek.gdn
 #15 July 2017, 13 September 2017, 12 December 2017
@@ -1937,3 +1924,9 @@ homocyte.info
 188.225.79.167
 188.225.36.208
 198.55.107.156
+#18 August 2017, 17 October 2017, 15 January 2018
+#www.malware-traffic-analysis.net/2017/07/12/index.html
+149.56.79.213
+via2.downatual.online
+autenticalives.com
+www.autenticalives.com
