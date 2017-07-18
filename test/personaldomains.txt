@@ -1501,13 +1501,8 @@ lonemoning.ru
 gio.connecthome.top
 help.reportgeek.gdn
 #15 July 2017, 13 September 2017, 12 December 2017
-#malware-traffic-analysis.net/2017/06/12/index.html
-92.99.2.94
-#15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index2.html
-35.188.126.183
 opred.net
-93.170.13.22
 cloud.pathwaystopromise.info
 stat.isabellebellamodel.ch
 #15 July 2017, 13 September 2017, 12 December 2017
@@ -1966,3 +1961,17 @@ www.shiashop.com
 61.134.39.188
 133.30.115.97
 135.175.22.211
+#23 August 2017, 22 October 2017, 20 January 2018
+#www.malware-traffic-analysis.net/2017/07/17/index.html
+80.77.82.41
+experimea.info
+188.225.78.136
+185.159.128.207
+142.91.104.107
+194.58.0.0/16
+46.105.57.169
+www.steelskull.com
+185.100.222.41
+parking-services.us
+185.118.65.143
+hdyejdn638ir8.com
