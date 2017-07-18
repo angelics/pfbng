@@ -1507,7 +1507,6 @@ cloud.pathwaystopromise.info
 stat.isabellebellamodel.ch
 #15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index3.html
-192.185.41.237
 weekendnerd.com
 #15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index4.html
@@ -1521,10 +1520,6 @@ skveselka.wz.cz
 syrianchristiancentre.org
 ulyanky.ru
 ythongye.com
-85.228.193.94
-89.231.13.27
-5.45.87.24
-185.203.243.113
 #15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index5.html
 CMGPLACEMENT.NET
@@ -1532,11 +1527,8 @@ digitalactionist.com
 EXPLORIST.CO.IN
 krishnadress.com
 MYSAFERRETIREMENT.COM
-185.173.178.177
 gaparugret.com
-66.7.198.115
 controlzeta.cl
-176.103.48.219
 evengtounty.com
 #16 July 2017, 14 September 2017, 13 December 2017
 #www.malware-traffic-analysis.net/2017/06/13/index.html
@@ -1558,7 +1550,6 @@ speedgrow.com
 yes2malaysia.com
 zabandan.com
 zebtex.com
-119.28.98.205
 hv7verjdhfbvdd44f.info
 rktazuzi7hbln7sy.onion
 #17 July 2017, 15 September 2017, 14 December 2017
@@ -1568,13 +1559,9 @@ lyftreviewer.com
 TEQUILACLUBUS.ORG
 uberattitude.com
 ubertooter.com
-95.169.184.25
 rirethenheg.com
-50.23.16.14
 realassist.ca
-80.67.160.70
 www.madeinla.fr
-146.185.254.187
 johngasebed.ru
 #17 July 2017, 15 September 2017, 14 December 2017
 #www.malware-traffic-analysis.net/2017/06/14/index2.html
@@ -1592,9 +1579,6 @@ sandat-bali.com
 sharuindustries.com
 snnftp.com
 www.montostroj.eu
-186.103.161.204
-195.69.196.77
-94.140.121.174
 #18 July 2017, 16 September 2017, 15 December 2017
 #www.malware-traffic-analysis.net/2017/06/15/index.html
 80.77.82.41
