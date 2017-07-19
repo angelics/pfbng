@@ -1581,15 +1581,9 @@ snnftp.com
 www.montostroj.eu
 #18 July 2017, 16 September 2017, 15 December 2017
 #www.malware-traffic-analysis.net/2017/06/15/index.html
-80.77.82.41
 promose.info
 publicable.info
-188.225.38.60
-188.225.73.238
-188.93.211.166
 atw82ye63ymdp.com
-144.168.45.110
-198.105.244.228
 wdwefwefwwfewdefewfwefw.onion
 #18 July 2017, 16 September 2017, 15 December 2017
 #www.malware-traffic-analysis.net/2017/06/15/index2.html
@@ -1602,15 +1596,10 @@ MIRRORLITEINC.COM
 MIRRORLITEINC.NET
 MIRRORLITEINC.INFO
 rcarrplumbing.com 
-185.15.208.195
 peroptepa.ru
-177.47.187.12
 insight.com.vc
-177.93.111.181
 schoolhousebrasil.com.br
-185.175.158.242
 foaningundthe.com
-46.183.223.230
 hertertrighheg.com
 #19 July 2017, 17 September 2017, 16 December 2017
 #www.malware-traffic-analysis.net/2017/06/16/index.html
@@ -1959,3 +1948,16 @@ www.steelskull.com
 parking-services.us
 185.118.65.143
 hdyejdn638ir8.com
+#24 August 2017, 23 October 2017, 21 January 2018
+#www.malware-traffic-analysis.net/2017/07/18/index.html
+bandanamedia.com
+gimn5.by
+laurel.net.au
+realitybusiness.be
+www.proleite.com.pt
+xn--80aaumty.xn--p1ai
+xn---2016-gwea7d0alb0d.xn--p1ai
+bgl3mwo7z3pqyysm.onion
+bgl3mwo7z3pqyysm.onion.casa
+bgl3mwo7z3pqyysm.onion.link
+bgl3mwo7z3pqyysm.onion.to
