@@ -1692,13 +1692,8 @@ bretagne.plus
 undtinjohnaning.com
 #1 August 2017, 30 September 2017, 29 December 2017
 #www.malware-traffic-analysis.net/2017/06/28/index2.html
-103.52.216.15
 coolfamerl.top
 clippodoops.top
-77.12.57.0/27
-77.12.57.0/27
-87.98.176.0/22
-216.170.123.2
 xpcx6erilkjced3j.1t2jhk.top
 #1 August 2017, 30 September 2017, 29 December 2017
 #www.malware-traffic-analysis.net/2017/06/28/index3.html
@@ -1709,13 +1704,9 @@ CATALINETICS.COM
 cognistix.net
 H2S2.INFO
 systemsmith.com
-137.74.150.55
 ranlingthetne.com
-186.202.153.168
 www.prava.com.br
-91.121.198.229
 www.librodeapuntes.es
-91.201.214.170
 tounundhem.com
 #2 August 2017, 1 October 2017, 30 December 2017
 #www.malware-traffic-analysis.net/2017/06/29/index.html
@@ -2042,3 +2033,12 @@ trredfcjrottrdtwwq.net
 n224ezvhg4sgyamb.onion
 198.23.241.227
 serv1.xyz
+#7 September 2017, 6 October 2017, 4 January 2018
+#www.malware-traffic-analysis.net/2017/08/01/index.html
+80.77.82.41
+amond.info
+188.225.78.57
+188.225.35.56
+188.225.78.226
+104.223.89.174
+wdwefwefwwfewdefewfwefw.onion
