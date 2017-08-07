@@ -1716,11 +1716,8 @@ correspondentfunding.com
 FROGMAN-SCUBA.COM
 HAVEFUNMAKEMONEYHELPPEOPLE.COM
 ranermed.com
-137.74.150.55
 batbetorzen.com
-193.228.150.200
 transoffice.org
-83.217.11.130
 repwasswithhow.com
 #2 August 2017, 1 October 2017, 30 December 2017
 #www.malware-traffic-analysis.net/2017/06/29/index2.html
@@ -1735,12 +1732,8 @@ perdasbasalti.it
 resedaplumbing.com
 #3 August 2017, 2 October 2017, 31 December 2017
 #www.malware-traffic-analysis.net/2017/06/30/index.html
-80.77.82.41
 operty.info
-188.225.79.124
-49.51.37.177
 multifest.bit
-46.173.218.100
 #6 August 2017, 5 October 2017, 3 January 2018
 #www.malware-traffic-analysis.net/2017/07/03/index.html
 auburnmachine.com
@@ -1751,13 +1744,9 @@ GPAC-LLC.NET
 rz-restaurants.com
 tucsonweddingexpo.com
 WOMENSLIFEANDSTYLEEXPO.COM
-185.7.30.140
 fortronsofher.com
-176.99.7.116
 wonderhosting.ru
-81.177.141.140
 makedbosand.com
-10.0.2.2
 #6 August 2017, 5 October 2017, 3 January 2018
 #www.malware-traffic-analysis.net/2017/07/03/index2.html
 artdecorfashion.com
@@ -2042,3 +2031,80 @@ amond.info
 188.225.78.226
 104.223.89.174
 wdwefwefwwfewdefewfwefw.onion
+#8 September 2017, 7 October 2017, 5 January 2018
+#www.malware-traffic-analysis.net/2017/08/02/index.html
+145.239.190.18
+b16eauf5z38u9l.ourspen.com
+188.165.92.24
+d84d21ud9dm9a74y.keyvote.webcam
+5.196.128.254
+73.107.12.0/27
+75.1.200.0/27
+87.98.176.0/22
+86.110.119.251
+oqwygprskqv65j72.1hbdbx.top
+#8 September 2017, 7 October 2017, 5 January 2018
+#www.malware-traffic-analysis.net/2017/08/02/index2.html
+foundationofyet.net
+thefamilymoneyfarm.com
+185.188.182.34
+etdintuseoft.com
+184.168.134.131
+www.hlinv.net
+toflingtinjo.ru
+ersrofsafah.ru
+#8 September 2017, 7 October 2017, 5 January 2018
+#www.malware-traffic-analysis.net/2017/08/02/index3.html
+akuboweb.com
+benjamindiggles.com
+conlin-boats.com
+expeditiontiger.com
+fly2.com.tw
+infinityscottsbluff.com
+leapfrog-designs.com
+saborplus.pt
+scoot-mail.net
+trredfcjrottrdtwwq.net
+twi-emailer.nl
+yourlocalsearch.ca
+n224ezvhg4sgyamb.onion
+198.23.241.227
+serv1.xyz
+#9 September 2017, 8 October 2017, 6 January 2018
+#www.malware-traffic-analysis.net/2017/08/03/index.html
+MERIDIANNATIONALTITLE.COM
+MERIDIANNATL.INFO
+RHJACK.INFO
+185.120.77.184
+tewocarof.ru
+31.216.35.44
+allemansgallivare.se
+185.20.226.135
+tinjotofling.com
+ranwashertbi.com
+#10 September 2017, 9 October 2017, 7 January 2018
+#www.malware-traffic-analysis.net/2017/08/04/index.html
+188.165.10.178
+63b65c2hbbf1.salehad.com
+3763c87uc95awe75q.salehad.com
+a0869a8d9w.salehad.com 
+188.165.10.177
+227a7e7v5qc0o.letways.com
+0i3b0p71i1j7917.boxplea.com
+4cb6mb4qb5m.boxplea.com
+188.165.92.16
+1lf56w032p7.liecup.win
+61kcef667t783zdk.saferam.space
+7o582fdb6c3cg04.kidwine.website
+9m91dx7h1eai.ranhat.space
+51.255.20.152
+2fcdg7ef8.endsbig.bid
+bfl5d5f83o88.pivary.racing
+73.107.12.0/27
+75.1.200.0/27
+87.98.176.0/22
+172.86.120.121
+qfjhpgbefuhenjp7.16g9ub.top
+15.42.13.0/27
+44.66.140.0/27
+87.98.176.0/22
