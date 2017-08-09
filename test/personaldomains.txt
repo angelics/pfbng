@@ -1764,18 +1764,13 @@ winnicemoldawii.pl
 www.gloszp.pl
 #8 August 2017, 7 October 2017, 5 January 2018
 #www.malware-traffic-analysis.net/2017/07/05/index.html
-91.239.200.176
 liomericka504.cz
-46.183.166.84
 bifoop.com
-185.22.174.149
 centler.at 
 #8 August 2017, 7 October 2017, 5 January 2018
 #blog.malwarebytes.com/cybercrime/2017/07/adgholas-malvertising-thrives-shadows-ransomware-outbreaks/
 expert-essays.com
 jet-travels.com
-5.34.180.73
-162.255.119.165
 uniy.clamotten.com
 comm.clamotten.com
 comp.computer-tutor.info
@@ -1792,7 +1787,6 @@ nstru.onlytechtalks.com
 const.linksaffpixel.com
 quely.onlytechtalks.com
 coneq.modweave.com
-94.156.174.11
 #9 August 2017, 8 October 2017, 6 January 2018
 #www.malware-traffic-analysis.net/2017/07/06/index.html
 162.244.35.33
@@ -2167,3 +2161,9 @@ e4cua85j8w06crek833x.helpfix.stream
 bbbcompliance.com
 185.212.148.18
 metrics.kz
+#15 September 2017, 14 October 2017, 12 January 2018
+#www.malware-traffic-analysis.net/2017/08/09/index.html
+192.64.119.130
+inf.hambersandp02.host
+178.159.36.86
+controlek01.asia
