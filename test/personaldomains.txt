@@ -1789,9 +1789,7 @@ quely.onlytechtalks.com
 coneq.modweave.com
 #9 August 2017, 8 October 2017, 6 January 2018
 #www.malware-traffic-analysis.net/2017/07/06/index.html
-162.244.35.33
 additionarl.racing
-104.27.145.239
 instavape7.top
 #10 August 2017, 9 October 2017, 7 January 2018
 #www.malware-traffic-analysis.net/2017/07/07/index.html
@@ -2167,3 +2165,11 @@ metrics.kz
 inf.hambersandp02.host
 178.159.36.86
 controlek01.asia
+#15 September 2017, 14 October 2017, 12 January 2018
+#blog.malwarebytes.com/threat-analysis/2017/08/cerber-ransomware-delivered-format-different-order-magnitude/
+217.182.227.103
+spinner-art.org
+151.80.246.147
+511bcl9645285d2w.himlead.com
+51.254.229.220
+7fm0cd7d16w37.noneno.space
