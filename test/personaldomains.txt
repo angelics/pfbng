@@ -146,6 +146,16 @@ www.delta-search.com
 home.sweetim.com
 hao.qq.com
 www.bytefence.com
+www.ask.com
+apnstatic.ask.com
+ss.websearch.ask.com
+about.ask.com
+settings.engine.conduit-services.com
+facebook.conduit-services.com
+mdvisser.nl
+search.babylon.com
+home.allgameshome.com
+search.conduit.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
