@@ -1796,17 +1796,9 @@ snw.snellewieken.nl
 www.shiashop.com
 #23 August 2017, 22 October 2017, 20 January 2018
 #www.malware-traffic-analysis.net/2017/07/17/index.html
-80.77.82.41
 experimea.info
-188.225.78.136
-185.159.128.207
-142.91.104.107
-194.58.0.0/16
-46.105.57.169
 www.steelskull.com
-185.100.222.41
 parking-services.us
-185.118.65.143
 hdyejdn638ir8.com
 #24 August 2017, 23 October 2017, 21 January 2018
 #www.malware-traffic-analysis.net/2017/07/18/index.html
@@ -1835,13 +1827,9 @@ hutsonrental.com
 poshbathbomb.net
 yourstrategicguide.info
 yourstrategicguide.org
-185.43.223.49
 mohurndertil.com
-46.235.47.84
 wood-boards.com
-185.111.107.82
 tohinwithec.com
-10.0.2.2
 nyorcalning.ru
 hadsitguled.ru
 porthia.com.br
@@ -1849,19 +1837,13 @@ questscopeduurzaam.nl
 nmultra2014.no
 yana-k-design.com
 lvpar.com.br
-92.63.106.180
 nofocalen.com
 #27 August 2017, 26 October 2017, 24 January 2018
 #www.malware-traffic-analysis.net/2017/07/21/index.html
-65.181.127.152
 eit5Nlh4.3z3vyvpmatjal5qaodz6tmrqmg1uucx7.pw
 axecapital.ld0wcb3eblogzsux00lwpftdabrus5to.pw
-65.181.122.158
-65.181.112.252
 www.petr4.in
-54.232.207.222
 ssl.suzukiburgman.top
-158.69.99.214
 log.suzukiburgman.top
 imestre.suzukiburgman.top
 #1 September 2017, 31 October 2017, 29 January 2018
@@ -2209,3 +2191,20 @@ butsulacoft.com
 tekstheks.nl
 217.29.63.222
 fortsiretbab.com 
+#1 October 2017, 30 October 2017, 28 January 2018
+#www.malware-traffic-analysis.net/2017/08/25/index.html
+194.58.40.48
+188.225.27.148
+194.87.110.148
+174.137.132.45
+w.bustbuy.com
+54.72.11.253
+ww7.bustbuy.com
+#4 October 2017, 3 November 2017, 31 January 2018
+#www.malware-traffic-analysis.net/2017/08/28/index.html
+78.47.1.212
+gamebingfree.info
+212jhhhvvhhvvhv.cf
+188.225.73.49
+216.58.206.78
+62.212.66.85
