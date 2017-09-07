@@ -1915,7 +1915,6 @@ szymanowicz.eu
 tdtuusula.com
 trredfcjrottrdtwwq.net
 n224ezvhg4sgyamb.onion
-198.23.241.227
 serv1.xyz
 #7 September 2017, 6 October 2017, 4 January 2018
 #www.malware-traffic-analysis.net/2017/08/01/index.html
@@ -2257,3 +2256,11 @@ pilateseterapiasmb.com.br
 nocs.com.br
 66.45.232.107
 planaltodajaguara.com.br
+#13 October 2017, 12 November 2017, 9 February 2018
+#www.malware-traffic-analysis.net/2017/09/06/index.html
+185.115.140.143
+berurn.com
+188.190.7.128
+analyticstat.online
+149.202.132.130
+sl.nortup.com
