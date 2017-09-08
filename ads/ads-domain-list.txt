@@ -26,6 +26,8 @@ ib.adnxs.com
 img.revcontent.com
 ioredi.com
 
+jsfilter.vertoz.com
+
 match.adsrvr.org
 m.adnxs.com
 
