@@ -24,6 +24,7 @@ googleads.g.doubleclick.net
 
 ib.adnxs.com
 img.revcontent.com
+ioredi.com
 
 match.adsrvr.org
 m.adnxs.com
