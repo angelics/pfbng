@@ -2329,3 +2329,6 @@ atargoryled.net
 long-an.com.tw
 babmitontwronsed.info
 185.67.2.156
+#20 October 2017, 19 November 2017, 16 February 2018
+#blog.malwarebytes.com/threat-analysis/2017/09/psa-new-microsoft-word-0day-used-wild/
+91.219.236.207
