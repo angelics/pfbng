@@ -1957,39 +1957,25 @@ serv1.xyz
 MERIDIANNATIONALTITLE.COM
 MERIDIANNATL.INFO
 RHJACK.INFO
-185.120.77.184
 tewocarof.ru
-31.216.35.44
 allemansgallivare.se
-185.20.226.135
 tinjotofling.com
 ranwashertbi.com
 #10 September 2017, 9 October 2017, 7 January 2018
 #www.malware-traffic-analysis.net/2017/08/04/index.html
-188.165.10.178
 63b65c2hbbf1.salehad.com
 3763c87uc95awe75q.salehad.com
 a0869a8d9w.salehad.com 
-188.165.10.177
 227a7e7v5qc0o.letways.com
 0i3b0p71i1j7917.boxplea.com
 4cb6mb4qb5m.boxplea.com
-188.165.92.16
 1lf56w032p7.liecup.win
 61kcef667t783zdk.saferam.space
 7o582fdb6c3cg04.kidwine.website
 9m91dx7h1eai.ranhat.space
-51.255.20.152
 2fcdg7ef8.endsbig.bid
 bfl5d5f83o88.pivary.racing
-73.107.12.0/27
-75.1.200.0/27
-87.98.176.0/22
-172.86.120.121
 qfjhpgbefuhenjp7.16g9ub.top
-15.42.13.0/27
-44.66.140.0/27
-87.98.176.0/22
 #8 September 2017, 7 October 2017, 5 January 2018
 #blog.malwarebytes.com/cybercrime/2017/08/enemy-at-the-gates-reviewing-the-magnitude-exploit-kit-redirection-chain/
 paypalinvest.info
@@ -2021,36 +2007,9 @@ e4cua85j8w06crek833x.helpfix.stream
 7a48s4eu85kaeu4p3.doebulk.com
 906q2u4567021q.usfixes.com
 93c452ci0.deskif.com
-217.172.189.199
-31.3.242.108
-78.46.29.251
-148.251.205.122
-185.130.226.117
-185.82.216.199
-185.104.11.201
-89.163.129.151
-91.134.161.63
-188.138.102.127
-95.215.63.225
-95.215.62.214
-188.138.68.153
-188.138.68.163
-94.228.223.242
-94.228.223.245
-188.165.85.28
-51.255.154.6
-149.202.232.201
-46.105.95.113
-151.80.179.144
-46.105.95.114
-37.59.140.124
-145.239.190.17
-210.117.120.42
 #13 September 2017, 12 October 2017, 10 January 2018
 #www.malware-traffic-analysis.net/2017/08/07/index.html
-195.3.146.98
 bbbcompliance.com
-185.212.148.18
 metrics.kz
 #15 September 2017, 14 October 2017, 12 January 2018
 #www.malware-traffic-analysis.net/2017/08/09/index.html
@@ -2332,3 +2291,9 @@ babmitontwronsed.info
 #20 October 2017, 19 November 2017, 16 February 2018
 #blog.malwarebytes.com/threat-analysis/2017/09/psa-new-microsoft-word-0day-used-wild/
 91.219.236.207
+#21 October 2017, 20 November 2017, 17 February 2018
+#www.welivesecurity.com/2017/09/14/cryptocurrency-web-mining-union-profit/
+static.reasedoper.pw
+mataharirama.xyz
+listat.biz
+lmodr.biz
