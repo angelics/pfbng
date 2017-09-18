@@ -2029,13 +2029,9 @@ enviroluxlighting.net
 govprostore.com
 rightchoice.us
 tommyvapor.com
-192.99.131.252
 littwileftbi.ru
-209.126.148.164
 betaresourcesltd.com
-91.228.239.205
 heghaptedfa.ru
-86.110.117.167
 betwassjusthen.com
 #17 September 2017, 16 October 2017, 14 January 2018
 #www.malware-traffic-analysis.net/2017/08/11/index.html
@@ -2050,8 +2046,6 @@ nerdydroid.com
 rtozottosdossder.net
 seoulhome.net
 starsafety.net
-91.219.28.39
-188.127.239.17
 g46mbrrzpfszonuk.onion
 #18 September 2017, 17 October 2017, 15 January 2018
 #www.malware-traffic-analysis.net/2017/08/12/index.html
@@ -2309,3 +2303,17 @@ g46mbrrzpfszonuk.onion
 #22 October 2017, 21 November 2017, 18 February 2018
 #malware-traffic-analysis.net/2017/09/15/index2.html
 80.208.230.159
+#25 October 2017, 24 November 2017, 21 February 2018
+#blog.talosintelligence.com/2017/09/avast-distributes-malware.html
+ab6d54340c1a.com
+aba9a949bc1d.com
+ab2da3d400c20.com
+ab3520430c23.com
+ab1c403220c27.com
+ab1abad1d0c2a.com
+ab8cee60c2d.com
+ab1145b758c30.com
+ab890e964c34.com
+ab3d685a0c37.com
+ab70a139cc3a.com
+216.126.225.148
