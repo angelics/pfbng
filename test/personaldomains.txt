@@ -2067,19 +2067,9 @@ usdata.estoreseller.com
 natwestsecmsg.co.uk
 #21 September 2017, 20 October 2017, 18 January 2018
 #www.malware-traffic-analysis.net/2017/08/15/index.html
-160.153.162.141
 santanderdocs.co.uk
-178.255.225.215
 centromiosalud.es
-51.254.83.17
 cfigueras.com
-185.40.20.46
-185.40.20.48
-185.141.26.86
-185.208.170.129
-210.16.102.142
-162.248.75.99
-194.87.103.27
 hsbcdocs.co.uk
 hmrccommunication.co.uk
 lloydsbacs.co.uk
@@ -2360,3 +2350,13 @@ tregartha-dinnie.co.uk
 194.87.232.127
 94.242.224.226
 185.158.115.47
+#30 October 2017, 29 November 2017, 26 February 2018
+#www.malware-traffic-analysis.net/2017/09/20/index.html
+185.165.29.55
+185.165.29.123
+#31 October 2017, 30 November 2017, 27 February 2018
+#www.malware-traffic-analysis.net/2017/09/21/index.html
+154.16.93.182
+classupdate.punkdns.top
+103.200.22.206
+av.bitdefenderesupdate.ru
