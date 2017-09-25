@@ -22,6 +22,8 @@ disqusads.com
 global.adserver.yahoo.com
 googleads.g.doubleclick.net
 
+hsivniaui.bid
+
 ib.adnxs.com
 img.revcontent.com
 ioredi.com
@@ -56,6 +58,7 @@ track.adform.net
 track.frwdx.com
 trends.revcontent.com
 
+www.freemaineads.com
 www.hicpm5.com
 www.googletagservices.com
 www.zergnet.com
