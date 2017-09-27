@@ -42,6 +42,8 @@ pixel.quantserve.com
 partner.googleadservices.com
 pagead2.googlesyndication.com
 
+quainator.com
+
 revcontent.com
 
 securepubads.g.doubleclick.net
