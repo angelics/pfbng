@@ -5,6 +5,7 @@ ad.doubleclick.net
 admanager.ibay.com.mv
 ads.exoclick.com
 
+bromson.com
 bs.serving-sys.com
 
 cdn.revcontent.com
