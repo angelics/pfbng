@@ -324,50 +324,50 @@ wideads.info
 wildwildmedia.info
 yoursbanner.info
 zorroads.info
-::due 19 March 2017
+#due 19 March 2017
 #blog.malwarebytes.com/cybercrime/2016/12/a-closer-look-at-a-tech-support-screen-locker/
 spcoptimizer.com
-stempuri.org
-::due 9 April 2017
+tempuri.org
+#due 9 April 2017
 #blog.malwarebytes.com/cybercrime/2017/01/the-curious-case-of-a-sundown-ek-variant-dropping-a-cryptocurrency-miner/
-sempowernetwork1.us
-sempowernetwork2.us
-sempowernetwork3.us
-sempowernetwork4.us
-sempowernetwork5.us
-sempowernetwork6.us
-sempowernetwork7.us
-sempowernetwork8.us
-sempowernetwork9.us
-sempowernetwork1.biz
-sempowernetwork2.biz
-sempowernetwork3.biz
-sempowernetwork4.biz
-swebsite1.empowernetworkpackage.biz
-swebsite2.empowernetworkpackage.biz
-swebsite3.empowernetworkpackage.biz
-swebsite4.empowernetworkpackage.biz
-swebsite5.empowernetworkpackage.biz
-swebsite6.empowernetworkpackage.biz
-swebsite7.empowernetworkpackage.biz
-swebsite8.empowernetworkpackage.biz
-swebsite9.empowernetworkpackage.
-swebsite1.empowernetworksolutions.biz
-swebsite2.empowernetworksolutions.biz
-swebsite3.empowernetworksolutions.biz
-swebsite4.empowernetworksolutions.biz
-swebsite5.empowernetworksolutions.biz
-swebsite6.empowernetworksolutions.biz
-swebsite7.empowernetworksolutions.biz
-swebsite8.empowernetworksolutions.biz
-swebsite9.empowernetworksolutions.biz
-sempirenetworksol.com
-skitempowernetwork.com
-sempowernetworkpackage.com
-sempowernetworksolutions.com
-spastetext.biz
-sempowernetworkads.com
-::due 16 April 2017
+empowernetwork1.us
+empowernetwork2.us
+empowernetwork3.us
+empowernetwork4.us
+empowernetwork5.us
+empowernetwork6.us
+empowernetwork7.us
+empowernetwork8.us
+empowernetwork9.us
+empowernetwork1.biz
+empowernetwork2.biz
+empowernetwork3.biz
+empowernetwork4.biz
+website1.empowernetworkpackage.biz
+website2.empowernetworkpackage.biz
+website3.empowernetworkpackage.biz
+website4.empowernetworkpackage.biz
+website5.empowernetworkpackage.biz
+website6.empowernetworkpackage.biz
+website7.empowernetworkpackage.biz
+website8.empowernetworkpackage.biz
+website9.empowernetworkpackage.biz
+website1.empowernetworksolutions.biz
+website2.empowernetworksolutions.biz
+website3.empowernetworksolutions.biz
+website4.empowernetworksolutions.biz
+website5.empowernetworksolutions.biz
+website6.empowernetworksolutions.biz
+website7.empowernetworksolutions.biz
+website8.empowernetworksolutions.biz
+website9.empowernetworksolutions.biz
+empirenetworksol.com
+kitempowernetwork.com
+empowernetworkpackage.com
+empowernetworksolutions.com
+pastetext.biz
+empowernetworkads.com
+#due 16 April 2017
 #blog.malwarebytes.com/cybercrime/2017/01/clickjacking-campaign-abuses-google-adsense-avoids-ad-fraud-bots/
 justhappymarriage.com
 myamericansofa.com
@@ -380,26 +380,26 @@ nicewashing.com
 theusaappliance.com
 topcaraccidentals.com
 perfectpurification.com
-::due 18 April 2017
+#due 18 April 2017
 #blog.malwarebytes.com/threat-analysis/2017/01/new-mac-backdoor-using-antiquated-code/
 seidk.hopto.org
-::due 25 April 2017
+#due 25 April 2017
 #blog.malwarebytes.com/cybercrime/2017/01/avoid-these-free-minecraft-garrys-mod-adverts/
 kidsvideogame.com
 thuggamerz.com
 bubblegif.com
 gameshaunt.com
-::due 9 May 2017
+#due 9 May 2017
 #blog.malwarebytes.com/puppum/2017/02/spigot-browser-hijackers/
 proinstall-download.com
 report-download.com
 secure.fileldr08.com
-::due 22 May 2017
+#due 22 May 2017
 #blog.malwarebytes.com/threat-analysis/2017/02/rogue-chrome-extension-pushes-tech-support-scam/
 amserver.info
 qma0.2dn.xyz
 microsoft-official-warning.info
-::due 1 June 2017
+#due 1 June 2017
 #blog.malwarebytes.com/threat-analysis/2017/03/free-antivirus-coupon-leads-tech-support-scam/
 123care.co
 instantpccare.com
