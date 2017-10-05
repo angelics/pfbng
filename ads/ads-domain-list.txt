@@ -27,6 +27,7 @@ global.adserver.yahoo.com
 googleads.g.doubleclick.net
 
 hsivniaui.bid
+htamaster.com
 
 i.gyazo.com
 ib.adnxs.com
