@@ -5,6 +5,7 @@ ad.doubleclick.net
 admanager.ibay.com.mv
 ads.exoclick.com
 
+b.misslk.com
 bromson.com
 bs.serving-sys.com
 
@@ -13,6 +14,7 @@ cat.hk.as.criteo.com
 cat.jp.as.criteo.com
 cas.criteo.com
 cas.jp.as.criteo.com
+cdn.dlyads.com
 cdn.taboola.com
 cas.pxl.ace.advertising.com
 
@@ -26,6 +28,7 @@ googleads.g.doubleclick.net
 
 hsivniaui.bid
 
+i.gyazo.com
 ib.adnxs.com
 img.revcontent.com
 ioredi.com
@@ -33,6 +36,7 @@ ioredi.com
 jsfilter.vertoz.com
 
 match.adsrvr.org
+misslk.com
 m.adnxs.com
 
 n56adshostnet.com
