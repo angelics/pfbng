@@ -17,7 +17,7 @@ cas.jp.as.criteo.com
 cdn.dlyads.com
 cdn.taboola.com
 cas.pxl.ace.advertising.com
-
+clkntrk.com
 cpm20.com
 
 disqusads.com
