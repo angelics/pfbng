@@ -137,3 +137,4 @@ dl.delivery.mp.microsoft.com
 3.dl.delivery.mp.microsoft.com
 1d.tlu.dl.delivery.mp.microsoft.com
 8.dl.delivery.mp.microsoft.com
+dmd.metaservices.microsoft.com
