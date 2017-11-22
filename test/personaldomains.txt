@@ -2812,3 +2812,23 @@ tci.seventhworld.com
 primeassociatesinc.com
 vallei-elektrotechniek.nl
 testbxc.u-host.ru
+#21 December 2017, 20 January 2018, 19 April 2018
+#www.malware-traffic-analysis.net/2017/11/12/index.html
+162.254.150.34
+bmooc.net
+#21 December 2017, 20 January 2018, 19 April 2018
+#www.malware-traffic-analysis.net/2017/11/15/index.html
+34.201.65.110
+104.31.69.18
+www.cabanadosol.net
+177.53.141.29
+#25 December 2017, 24 January 2018, 23 April 2018
+#www.malware-traffic-analysis.net/2017/11/16/index.html
+192.185.16.72
+josephioseph.com
+209.182.213.90
+myapplicationsdownload.download
+#26 December 2017, 25 January 2018, 24 April 2018
+#www.malware-traffic-analysis.net/2017/11/17/index.html
+119.28.122.11
+playnco.club
