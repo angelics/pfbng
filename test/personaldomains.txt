@@ -2382,57 +2382,36 @@ sherylbro.net
 wallstproperties.com
 #12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index.html
-185.46.121.66
 superiorleather.co.uk
-47.90.52.201
 www.shucancan.com
-52.87.61.120
 www.ias39.com
-66.206.43.242
 www.fairwaytablet.com
-103.38.43.236
 www.chunsujiayuan.com
-104.250.134.156
 www.ebjouv.info
-104.31.80.135
 www.dailyredherald.com
-153.92.6.50
 www.beykozevdenevenakliyatci.com
-162.242.173.39
 www.238thrift.com
-180.178.39.66
 www.et551.com
-195.154.21.65
 www.lesjardinsdemilady.com
-198.54.114.238
 www.prfitvxnfe.info
-199.34.228.59
 www.craigjrspestservice.com
 #12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index2.html
 codepalpreplanviewer.info
 codepalpreplanviewer.net
 codepalxa.info
-77.120.115.248
 idsurinle.com
-196.22.142.14
 totalmss.co.za
-185.186.244.72
 wasdinglacin.com
 #12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index3.html
-165.227.157.104
 web.smswhats.cf
-104.236.154.156
 165.227.14.21
-sx.xcl13nt3s.cc
 #12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index4.html
-49.51.34.128
 nonudoka.top
-37.130.230.117
 de.tempestbytori.com
-#12 November 2017, 12 December 2017, 11 March 2018
+#13 November 2017, 13 December 2017, 12 March 2018
 #www.malware-traffic-analysis.net/2017/10/04/index.html
 93.113.174.144
 clinicalpsychology.psiedu.ubbcluj.ro
@@ -2876,3 +2855,19 @@ scaricapag.win
 190.14.38.55
 authorize-eu.com
 webcmd.netflixsupport.billingupdate.authlogin.authorize-eu.com
+#2 January 2017, 1 February 2018, 1 May 2018
+#malware-traffic-analysis.net/2017/11/23/index.html
+8.124.251.75
+atlantarecyclingcenters.com
+66.36.173.111
+hard-grooves.com
+66.36.165.149
+hellonwheelsthemovie.com
+98.124.251.75
+miamirecyclecenters.com
+5.2.77.79
+pamplonarecados.com
+185.57.172.213
+xploramail.com
+88.99.66.31
+iplogger.co
