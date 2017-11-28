@@ -2428,11 +2428,8 @@ all4insurance.com
 goal-link.com
 prayersmalasandmiracles.com
 satyainstitute.info
-77.120.115.248
 talwilwasled.com
-8.29.155.118
 vaultpit.com
-45.62.123.98
 beoftmala.com
 #15 November 2017, 15 December 2017, 14 March 2018
 #www.malware-traffic-analysis.net/2017/10/06/index.html
@@ -2862,3 +2859,11 @@ pamplonarecados.com
 xploramail.com
 88.99.66.31
 iplogger.co
+#6 January 2017, 5 February 2018, 5 May 2018
+#blog.malwarebytes.com/threat-analysis/2017/11/terror-exploit-kit-goes-https-all-the-way/
+188.226.179.53
+188.226.180.230
+188.226.180.241
+yakset.accountant
+dimplethan.stream
+edgeelse.science
