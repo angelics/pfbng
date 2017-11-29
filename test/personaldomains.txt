@@ -2435,18 +2435,14 @@ beoftmala.com
 #www.malware-traffic-analysis.net/2017/10/06/index.html
 error.lyqadqnm9hy0cveoydhuhv9gq7cmisbm.xyz
 t1dlve2s.uljqrqtjtvxoaes6pq25bnkodafxpol8.xyz
-65.181.127.152
 unique.bx2dscvppabfcpssiewlvwnknp8ppnnp.top
 b1c1xkir.d0mrf4pcjuhlyxb2x7bu6ebany2sjh3c.top
-65.181.113.87
 www.petr4.in
 imestre.suzukiburgman.top
 ssl.suzukiburgman.top
 #18 November 2017, 18 December 2017, 17 March 2018
 #www.malware-traffic-analysis.net/2017/10/09/index.html
-142.54.183.250
 navbharathub.com
-103.68.223.153
 #19 November 2017, 19 December 2017, 18 March 2018
 #www.malware-traffic-analysis.net/2017/10/10/index.html
 aussiescanners.com
@@ -2464,18 +2460,11 @@ rostravernatherm.com
 sagtalent.com
 sandstonesoftware.com.au
 vodaless.net
-46.19.92.225
 radionik.info
-177.185.194.174
 webproj.com.br
-5.39.84.48
-81.2.245.28
-178.254.24.98
 #19 November 2017, 19 December 2017, 18 March 2018
 #www.malware-traffic-analysis.net/2017/10/10/index2.html
-192.254.235.79
 almahalliah.com
-194.100.58.202
 www.lasihuolto.fi
 #20 November 2017, 20 December 2017, 19 March 2018
 #www.malware-traffic-analysis.net/2017/10/11/index.html
@@ -2507,7 +2496,6 @@ t-plesk.com
 teracom.co.id
 wiskundebijles.nu
 xploramail.com
-49.51.33.178
 unhanorarse.info
 g46mbrrzpfszonuk.onion
 #21 November 2017, 21 December 2017, 20 March 2018
@@ -2516,7 +2504,6 @@ gonesalejk.info
 johnmoplan.top
 jovolewnac.info
 sutranjdf.info
-49.51.33.228
 mbfce24rgn65bx3g.hp8ewo.net
 mbfce24rgn65bx3g.0ny42p.com 
 z5dq36kjy5swjtmr.hp8ewo.net
@@ -2867,3 +2854,67 @@ iplogger.co
 yakset.accountant
 dimplethan.stream
 edgeelse.science
+#6 January 2017, 5 February 2018, 5 May 2018
+#www.malware-traffic-analysis.net/2017/11/27/index.html
+92.222.95.48
+laccrochecoeur.shop
+185.202.103.26
+cdn192.168.0.11.pridnestrovie.m234.xyz
+#7 January 2017, 6 February 2018, 6 May 2018
+#malware-traffic-analysis.net/2017/11/28/index.html
+status-verify.com
+status-restore.com
+locked.netlfix.com.confirm.account.status-restore.com
+netsecure-cancel.com
+locked.netlfix.com.confirm.account.netsecure-cancel.com
+mynetflix-acc.com
+webcmd.netflixsupport.billingupdate.authlogin.mynetflix-acc.com
+#7 January 2017, 6 February 2018, 6 May 2018
+#www.malware-traffic-analysis.net/2017/11/28/index2.html
+compression-pump.info
+compression-pumps.info
+compression-pumps.net
+compression-sock.info
+compression-socks.info
+jobst-compression-stockings.com
+juzo-compression-socks.com
+juzo-compression-stockings.info
+lymphedema-pumps.info
+maternity-stockings.com
+nrgcompression.com
+socks4runners.com
+www.sa-la.org
+dintretrewor.com
+faperropma.ru
+agaratas.com
+atlanimeday.com
+gooblesooq.com
+diti.tips
+dititips.com
+getcepsocks.com
+jobstcompressionstocking.com
+juzo.us
+liha.tips
+newtecantips.com
+sigvarisperformancesocks.com
+socksforwintersports.com
+tecan.tips
+zensahcompressionsleeves.com
+bigiftprod.cloudapp.net
+mail.geekenfreude.com
+inspartorswa.com
+rowrorofrat.com
+169.239.128.117
+146.120.110.146
+197.255.147.146
+185.111.107.150
+185.153.198.40
+185.48.56.139
+185.127.26.227
+65.52.78.162
+66.147.244.133
+185.174.173.6
+#7 January 2017, 6 February 2018, 6 May 2018
+#www.malware-traffic-analysis.net/2017/11/28/index3.html
+95.141.43.196
+oamentyga.duckdns.org
