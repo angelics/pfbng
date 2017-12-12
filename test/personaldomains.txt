@@ -2551,8 +2551,6 @@ centralbaptistchurchnj.org
 conxibit.com
 #1 December 2017, 31 December 2017, 30 March 2018
 #www.malware-traffic-analysis.net/2017/10/23/index.html
-213.183.58.34
-202.52.146.76
 farizcollection.com
 #2 December 2017, 1 January 2018, 31 March 2018
 #www.malware-traffic-analysis.net/2017/10/24/index.html
@@ -2561,23 +2559,15 @@ www.rentech.com.tr
 #2 December 2017, 1 January 2018, 31 March 2018
 #www.malware-traffic-analysis.net/2017/10/24/index2.html
 pawsprings.ca
-162.244.35.33
 supportte24101234567.tk
-162.244.35.36
 techsuper24101.tk
 #2 December 2017, 1 January 2018, 31 March 2018
 #www.malware-traffic-analysis.net/2017/10/24/index3.html
-75.98.175.70
 transmercasa.com
-151.236.60.40
 tatianadecastelbajac.fr
-178.151.116.49
 gdiscoun.org
-62.50.190.101
 webhotell.enivest.no
-85.214.28.187
 video.rb-webdev.de
-92.48.90.34
 themclarenfamily.com
 #4 December 2017, 3 January 2018, 2 April 2018
 #www.malware-traffic-analysis.net/2017/10/26/index2.html
@@ -2588,25 +2578,18 @@ bostonwrongfuldeathblog.com
 bostonwrongfuldeathlaw.com
 consumerrightslawblog.com
 consumerrightslawyerblog.com
-::5 December 2017, 4 January 2018, 3 April 2018
+#5 December 2017, 4 January 2018, 3 April 2018
 #www.malware-traffic-analysis.net/2017/10/27/index.html
-185.145.45.131
 misterstreetsigns.com
 securedorderluinc.com
 tenstepstoyes.com
 tenstepstoyes.net
 tortlawblog.com
-141.101.196.80
 notheccodidn.com
-62.233.65.78
 sanginpayeh.com
-69.195.124.131
 launchinlevi.com
-136.243.11.201
 webtarahan.ir
-164.132.28.118
 tontrumuchtors.com
-164.132.102.162
 rugoheset.ru
 #8 December 2017, 7 January 2018, 6 April 2018
 #www.malware-traffic-analysis.net/2017/10/30/index.html
@@ -3007,3 +2990,43 @@ camorata.com
 185.127.26.227
 nobleduty.com
 excelano.net
+#19 January 2017, 18 February 2018, 18 May 2018
+#www.malware-traffic-analysis.net/2017/12/08/index.html
+88.198.220.103
+krai-soft.net
+103jdhhfff99500910.info
+176.57.220.131
+216.58.206.78
+130.185.105.115
+n.permitdevoi.net
+131.122.33.80
+#22 January 2017, 21 February 2018, 21 May 2018
+#www.malware-traffic-analysis.net/2017/12/11/index.html
+agelessbuy.com
+agelessshow.com
+beautyandthearts.org
+buyoesh.com
+iaaaward.com
+iaapublishing.com
+iaasavesthearts.com
+oesh.org
+oeshshoes.com
+oeshshoes.net
+wearoesh.com
+92.53.87.50
+217.197.116.29
+butenrestold.com
+91.142.253.85
+sterrenburgvanduijn.nl
+202.60.199.201
+www.nationejobs.com
+79.170.40.178
+modelhover.org
+217.29.53.132
+aningtorsfave.com
+#22 January 2017, 21 February 2018, 21 May 2018
+#www.malware-traffic-analysis.net/2017/12/11/index2.html
+www.nfsefiscal.com
+d1ax1i5f2y3x71.cloudfront.net
+35.196.225.252
+d26dzxoao6i3hh.cloudfront.net
