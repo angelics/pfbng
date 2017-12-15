@@ -2593,15 +2593,10 @@ tontrumuchtors.com
 rugoheset.ru
 #8 December 2017, 7 January 2018, 6 April 2018
 #www.malware-traffic-analysis.net/2017/10/30/index.html
-111.68.20.150
 heart-sp.com
-195.96.193.23
 epcb.it
-213.202.100.90
 dvprojekt.hr
-45.77.67.197
 toundlefa.net
-89.253.235.118
 pciholog.ru
 hotelruota.it
 hilaryandsavio.com
@@ -2619,11 +2614,8 @@ arizonaic.net
 arizonaic.us
 opbrace.com
 tenstepstoyes.org
-178.170.244.181
 colighaningr.com
-66.113.109.58
 icarusplays.org
-164.132.28.118
 tontrumuchtors.com
 #8 December 2017, 7 January 2018, 6 April 2018
 #www.malware-traffic-analysis.net/2017/10/31/index2.html
@@ -3030,3 +3022,60 @@ www.nfsefiscal.com
 d1ax1i5f2y3x71.cloudfront.net
 35.196.225.252
 d26dzxoao6i3hh.cloudfront.net
+#23 January 2017, 22 February 2018, 22 May 2018
+#www.malware-traffic-analysis.net/2017/12/12/index.html
+165.227.82.165
+colennao.ml
+174.138.32.62
+188.225.86.86
+colennao.tk
+165.227.195.252
+ngay16.ru
+159.203.186.255
+ngay1617.ru
+#23 January 2017, 22 February 2018, 22 May 2018
+#www.malware-traffic-analysis.net/2017/12/12/index2.html
+195.88.81.104
+shopreduceri.ro
+31.31.196.204
+printscreens.info
+bmwfastcar1337.com
+94.242.198.167
+162.244.35.33
+onlinetechsupoffice.bid 
+185.159.83.47
+1sthelper31212123456.tk
+#23 January 2017, 22 February 2018, 22 May 2018
+#www.malware-traffic-analysis.net/2017/12/13/index.html
+185.45.192.7
+185.82.202.75
+#23 January 2017, 22 February 2018, 22 May 2018
+#www.malware-traffic-analysis.net/2017/12/13/index3.html
+employup.net
+indycareerhubcarrier.com
+indycareerhubcarrier.net
+indycareerfuture.com
+indycareerhubrexnord.com
+indycareerhubrexnord.net
+leapindy.com
+leapindy.net
+leapindy.org
+youthworksindy.org
+217.61.125.151
+185.43.223.31
+cilysitma.com
+223.26.59.163
+doudoukids.com
+46.148.26.106
+arcadyflyff.com
+jefchinloans.com
+#24 January 2017, 23 February 2018, 23 May 2018
+#www.malware-traffic-analysis.net/2017/12/14/index.html
+165.227.82.165
+coccoc.accountant
+192.241.150.92
+217.107.219.186
+192.81.220.249
+thang12.ru
+67.205.189.141
+thang1217.ru
