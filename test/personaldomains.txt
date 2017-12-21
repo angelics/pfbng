@@ -38,38 +38,6 @@ res.qhcdn.com
 res.qhupdate.com
 qhimg.com
 znyshurufa.com
-#12 December 2017, 11 January 2018, 10 April 2018
-#www.malware-traffic-analysis.net/2017/11/03/index.html
-zs-raclawowka.pl
-taierecufir.ro
-locarcar.com.br
-#11 December 2017, 10 January 2018, 9 April 2018
-#www.malware-traffic-analysis.net/2017/11/02/index.html
-89.38.98.150
-eeaglelifedd.com
-n31.smokemenowhhalala.bit
-45.77.141.25
-ns.dotbit.me
-107.161.16.236
-118.193.174.133
-#10 December 2017, 9 January 2018, 8 April 2018
-#www.malware-traffic-analysis.net/2017/11/01/index2.html
-acehh.com
-annapeds.com
-instanttaxsolutions.biz
-mulreninfrances.com
-nikohsec.com
-summerill.biz
-summerill.org
-w10836dom.com
-wildwoodreunion.com
-45.63.117.36
-178.170.244.181
-unduseherttan.com
-62.233.65.78
-puyeshgar.com
-78.46.236.26
-tontrumuchtors.com
 fun.tv
 epohhtout.com
 gevkcjc.com
@@ -2635,20 +2603,11 @@ hih.business
 hih.business
 jwredline.com
 kalostpx.info
-45.63.117.36
-178.170.244.181
-37.230.106.33
-64.207.139.73
-164.132.28.118
 #9 December 2017, 8 January 2018, 7 April 2018
 #www.malware-traffic-analysis.net/2017/10/31/index.html
-88.198.9.176
 christakranzl.at
-5.196.81.12
 projex-dz.com
-176.38.238.6
 fetchstats.net
-83.220.128.111
 hobbystube.net
 aurea-art.ru
 claridge-holdings.com
@@ -2663,14 +2622,10 @@ zahntechnik-imlau.de
 g46mbrrzpfszonuk.onion
 #10 December 2017, 9 January 2018, 8 April 2018
 #www.malware-traffic-analysis.net/2017/11/01/index.html
-72.249.127.194
 hilaryandsavio.com
-87.230.95.138
 toptrends.org
 www.toptrends.org
-45.77.67.197
 heckhegrijus.net
-52.49.136.181
 kvonline.tactics.be
 cirad.or.id
 givagarden.com
@@ -2695,13 +2650,33 @@ phonefix.repair
 topattorneysofna.com
 whoswhodirectories.com
 wwdirectories.com
-45.76.92.24
-185.187.90.38
 parhecotevent.com
-27.254.142.193
 bamrungrak.ac.th
-185.174.173.6
 henfobuthis.com
+#12 December 2017, 11 January 2018, 10 April 2018
+#www.malware-traffic-analysis.net/2017/11/03/index.html
+zs-raclawowka.pl
+taierecufir.ro
+locarcar.com.br
+#11 December 2017, 10 January 2018, 9 April 2018
+#www.malware-traffic-analysis.net/2017/11/02/index.html
+eeaglelifedd.com
+n31.smokemenowhhalala.bit
+ns.dotbit.me
+#10 December 2017, 9 January 2018, 8 April 2018
+#www.malware-traffic-analysis.net/2017/11/01/index2.html
+acehh.com
+annapeds.com
+instanttaxsolutions.biz
+mulreninfrances.com
+nikohsec.com
+summerill.biz
+summerill.org
+w10836dom.com
+wildwoodreunion.com
+unduseherttan.com
+puyeshgar.com
+tontrumuchtors.com
 #18 December 2017, 17 January 2018, 16 April 2018
 #www.malware-traffic-analysis.net/2017/11/09/index.html
 olamoth.com
@@ -2709,7 +2684,6 @@ wayfarerbest.com
 holidays-auction.com
 horoskoperstellung.com
 jw-portal.hosting-jw.de
-67.199.41.9
 purenergy.it
 phonecenter24.de
 procuradores-elche.com
@@ -3079,3 +3053,10 @@ coccoc.accountant
 thang12.ru
 67.205.189.141
 thang1217.ru
+#28 January 2017, 27 February 2018, 27 May 2018
+#www.malware-traffic-analysis.net/2017/12/18/index.html
+hotelrecantodosguardioes.com.br
+hydrosan.net
+jsbc.biz
+www.ozelmedical.com
+piecbud.net.pl
