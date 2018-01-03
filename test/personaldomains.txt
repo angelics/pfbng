@@ -175,6 +175,7 @@ ividi.org
 www.ytddownloader.com
 www.kmpmedia.net
 www.xiangqin7.com
+www.prblm.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
@@ -426,7 +427,7 @@ peletycmc.sk
 5 June 2017
 #blog.malwarebytes.com/cybercrime/2017/03/drafta-multi-purpose-fake-online-scanner/
 systemcheck.club
-::due 25 June 2017
+#due 25 June 2017
 #blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/new-targeted-attack-saudi-arabia-government/
 mail.spa.gov.sa
 webmail.ecra
@@ -434,10 +435,10 @@ webmail.ecra
 #blog.malwarebytes.com/cybercrime/2017/03/advanis-tech-support-screenlocker/
 getfixpc.net
 installreports.com
-::due 20 June 2017
+#due 20 June 2017
 #blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/sms-phishing-for-the-masses/
 chatfellow.com
-::due 19 June 2017
+#due 19 June 2017
 #blog.malwarebytes.com/threat-analysis/exploits-threat-analysis/2017/03/canada-u-k-hit-ramnit-trojan-new-malvertising-campaign/
 set.designervintagejewelry.com
 cxz.suttonsite.com
@@ -471,13 +472,13 @@ try.sjtri.com
 add.lvgoldenknightsfan.com
 free.cmlib.info
 act.twoocomms.com
-::due 18 June 2017
+#due 18 June 2017
 #blog.malwarebytes.com/cybercrime/2017/03/twitter-app-spams-fappening-bait-amazon-surveys/
 twitter.specialoffers.pw
 Viralnews.com
 specialoffers.pw
 brazzershd.co
-::due 29 June 2017
+#due 29 June 2017
 #reddit.com/r/sysadmin/comments/6276sp/fyi_skype_currently_serving_infected_ads/dfkbtr4/
 *.msads.net
 *.msecn.net
