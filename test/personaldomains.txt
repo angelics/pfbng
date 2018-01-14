@@ -3276,3 +3276,6 @@ sicherheit-informationstechnik.bid
 coolwater-ltd-supportid.ru
 localprivat-support.ru
 service-consultingavarage.ru
+#23 February 2017, 24 March 2018, 22 June 2018
+#www.malware-traffic-analysis.net/2018/01/12/index.html
+178.175.138.133
