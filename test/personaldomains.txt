@@ -2748,17 +2748,12 @@ xploramail.com
 iplogger.co
 #6 January 2017, 5 February 2018, 5 May 2018
 #blog.malwarebytes.com/threat-analysis/2017/11/terror-exploit-kit-goes-https-all-the-way/
-188.226.179.53
-188.226.180.230
-188.226.180.241
 yakset.accountant
 dimplethan.stream
 edgeelse.science
 #6 January 2017, 5 February 2018, 5 May 2018
 #www.malware-traffic-analysis.net/2017/11/27/index.html
-92.222.95.48
 laccrochecoeur.shop
-185.202.103.26
 cdn192.168.0.11.pridnestrovie.m234.xyz
 #7 January 2017, 6 February 2018, 6 May 2018
 #malware-traffic-analysis.net/2017/11/28/index.html
@@ -2804,19 +2799,8 @@ bigiftprod.cloudapp.net
 mail.geekenfreude.com
 inspartorswa.com
 rowrorofrat.com
-169.239.128.117
-146.120.110.146
-197.255.147.146
-185.111.107.150
-185.153.198.40
-185.48.56.139
-185.127.26.227
-65.52.78.162
-66.147.244.133
-185.174.173.6
 #7 January 2017, 6 February 2018, 6 May 2018
 #www.malware-traffic-analysis.net/2017/11/28/index3.html
-95.141.43.196
 oamentyga.duckdns.org
 #8 January 2017, 7 February 2018, 7 May 2018
 #www.malware-traffic-analysis.net/2017/11/29/index.html
@@ -3279,3 +3263,36 @@ service-consultingavarage.ru
 #23 February 2017, 24 March 2018, 22 June 2018
 #www.malware-traffic-analysis.net/2018/01/12/index.html
 178.175.138.133
+#26 February 2017, 27 March 2018, 25 June 2018
+#www.malware-traffic-analysis.net/2018/01/15/index.html
+185.198.59.121
+45.114.10.69
+www.yg082.com
+43.230.143.219
+www.www477234.com
+52.73.124.185
+www.pmeglobal.com
+173.236.187.105
+www.julianshots.com
+192.64.114.107
+www.egiztechnologyx.com
+107.179.31.205
+www.769hqi.info
+150.95.255.38
+www.choruscallasia.tech
+62.149.128.40
+www.lifullness.com
+64.98.145.30
+www.goldenmindbody.com
+123.56.92.67
+www.bjxitianyun.com
+23.88.29.4
+www.tqceyp.info
+www.spinepoint.biz
+www.0t5fivethan.men
+#27 February 2017, 28 March 2018, 26 June 2018
+#www.malware-traffic-analysis.net/2018/01/16/index.html
+89.18.27.170
+lavosoftorrent.ml
+137.74.150.217
+7AB7F6AE8747.tk
