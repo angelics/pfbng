@@ -159,11 +159,13 @@ search.conduit.com
 hao123.com
 www.hao123.com
 funshion.com
+adk.funshion.com
 www.delta-homes.com
 search.delta-homes.com
 glemurserverepro.club
 www.smadav.net
 www.2345.com
+2345.com
 hao.169x.cn
 searchy.easylifeapp.com
 NewSaver.info
@@ -175,7 +177,14 @@ ividi.org
 www.ytddownloader.com
 www.kmpmedia.net
 www.xiangqin7.com
+home.tb.ask.com
+int.search.tb.ask.com
 www.prblm.com
+v.qq.com
+vas.funshion.com
+cn.hao123.com
+xyx.hao123.com
+incredibar.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
@@ -507,7 +516,6 @@ sO.2mdn.net
 secure.flashtalking.com
 static.2mdn.net
 static.2mdn.net
-::due 29 June 2017
 #bleepingcomputer.com/news/security/skype-malvertising-campaign-pushes-fake-flash-player/
 oyomakaomojiya.org
 uaquucoolbuy.com
@@ -643,12 +651,10 @@ uijahimmi-moj.net
 goofiplay2wincasino.net
 xaizeeasterndrugs.org
 xaijupalgrave-journals.com
-::due 29 June 2017
 #blog.malwarebytes.com/cybercrime/2017/03/steam-spammers-night-movies/
 movies.putlockervideos.com
 free-movies-streaming.com
 watchstv.xyz
-::due 5 July 2017
 #blog.malwarebytes.com/threat-analysis/2017/04/malvertising-on-ios-pushes-eyebrow-raising-vpn-app/
 onclkds.com
 xml.admetix.com
@@ -657,7 +663,6 @@ inclk.com
 browserloading.com
 giveawaywins.com
 securecheckapp.com
-::due 3 July 2017
 #www.malware-traffic-analysis.net/2017/04/04/index.html
 ccmiti.com
 crescentcorporation.com.pk
@@ -665,14 +670,12 @@ jasonanthonymusic.com
 irbgroup.ru
 w3sa.ch
 game.funshion.com
-::due 3 July 2017
 #www.malware-traffic-analysis.net/2017/04/04/index2.html
 adp-monthly-billling.com
 paramusdentist.com
 www.admissions.pro
 ranwithtorsdo.com
 dintrogela.com
-::due 4 July 2017
 #www.malware-traffic-analysis.net/2017/04/05/index.html
 uploadrobot.download
 blazingsupport.ws
@@ -684,11 +687,9 @@ iliksaewek.pw
 itsmebecauseyoua.pw
 newsofmyru.pw
 youaresobuti.pw
-::due 4 July 2017
 #www.malware-traffic-analysis.net/2017/04/05/index2.html
 4safedrivers.link
 www.fightshop4u-gift.nl
-::due 4 July 2017
 #www.malware-traffic-analysis.net/2017/04/05/index3.html
 malibu-omsk.ru
 qikpages.com
@@ -697,13 +698,11 @@ bettyjudy.com
 austinshortterm.com
 adrianacampos.com.br
 p27dokhpz2n7nvgr.1czh7o.top
-::due
 #www.malware-traffic-analysis.net/2017/04/05/index4.html
 random-billing.com
 fateleptura.hu
 fortotrolhec.com
 situghlacsof.com
-::due
 #www.malware-traffic-analysis.net/2017/04/06/index.html
 www.gerbnopesa.top
 www.opennewsnz.top
@@ -715,7 +714,6 @@ jhdgh.online
 www.bkasioqpz.top
 www.nowsunnygk.top
 sunfloridjk.top
-::due
 #www.malware-traffic-analysis.net/2017/04/06/index2.html
 www.trackingsharks.com
 fast.app-garden.info
@@ -2893,14 +2891,9 @@ nobleduty.com
 excelano.net
 #19 January 2017, 18 February 2018, 18 May 2018
 #www.malware-traffic-analysis.net/2017/12/08/index.html
-88.198.220.103
 krai-soft.net
 103jdhhfff99500910.info
-176.57.220.131
-216.58.206.78
-130.185.105.115
 n.permitdevoi.net
-131.122.33.80
 #22 January 2017, 21 February 2018, 21 May 2018
 #www.malware-traffic-analysis.net/2017/12/11/index.html
 agelessbuy.com
@@ -2914,50 +2907,29 @@ oesh.org
 oeshshoes.com
 oeshshoes.net
 wearoesh.com
-92.53.87.50
-217.197.116.29
 butenrestold.com
-91.142.253.85
 sterrenburgvanduijn.nl
-202.60.199.201
 www.nationejobs.com
-79.170.40.178
 modelhover.org
-217.29.53.132
 aningtorsfave.com
 #22 January 2017, 21 February 2018, 21 May 2018
 #www.malware-traffic-analysis.net/2017/12/11/index2.html
 www.nfsefiscal.com
 d1ax1i5f2y3x71.cloudfront.net
-35.196.225.252
 d26dzxoao6i3hh.cloudfront.net
 #23 January 2017, 22 February 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2017/12/12/index.html
-165.227.82.165
 colennao.ml
-174.138.32.62
-188.225.86.86
 colennao.tk
-165.227.195.252
 ngay16.ru
-159.203.186.255
 ngay1617.ru
 #23 January 2017, 22 February 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2017/12/12/index2.html
-195.88.81.104
 shopreduceri.ro
-31.31.196.204
 printscreens.info
 bmwfastcar1337.com
-94.242.198.167
-162.244.35.33
-onlinetechsupoffice.bid 
-185.159.83.47
+onlinetechsupoffice.bid
 1sthelper31212123456.tk
-#23 January 2017, 22 February 2018, 22 May 2018
-#www.malware-traffic-analysis.net/2017/12/13/index.html
-185.45.192.7
-185.82.202.75
 #23 January 2017, 22 February 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2017/12/13/index3.html
 employup.net
@@ -2970,23 +2942,14 @@ leapindy.com
 leapindy.net
 leapindy.org
 youthworksindy.org
-217.61.125.151
-185.43.223.31
 cilysitma.com
-223.26.59.163
 doudoukids.com
-46.148.26.106
 arcadyflyff.com
 jefchinloans.com
 #24 January 2017, 23 February 2018, 23 May 2018
 #www.malware-traffic-analysis.net/2017/12/14/index.html
-165.227.82.165
 coccoc.accountant
-192.241.150.92
-217.107.219.186
-192.81.220.249
 thang12.ru
-67.205.189.141
 thang1217.ru
 #28 January 2017, 27 February 2018, 27 May 2018
 #www.malware-traffic-analysis.net/2017/12/18/index.html
@@ -3285,3 +3248,27 @@ proqnoz.ga
 5.23.55.97
 185.224.250.6
 top.geezy1.xyz
+#13 March 2018, 11 April 2018, 10 July 2018
+#www.malware-traffic-analysis.net/2018/01/30/index.html
+88.99.48.65
+pumpme.ga
+88.99.48.65
+176.57.208.59
+194.87.99.20
+jr753gey6528iyehd.com
+194.87.96.214
+mdgoixkousej.com
+208.117.44.161
+jinrdvvggkqsbafam.com
+31.31.203.14
+191.101.245.101
+doueven.click
+gtlijnbttxtstnisew.com
+hndhysdogmddmlbms.com
+jblciykrcfxyymxwgdd.com
+okqigyiadj.com
+rgaonnkejei.com
+scihytydbukstbtwok.com
+xegrplmhtvfevx.com
+xvlaykoevuesourj.com
+yxvcjnrx.com
