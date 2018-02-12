@@ -185,6 +185,8 @@ vas.funshion.com
 cn.hao123.com
 xyx.hao123.com
 incredibar.com
+v.hao123.com
+guanjia.qq.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
@@ -2972,13 +2974,9 @@ www.sclionionescu.ro
 www.servicetrade24.ru
 www.soslavanderia.com.co
 www.vseteplo.by
-50.62.232.1
 www.tuminsaat.com
-31.31.196.247
 www.servicetrade24.ru
-74.220.219.67
 psoeiras.net
-103.198.0.2
 topyzscsu5poprxy.onion.link
 #31 January 2017, 1 March 2018, 30 May 2018
 #www.malware-traffic-analysis.net/2017/12/21/index2.html
@@ -2997,19 +2995,13 @@ tikihutcafe.com
 tikihutcoffee.biz
 tikihutcoffee.us
 utahrates.com
-119.28.100.108
-193.33.133.88
 andrejoter.com
-85.13.155.85
 wingchun-giessen.de
-82.202.166.125
 kedfortmoleft.ru
 #1 February 2017, 2 March 2018, 31 May 2018
 #www.malware-traffic-analysis.net/2017/12/22/index.html
-148.164.124.20
 streetsave.club
 regwide.club
-185.62.190.214
 darlz.freeddns.org
 #5 February 2017, 6 March 2018, 4 June 2018
 #www.malware-traffic-analysis.net/2017/12/26/index.html
@@ -3281,3 +3273,32 @@ witsemehat.net
 115.29.6.138
 205.185.117.108
 212.92.98.171
+#26 March 2018, 24 April 2018, 23 July 2018
+#www.malware-traffic-analysis.net/2018/02/07/index.html
+119.28.111.49
+butcaketforthen.com
+sorinnohoun.com
+151.248.118.75
+nomoreransom.coin
+gdcbghvjyqy7jclk.onion
+#25 March 2018, 23 April 2018, 22 July 2018
+#www.malware-traffic-analysis.net/2018/02/06/index.html
+comharcapital.com
+homeimprovementpodcast.com
+mchughconst.com
+oasispropertyworks.com
+rangeviewestates.com
+95.213.200.181
+185.22.172.42
+ofttacotoft.com
+50.116.31.40
+africanpeace.org
+185.211.247.31
+bulighhesin.ru
+#27 March 2018, 25 April 2018, 24 July 2018
+#www.malware-traffic-analysis.net/2018/02/08/index.html
+119.28.111.49
+hinenreb.com
+pertalted.com
+myothow.com
+fortresmuch.com
