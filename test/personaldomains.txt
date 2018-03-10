@@ -3135,21 +3135,12 @@ www.spinepoint.biz
 www.0t5fivethan.men
 #27 February 2017, 28 March 2018, 26 June 2018
 #www.malware-traffic-analysis.net/2018/01/16/index.html
-89.18.27.170
 lavosoftorrent.ml
-137.74.150.217
 7AB7F6AE8747.tk
 #30 February 2017, 31 March 2018, 29 June 2018
 #www.malware-traffic-analysis.net/2018/01/19/index.html
-185.158.154.31
-104.236.160.225
 saumottam.ru
-104.236.16.69
-5.23.49.78
-88.99.48.65
 proqnoz.ga
-5.23.55.97
-185.224.250.6
 top.geezy1.xyz
 #13 March 2018, 11 April 2018, 10 July 2018
 #www.malware-traffic-analysis.net/2018/01/30/index.html
@@ -3419,3 +3410,7 @@ nomoreransom.coin
 nomoreransom.bit
 gandcrab.bit
 djfl3vltmo36vure.onion
+#17 April 2018, 16 May 2018
+#www.malware-traffic-analysis.net/2018/03/09/index.html
+169.255.59.27
+sir-iyke.com
