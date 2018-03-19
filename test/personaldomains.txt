@@ -3474,3 +3474,21 @@ malwarehunterteam.bit
 5.104.188.117
 188.172.82.30
 90.141.200.228
+#21 April 2018, 20 May 2018
+#blog.malwarebytes.com/threat-analysis/2018/03/hancitor-fileless-attack-with-a-copy-trick/
+batcommunications.com
+cirewandbut.com
+mypartnerforever.me
+euforia-piekna.pl
+tebabretof.com
+dinglebetna.ru
+etranutha.ru
+babronwronot.ru
+romfinothad.ru
+herttannarit.com
+sarattatit.ru
+uldminyran.ru
+95.213.200.176
+93.189.40.107
+192.254.185.27
+185.204.219.210
