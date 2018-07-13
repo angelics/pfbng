@@ -36,6 +36,8 @@ global.adserver.yahoo.com
 googleads.g.doubleclick.net
 gjvuxnfwsngmux.bid
 
+free.babynameready.com
+
 hitcpm.com
 hsivniaui.bid
 htamaster.com
