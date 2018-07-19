@@ -349,11 +349,9 @@ wideads.info
 wildwildmedia.info
 yoursbanner.info
 zorroads.info
-#due 19 March 2017
 #blog.malwarebytes.com/cybercrime/2016/12/a-closer-look-at-a-tech-support-screen-locker/
 spcoptimizer.com
 tempuri.org
-#due 9 April 2017
 #blog.malwarebytes.com/cybercrime/2017/01/the-curious-case-of-a-sundown-ek-variant-dropping-a-cryptocurrency-miner/
 empowernetwork1.us
 empowernetwork2.us
@@ -392,7 +390,6 @@ empowernetworkpackage.com
 empowernetworksolutions.com
 pastetext.biz
 empowernetworkads.com
-#due 16 April 2017
 #blog.malwarebytes.com/cybercrime/2017/01/clickjacking-campaign-abuses-google-adsense-avoids-ad-fraud-bots/
 justhappymarriage.com
 myamericansofa.com
@@ -405,26 +402,21 @@ nicewashing.com
 theusaappliance.com
 topcaraccidentals.com
 perfectpurification.com
-#due 18 April 2017
 #blog.malwarebytes.com/threat-analysis/2017/01/new-mac-backdoor-using-antiquated-code/
 seidk.hopto.org
-#due 25 April 2017
 #blog.malwarebytes.com/cybercrime/2017/01/avoid-these-free-minecraft-garrys-mod-adverts/
 kidsvideogame.com
 thuggamerz.com
 bubblegif.com
 gameshaunt.com
-#due 9 May 2017
 #blog.malwarebytes.com/puppum/2017/02/spigot-browser-hijackers/
 proinstall-download.com
 report-download.com
 secure.fileldr08.com
-#due 22 May 2017
 #blog.malwarebytes.com/threat-analysis/2017/02/rogue-chrome-extension-pushes-tech-support-scam/
 amserver.info
 qma0.2dn.xyz
 microsoft-official-warning.info
-#due 1 June 2017
 #blog.malwarebytes.com/threat-analysis/2017/03/free-antivirus-coupon-leads-tech-support-scam/
 123care.co
 instantpccare.com
@@ -446,21 +438,16 @@ call-855-345-0911.online
 airlinescustomer.support
 #blog.malwarebytes.com/cybercrime/2017/03/australians-beware-mygov-phishing-on-the-prowl/
 peletycmc.sk
-5 June 2017
 #blog.malwarebytes.com/cybercrime/2017/03/drafta-multi-purpose-fake-online-scanner/
 systemcheck.club
-#due 25 June 2017
 #blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/new-targeted-attack-saudi-arabia-government/
 mail.spa.gov.sa
 webmail.ecra
-22 June 2017
 #blog.malwarebytes.com/cybercrime/2017/03/advanis-tech-support-screenlocker/
 getfixpc.net
 installreports.com
-#due 20 June 2017
 #blog.malwarebytes.com/cybercrime/social-engineering-cybercrime/2017/03/sms-phishing-for-the-masses/
 chatfellow.com
-#due 19 June 2017
 #blog.malwarebytes.com/threat-analysis/exploits-threat-analysis/2017/03/canada-u-k-hit-ramnit-trojan-new-malvertising-campaign/
 set.designervintagejewelry.com
 cxz.suttonsite.com
@@ -494,13 +481,11 @@ try.sjtri.com
 add.lvgoldenknightsfan.com
 free.cmlib.info
 act.twoocomms.com
-#due 18 June 2017
 #blog.malwarebytes.com/cybercrime/2017/03/twitter-app-spams-fappening-bait-amazon-surveys/
 twitter.specialoffers.pw
 Viralnews.com
 specialoffers.pw
 brazzershd.co
-#due 29 June 2017
 #reddit.com/r/sysadmin/comments/6276sp/fyi_skype_currently_serving_infected_ads/dfkbtr4/
 *.msads.net
 *.msecn.net
@@ -781,12 +766,10 @@ torifyme.com
 side.chobaniandyr.com
 unisdr.top
 trackerhost.us
-#due 2 July 2017, 3 May 2017
 #malware-traffic-analysis.net/2017/04/03/index3.html
 open.auctionforintros.com
 statcs.s76.r53.com.ua
 statcs.s76.r53.com.ua
-#30 18 May 2017, 90 17 July 2017, 180 15 October 2017
 #www.malware-traffic-analysis.net/2017/04/18/index.html
 elearning.lamission.edu
 torifyme.com
@@ -794,7 +777,6 @@ new.5efinance.com
 unisdr.top
 trackerhost.us
 gerber.gdn
-#30 18 May 2017, 90 17 July 2017, 180 15 October 2017
 #www.malware-traffic-analysis.net/2017/04/18/index2.html
 crashcourses-cornwall.co.uk
 crashcourses-plymouth.co.uk
@@ -828,7 +810,6 @@ miadmar.ro
 muco-interieur.be
 publieuropa.com
 royalhotelgrenoble.com
-#30 19 May 2017, 90 18 July 2017, 180 16 October 2017
 #www.malware-traffic-analysis.net/2017/04/19/index.html
 admiral22.ru
 akcamur.ru
@@ -861,7 +842,6 @@ hotelesencarnaciondediaz.com
 myxpert.ch
 prom-avt.ru
 test.iwantgold.ru
-#30 19 May 2017, 90 18 July 2017, 180 16 October 2017
 #www.malware-traffic-analysis.net/2017/04/19/index2.html
 barkave.comcastbiz.net
 barrets.com.br
@@ -888,7 +868,6 @@ thefatdude.co.uk
 twotime.comcastbiz.net
 webrus.net
 jeanevermore.com
-#30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #www.malware-traffic-analysis.net/2017/04/20/index.html
 clinicalpsychology.psiedu.ubbcluj.ro
 torifyme.com
@@ -896,13 +875,11 @@ saywitzproperties.com
 unisdr.top
 trackerhost.us
 gerber.gdn
-#30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #www.malware-traffic-analysis.net/2017/04/20/index2.html
 badwerkad.top
 resettinfgd1991.pw
 resettinfgd1991.club
 p27dokhpz2n7nvgr.1jpb8w.top
-#30 20 May 2017, 90 19 July 2017, 180 17 October 2017
 #blog.malwarebytes.com/threat-analysis/2017/04/binary-options-malvertising-campaign-drops-isfb-banking-trojan/
 all-binarys-option.com
 all-binarys-options.com
@@ -939,7 +916,6 @@ meter.em-8.narovlya.ru
 applet.x-3.nomundodapaula.com.br
 ip-addr.es
 aeeeeeeeeeeeeeeeeeeeeeeeeeeeva.onion
-#30 21 May 2017,90 20 July 2017,180 18 October 2017
 #www.malware-traffic-analysis.net/2017/04/21/index2.html
 contentcrew.co.uk
 gfkam.ru
@@ -955,13 +931,11 @@ js-electronics.be
 mantenimientos.mx
 petitions.ie
 spiritlifestyle.org
-#30 21 May 2017,90 20 July 2017,180 18 October 2017
 #blog.malwarebytes.com/threat-analysis/2017/04/elusive-moker-trojan/
 bitmixc.ml
 matthi.tk
 sally33.cf
 siri5.ml
-#30 21 May 2017, 90 20 July 2017, 180 18 October 2017
 #www.malware-traffic-analysis.net/2017/04/21/index3.html
 abcenglishclub.com
 aielloengineering.com
@@ -977,7 +951,6 @@ ros-jurist.ru
 sgph.comcastbiz.net
 sherwoodbusiness.com
 uwdesign.com.br
-#30 24 May 2016,90 23 July 2017, 180 21 October 2017
 #www.malware-traffic-analysis.net/2017/04/24/index.html
 dintandnesin.ru
 pardtosinsing.ru
@@ -985,11 +958,9 @@ homepages.inf.ed.ac.uk
 howrowthettof.com
 www.casalparis.cat
 ropretratspar.com
-#30 25 May 2016,90 24 July 2017, 180 22 October 2017
 #www.malware-traffic-analysis.net/2017/04/25/index.html
 hurtmehard.net
 end.chaggama.com
-#30 26 May 2016,90 25 July 2017, 180 23 October 2017
 #www.malware-traffic-analysis.net/2017/04/26/index.html
 www.apui95.org
 www.arcoglass.net
@@ -1028,7 +999,6 @@ js-electronics.be
 lecamorariu.ro
 protectie-electromagnetica.ro
 smulpapentocht.be
-#30 26 May 2016,90 25 July 2017, 180 23 October 2017
 #www.malware-traffic-analysis.net/2017/04/26/index2.html
 IPACUNIV.COM
 LORIBYDESYGN.NET
@@ -1038,20 +1008,17 @@ withedtwilrit.ru
 thenwisedsup.com
 ciceromc.com
 kparxehisfup.com
-#30 27 May 2016,90 26 July 2017, 180 24 October 2017
 #www.malware-traffic-analysis.net/2017/04/27/index.html
 37kddsserrt.xyz
 castrokolaz.top
 wowaskopoq.top
 p27dokhpz2n7nvgr.1kyjw7.top
-#30 31 May 2016,90 30 July 2017, 180 28 October 2017
 #www.malware-traffic-analysis.net/2017/05/01/index.html
 dhvoilfieldservices.com
 karmafishing.biz
 morolrecto.com
 tulsawebconnect.com
-tertdownugand.
-#30 1 June 2017,90 31 July 2017, 180 29 October 2017
+tertdownugand.com
 #www.malware-traffic-analysis.net/2017/05/02/index.html
 37kddsserrt.pw
 37kddsserrt.xyz
@@ -1060,7 +1027,6 @@ kingzoneg.top
 seahomevb.top
 p27dokhpz2n7nvgr.12hxjv.top
 fn2tdeabqbhnhnzw.onion.cab
-#30 1 June 2017,90 31 July 2017, 180 29 October 2017
 #www.malware-traffic-analysis.net/2017/05/02/index2.html
 porkaporka.com
 neveralonehomecare.org
@@ -1070,10 +1036,8 @@ umberto40.ru
 hissupsparve.com
 myrerithad.ru
 hesoneheci.ru
-#30 2 June 2017,90 1 August 2017, 180 30 October 2017
 #www.malware-traffic-analysis.net/2017/05/04/index.html
 aoids03wkde38.us
-#30 2 June 2017,90 1 August 2017, 180 30 October 2017
 #www.malware-traffic-analysis.net/2017/05/04/index2.html
 ALARISREALESTATE.COM
 LAZYJPRINTINGSERVICES.COM
@@ -1081,7 +1045,6 @@ sitcahadling.com
 sebastianbizduna.com
 thephahedthe.com
 didnhelittrat.com
-#30 3 June 2017,90 2 August 2017, 180 31 October 2017
 #www.malware-traffic-analysis.net/2017/05/05/index.html
 gangvooloq.top
 johnalmcx.top
@@ -1089,14 +1052,12 @@ batypli3werty.top
 oudiautimativc.top
 p27dokhpz2n7nvgr.17gvad.top
 p27dokhpz2n7nvgr.133chr.top
-#8 June 2017, 7 August 2017, 5 November 2017
 #www.malware-traffic-analysis.net/2017/05/09/index.html
 slotdown.info
 slotdown3.info
 free.420native.org
 b.trabiudsfaum.net
 l.trabiudsfaum.net
-#8 June 2017, 7 August 2017, 5 November 2017
 #www.malware-traffic-analysis.net/2017/05/09/index2.html
 andsihowdint.ru
 boatingflagpole.com
@@ -1112,7 +1073,6 @@ zariyamatrimony.com
 geheppauld.com
 codybraithwaite.com
 wadidncise.com
-#9 June 2017, 8 August 2017, 6 November 2017
 #www.malware-traffic-analysis.net/2017/05/10/index.html
 mopooland.top
 sousedopac.top
@@ -1124,7 +1084,6 @@ wscfgfr23azfg.top
 p27dokhpz2n7nvgr.1hkjl3.top
 p27dokhpz2n7nvgr.1eetmp.top
 p27dokhpz2n7nvgr.1jyhqc.top
-#9 June 2017, 8 August 2017, 6 November 2017
 #www.malware-traffic-analysis.net/2017/05/10/index2.html
 wronforbethim.ru
 hoteronver.ru
@@ -1133,12 +1092,10 @@ dev.byjustice.com
 johntocoheckri.com
 ledderofort.com
 repandranre.ru
-#10 June 2017, 9 August 2017, 7 November 2017
 #www.malware-traffic-analysis.net/2017/05/11/index.html
 sell.northwestfloridacannabis.online
 top.northwestfloridacannabis.org
 mudsaoojbjijj999.com
-#10 June 2017, 9 August 2017, 7 November 2017
 #www.malware-traffic-analysis.net/2017/05/11/index2.html
 demirbasetiketi.net
 gokcentunc.com
@@ -1146,19 +1103,16 @@ ikincielesyaevi.com
 ronakco.com
 samenloopvanomstandigheden.nl
 steuer-wirtschaft-recht.de
-#11 June 2017, 10 August 2017, 8 November 2017
 #www.malware-traffic-analysis.net/2017/05/12/index.html
 unityqueryzouneasty.pw
 momendfakol.top
 p27dokhpz2n7nvgr.1mfakx.top
-#11 June 2017, 10 August 2017, 8 November 2017
 #www.malware-traffic-analysis.net/2017/05/12/index2.html
 vsa.revolution-inspire-water.com
 sas.siliconsantamonica.com
 xzx.soulbatical.co
 add.venicebeachsurflodge.com
 top.5nerds.com
-#11 June 2017, 10 August 2017, 8 November 2017
 #www.malware-traffic-analysis.net/2017/05/12/index3.html
 eduartfun.pl
 followthecamera.com
@@ -1168,7 +1122,6 @@ ns.patricklepinay.com
 ronakco.com
 steuer-wirtschaft-recht.de
 vasterasstadsmission.se
-#14 June 2017, 13 August 2017, 11 November 2017
 #www.malware-traffic-analysis.net/2017/05/15/index.html
 urachart.com
 fotografikum.com
@@ -1177,7 +1130,6 @@ byydei74fg43ff4f.net
 sjffonrvcik45bd.info
 h552terriddows.com
 rktazuzi7hbln7sy.onion
-#15 June 2017, 14 August 2017, 12 November 2017
 #www.malware-traffic-analysis.net/2017/05/16/index.html
 herrossoidffr6644qa.top
 jsplast.ru
@@ -1193,22 +1145,18 @@ vipan-photography.com
 wizbam.com
 eesiiuroffde445.com
 rktazuzi7hbln7sy.onion
-#15 June 2017, 14 August 2017, 12 November 2017
 #www.malware-traffic-analysis.net/2017/05/16/index2.html
 REALCHANGEGLOBAL.US
 dohehotont.ru
 ormolesit.com
 yusufdemirci.com.tr
 oneharhaprow.com
-#16 June 2017, 15 August 2017, 13 November 2017
 #www.malware-traffic-analysis.net/2017/05/17/index.html
 www.intothebluefishing.com
 clinicalpsychology.psiedu.ubbcluj.ro
 spora.biz
-#28 May 2017, 27 July 2017, 25 October 2017
 #www.broadanalysis.com/2017/04/28/rig-exploit-kit-via-eitest-campaign-delivers-mole-ransomware/
 add.thebestofwichitadirectory.com
-#21 June 2017, 20 August 2017, 18 November 2017
 #www.malware-traffic-analysis.net/2017/05/22/index.html
 brotexxshferrogd.net
 datadunyasi.com
@@ -1228,7 +1176,6 @@ way2lab.com
 217.29.63.199
 trollitrancessions.net
 rktazuzi7hbln7sy.onion
-#21 June 2017, 20 August 2017, 18 November 2017
 #www.malware-traffic-analysis.net/2017/05/22/index.html
 brotexxshferrogd.net
 datadunyasi.com
@@ -1247,7 +1194,6 @@ tipografia.by
 way2lab.com
 trollitrancessions.net
 rktazuzi7hbln7sy.onion
-#23 June 2017, 22 August 2017, 20 November 2017
 #www.malware-traffic-analysis.net/2017/05/24/index.html
 david-faber.de
 elateplaza.com
@@ -1263,7 +1209,6 @@ tdtuusula.com
 williams-fitness.com
 maximusstafastoriesticks.info
 rktazuzi7hbln7sy.onion
-#23 June 2017, 22 August 2017, 20 November 2017
 #www.malware-traffic-analysis.net/2017/05/24/index2.html
 better57toiuydof.net
 david-faber.de
@@ -1277,7 +1222,6 @@ tdtuusula.com
 uslugitransportowe-warszawa.pl
 y887drossetorling.info
 rktazuzi7hbln7sy.onion
-#24 June 2017, 23 August 2017, 21 November 2017
 #www.malware-traffic-analysis.net/2017/05/25/index.html
 homesmartinsurancegroup.com
 fordebubut.com
@@ -1286,7 +1230,6 @@ www.homesdecoratingideas.com
 rewningiden.com
 kedrolhechedt.com
 dijussoda.com
-#24 June 2017, 23 August 2017, 21 November 2017
 #www.malware-traffic-analysis.net/2017/05/25/index2.html
 better57toiuydof.ne
 blackstoneconsultants.com
@@ -1296,17 +1239,14 @@ hunter.cz
 youtoolgrabeertorse.org
 dorobratiohdtyszxwk.com
 rktazuzi7hbln7sy.onion
-#24 June 2017, 23 August 2017, 21 November 2017
 #www.malware-traffic-analysis.net/2017/05/25/index3.html
 1317587423345278789.win
 gio.aquastring.bid
 wide.bonesboxowersa.info
 port.preferredsurgicenter.com
 supportjy2xvvdmx.onion
-#25 June 2017, 24 August 2017, 22 November 2017
 #www.malware-traffic-analysis.net/2017/05/26/index.html
 dhldeliverymailservice.com
-#25 June 2017, 24 August 2017, 22 November 2017
 #www.malware-traffic-analysis.net/2017/05/26/index2.html
 462781647864529375896239.win
 gio.aquastring.bid
@@ -1314,7 +1254,6 @@ wide.bonesboxowersa.info
 art.606kingsplace.com
 p27dokhpz2n7nvgr.1fgywm.top
 shernagarasfmadrasah.edu.bd
-#29 June 2017, 28 August 2017, 26 November 2017
 #www.malware-traffic-analysis.net/2017/05/30/index.html
 agaagents.com
 compshrinks.com
@@ -1324,24 +1263,20 @@ WESTCOASTRR.COM
 calgokinhim.com
 www.yossisisrael.com
 bitengcaunzy.ru
-#29 June 2017, 28 August 2017, 26 November 2017
 #www.malware-traffic-analysis.net/2017/05/30/index2.html
 547566458877948786467.win
 14567996453586879.review
 gio.zenoricher.bid
 wide.gersaqertopove.info
 investigacion.ujcm.edu.pe
-#29 June 2017, 28 August 2017, 26 November 2017
 #www.malware-traffic-analysis.net/2017/05/30/index3.html
 we.redeemmeall.ns02.us
 add.acceleratinghealthcaretransformation.com
 set.accumen.info
 add.akselegance.com
-#30 June 2017, 29 August 2017, 27 November 2017
 #www.malware-traffic-analysis.net/2017/05/31/index.html
 krabithailandproperty.trade
 patrickcrouzet5.ddns.net
-#30 June 2017, 29 August 2017, 27 November 2017
 #www.malware-traffic-analysis.net/2017/05/31/index2.html
 gmoempartsonline.info
 GOINTROLLIN.COM
@@ -1349,11 +1284,9 @@ happyhippiemaplesyrup.com
 lingarledhes.com
 techtach.com
 waratrolper.ru
-#1 July 2017, 30 August 2017, 28 November 2017
 #www.malware-traffic-analysis.net/2017/06/01/index.html
 pidars.info
 chibasuka.top
-#1 July 2017, 30 August 2017, 28 November 2017
 #www.malware-traffic-analysis.net/2017/06/01/index2.html
 dsopro.com
 fabriquekorea.com
@@ -1365,7 +1298,6 @@ tasfirin-ustasi.net
 theexcelconsultant.com
 whoisfoxxrobiouy.net
 rktazuzi7hbln7sy.onion
-#1 July 2017, 30 August 2017, 28 November 2017
 #www.malware-traffic-analysis.net/2017/06/01/index3.html
 AWESOMEINAUSTIN.COM
 f8ality.com
@@ -1375,7 +1307,6 @@ WALKERHOMEBUILDERS.INFO
 nyatguted.com
 janettelouden.com
 soevenghappar.ru
-#2 July 2017, 31 August 2017, 29 November 2017
 #www.malware-traffic-analysis.net/2017/06/02/index.html
 eselink.com.my
 lanphuong.vn
@@ -1391,11 +1322,9 @@ strassensammler.de
 systemalu.com
 yoyogi.com.au
 zvezda-k.ru
-#2 July 2017, 31 August 2017, 29 November 2017
 #www.malware-traffic-analysis.net/2017/06/02/index2.html
 free.crystallandis.com
 atw82ye63ymdp.com
-#5 July 2017, 3 September 2017, 2 December 2017
 #www.malware-traffic-analysis.net/2017/06/05/index.html
 multielectricos.com
 newserniggrofg.net
@@ -1408,11 +1337,9 @@ zhongjianbao.com
 46.101.154.177
 85.214.126.182
 89.110.157.78
-#9 July 2017, 7 September 2017, 6 December 2017
 #www.malware-traffic-analysis.net/2017/06/06/index.html
 www.redirectforum.ru
 pationare.bit
-#9 July 2017, 7 September 2017, 6 December 2017
 #www.malware-traffic-analysis.net/2017/06/06/index2.html
 10minutesto1.net
 cafe-bg.com
@@ -1433,7 +1360,6 @@ supplementsandfitness.com
 zechsal.pl
 whoisfoxxrobiouy.net
 rktazuzi7hbln7sy.onion
-#9 July 2017, 7 September 2017, 6 December 2017
 #www.malware-traffic-analysis.net/2017/06/06/index3.html
 GANDSSTORE.CO.UK
 GILBERTANDSULLIVANSTORE.CO.UK
@@ -1445,11 +1371,9 @@ betsihedtwi.ru
 hedttoftsanot.ru
 retinningheg.ru
 theburatrin.ru
-#10 July 2017, 8 September 2017, 7 December 2017
 #www.malware-traffic-analysis.net/2017/06/07/index.html
 paste.ee
 deniumwears.xyz
-#10 July 2017, 8 September 2017, 7 December 2017
 #www.malware-traffic-analysis.net/2017/06/07/index2.html
 fenixconnection.com
 PAMTHELANDGAL.COM
@@ -1457,13 +1381,11 @@ tee2green.org
 bettontgotbab.com
 www.valdelomarasesores.com
 foonlachim.ru
-#11 July 2017, 9 September 2017, 8 December 2017
 #www.malware-traffic-analysis.net/2017/06/08/index.html
 prefeitura.gov.br.impostocontribuinte.com
 cthrp.com.br
 www.horariodebrasilia.org
 hinv8cwfrkp.ddns.net
-#11 July 2017, 9 September 2017, 8 December 2017
 #www.malware-traffic-analysis.net/2017/06/08/index2.html
 brri.in
 bucksinvestmentgroup.com
@@ -1480,19 +1402,15 @@ www.av-signage.de
 suphersun.ru
 downdintwiltit.ru
 lonemoning.ru
-#12 July 2017, 10 September 2017, 9 December 2017
 #www.malware-traffic-analysis.net/2017/06/09/index.html
 gio.connecthome.top
 help.reportgeek.gdn
-#15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index2.html
 opred.net
 cloud.pathwaystopromise.info
 stat.isabellebellamodel.ch
-#15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index3.html
 weekendnerd.com
-#15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index4.html
 78tguyc876wwirglmltm.net
 e67tfgc4uybfbnfmd.org
@@ -1504,7 +1422,6 @@ skveselka.wz.cz
 syrianchristiancentre.org
 ulyanky.ru
 ythongye.com
-#15 July 2017, 13 September 2017, 12 December 2017
 #www.malware-traffic-analysis.net/2017/06/12/index5.html
 CMGPLACEMENT.NET
 digitalactionist.com
@@ -1514,7 +1431,6 @@ MYSAFERRETIREMENT.COM
 gaparugret.com
 controlzeta.cl
 evengtounty.com
-#16 July 2017, 14 September 2017, 13 December 2017
 #www.malware-traffic-analysis.net/2017/06/13/index.html
 16892.net
 78tguyc876wwirglmltm.net
@@ -1536,7 +1452,6 @@ zabandan.com
 zebtex.com
 hv7verjdhfbvdd44f.info
 rktazuzi7hbln7sy.onion
-#17 July 2017, 15 September 2017, 14 December 2017
 #www.malware-traffic-analysis.net/2017/06/14/index.html
 equaldayequalpay.info
 lyftreviewer.com
@@ -1547,7 +1462,6 @@ rirethenheg.com
 realassist.ca
 www.madeinla.fr
 johngasebed.ru
-#17 July 2017, 15 September 2017, 14 December 2017
 #www.malware-traffic-analysis.net/2017/06/14/index2.html
 56530006.com
 78tguyc876wwirglmltm.net
@@ -1563,13 +1477,11 @@ sandat-bali.com
 sharuindustries.com
 snnftp.com
 www.montostroj.eu
-#18 July 2017, 16 September 2017, 15 December 2017
 #www.malware-traffic-analysis.net/2017/06/15/index.html
 promose.info
 publicable.info
 atw82ye63ymdp.com
 wdwefwefwwfewdefewfwefw.onion
-#18 July 2017, 16 September 2017, 15 December 2017
 #www.malware-traffic-analysis.net/2017/06/15/index2.html
 attorneycreditcardservices.com
 BLACKBELT.CC
@@ -1585,7 +1497,6 @@ insight.com.vc
 schoolhousebrasil.com.br
 foaningundthe.com
 hertertrighheg.com
-#19 July 2017, 17 September 2017, 16 December 2017
 #www.malware-traffic-analysis.net/2017/06/16/index.html
 5w9u7np1.i7o8e15brw3eed5jabzl9hu3zuxx1o8l.top
 view.4tqgbgond2m7tbeo73jlvcd0vfkao7qm.pw
@@ -1594,29 +1505,23 @@ www.petr4.in
 ssl.suzukiburgman.top
 log.suzukiburgman.top
 imestre.suzukiburgman.top
-#19 July 2017, 17 September 2017, 16 December 2017
 #www.malware-traffic-analysis.net/2017/06/16/index2.html
 rabbey.info
 immedience.info
 wdwefwefwwfewdefewfwefw.onion
-#23 July 2017, 21 September 2017, 20 December 2017
 #www.malware-traffic-analysis.net/2017/06/19/index.html
 sungary.info
-#23 June 2017, 23 July 2017, 20 November 2017
 #broadanalysis.com/2017/05/24/rig-exploit-kit-via-eitest-campaign-from-109-234-36-68-delivers-mole-ransomware/
 set.tilleystudio.com
 supportjy2xvvdmx.onion
-#24 July 2017, 22 September 2017, 21 December 2017
 #www.malware-traffic-analysis.net/2017/06/20/index.html
 observice.info
 multifest.bit
 wdwefwefwwfewdefewfwefw.onion 
-#24 July 2017, 22 September 2017, 21 December 2017
 #www.malware-traffic-analysis.net/2017/06/21/index.html
 jackpotfr22.cf
 i.demblickfine.com
 v.demblickfine.com
-#25 July 2017, 23 September 2017, 22 December 2017
 #www.malware-traffic-analysis.net/2017/06/21/index2.html
 CROWNLINKSCOFFEE.COM
 DFWBENEFITSBROKER.COM
@@ -1631,7 +1536,6 @@ tontorrombut.com
 ritterthimi.com
 musicismyfirstlanguage.com
 muchrutontor.com
-#26 July 2017, 24 September 2017, 23 December 2017
 #www.malware-traffic-analysis.net/2017/06/22/index.html
 1time.nl
 asathlon.it
@@ -1655,7 +1559,6 @@ tyastudio.com
 unitedtanga.com
 www.losangelesrelocationservices.net
 g46mbrrzpfszonuk.onion
-#30 July 2017, 28 September 2017, 27 December 2017
 #www.malware-traffic-analysis.net/2017/06/26/index.html
 DSGLIFEINSURANCE.COM
 DSGWELLNESS365.COM
@@ -1665,7 +1568,6 @@ thepillownurse.info
 dintrolletone.com
 pousadaruralsolardosventos.com
 cajohnorro.com
-#31 July 2017, 29 September 2017, 28 December 2017
 #www.malware-traffic-analysis.net/2017/06/27/index.html
 2015FORDMUSTANGPARTS.COM
 akrapovicexhaustsystems.com
@@ -1674,12 +1576,10 @@ SERENITYKATY.NET
 ototmidi.com
 bretagne.plus
 undtinjohnaning.com
-#1 August 2017, 30 September 2017, 29 December 2017
 #www.malware-traffic-analysis.net/2017/06/28/index2.html
 coolfamerl.top
 clippodoops.top
 xpcx6erilkjced3j.1t2jhk.top
-#1 August 2017, 30 September 2017, 29 December 2017
 #www.malware-traffic-analysis.net/2017/06/28/index3.html
 AWAREARRESTALIGN.COM
 carbnfuel.com
@@ -1692,7 +1592,6 @@ ranlingthetne.com
 www.prava.com.br
 www.librodeapuntes.es
 tounundhem.com
-#2 August 2017, 1 October 2017, 30 December 2017
 #www.malware-traffic-analysis.net/2017/06/29/index.html
 ALLENSMECHANICAL.BIZ
 allensmechanical.net
@@ -1703,7 +1602,6 @@ ranermed.com
 batbetorzen.com
 transoffice.org
 repwasswithhow.com
-#2 August 2017, 1 October 2017, 30 December 2017
 #www.malware-traffic-analysis.net/2017/06/29/index2.html
 amis-spb.ru
 artdecorfashion.com
@@ -1714,11 +1612,9 @@ modx.mbalet.ru
 natiwa.com
 perdasbasalti.it
 resedaplumbing.com
-#3 August 2017, 2 October 2017, 31 December 2017
 #www.malware-traffic-analysis.net/2017/06/30/index.html
 operty.info
 multifest.bit
-#6 August 2017, 5 October 2017, 3 January 2018
 #www.malware-traffic-analysis.net/2017/07/03/index.html
 auburnmachine.com
 careermoveresumes.us
@@ -1731,7 +1627,6 @@ WOMENSLIFEANDSTYLEEXPO.COM
 fortronsofher.com
 wonderhosting.ru
 makedbosand.com
-#6 August 2017, 5 October 2017, 3 January 2018
 #www.malware-traffic-analysis.net/2017/07/03/index2.html
 artdecorfashion.com
 csasesores.com.ar
@@ -1746,12 +1641,10 @@ vademecsa.com.ar
 vindexsa.com.ar
 winnicemoldawii.pl
 www.gloszp.pl
-#8 August 2017, 7 October 2017, 5 January 2018
 #www.malware-traffic-analysis.net/2017/07/05/index.html
 liomericka504.cz
 bifoop.com
 centler.at 
-#8 August 2017, 7 October 2017, 5 January 2018
 #blog.malwarebytes.com/cybercrime/2017/07/adgholas-malvertising-thrives-shadows-ransomware-outbreaks/
 expert-essays.com
 jet-travels.com
@@ -1771,15 +1664,12 @@ nstru.onlytechtalks.com
 const.linksaffpixel.com
 quely.onlytechtalks.com
 coneq.modweave.com
-#9 August 2017, 8 October 2017, 6 January 2018
 #www.malware-traffic-analysis.net/2017/07/06/index.html
 additionarl.racing
 instavape7.top
-#10 August 2017, 9 October 2017, 7 January 2018
 #www.malware-traffic-analysis.net/2017/07/07/index.html
 5pontos.consultacnhpontos.online
 www.sisgestao.com.br
-#13 August 2017, 12 October 2017, 10 January 2018
 #www.malware-traffic-analysis.net/2017/07/10/index.html
 anahata2011.ru
 atagarden.com
@@ -1791,22 +1681,18 @@ infosoft.pl
 lamancha.club
 serdcezemli.ru
 www.shiashop.com
-#13 August 2017, 12 October 2017, 10 January 2018
 #www.malware-traffic-analysis.net/2017/07/10/index2.html
 homocyte.info
-#18 August 2017, 17 October 2017, 15 January 2018
 #www.malware-traffic-analysis.net/2017/07/12/index.html
 via2.downatual.online
 autenticalives.com
 www.autenticalives.com
-#20 August 2017, 19 October 2017, 17 January 2018
 #www.malware-traffic-analysis.net/2017/07/14/index2.html
 www.rvdecor.com
 www.cpm10.com
 ynqicmcf.top
 df-th-37.s3.amazonaws.com
 errorx00xe0xx-support.com
-#20 August 2017, 19 October 2017, 17 January 2018
 #www.malware-traffic-analysis.net/2017/07/14/index.html
 anahata2011.ru
 b2stomatologia.pl
@@ -1825,13 +1711,11 @@ ongediertebestrijding.midholland.nl
 serdcezemli.ru
 snw.snellewieken.nl
 www.shiashop.com
-#23 August 2017, 22 October 2017, 20 January 2018
 #www.malware-traffic-analysis.net/2017/07/17/index.html
 experimea.info
 www.steelskull.com
 parking-services.us
 hdyejdn638ir8.com
-#24 August 2017, 23 October 2017, 21 January 2018
 #www.malware-traffic-analysis.net/2017/07/18/index.html
 bandanamedia.com
 gimn5.by
@@ -1844,7 +1728,6 @@ bgl3mwo7z3pqyysm.onion
 bgl3mwo7z3pqyysm.onion.casa
 bgl3mwo7z3pqyysm.onion.link
 bgl3mwo7z3pqyysm.onion.to
-#26 August 2017, 25 October 2017, 23 January 2018
 #www.malware-traffic-analysis.net/2017/07/20/index.html
 bestbrokerageever.com
 bestbrokerever.net
@@ -1869,7 +1752,6 @@ nmultra2014.no
 yana-k-design.com
 lvpar.com.br
 nofocalen.com
-#27 August 2017, 26 October 2017, 24 January 2018
 #www.malware-traffic-analysis.net/2017/07/21/index.html
 eit5Nlh4.3z3vyvpmatjal5qaodz6tmrqmg1uucx7.pw
 axecapital.ld0wcb3eblogzsux00lwpftdabrus5to.pw
@@ -1877,7 +1759,6 @@ www.petr4.in
 ssl.suzukiburgman.top
 log.suzukiburgman.top
 imestre.suzukiburgman.top
-#1 September 2017, 31 October 2017, 29 January 2018
 #www.malware-traffic-analysis.net/2017/07/26/index.html
 anduron.com
 approxim.com
@@ -1919,10 +1800,8 @@ blushphotoandfilm.com
 bugbbq.com
 dzynr.com
 netoip.com
-#4 September 2017, 3 October 2017, 1 January 2018
 #www.malware-traffic-analysis.net/2017/07/29/index.html
 cabeiriscout.faith
-#6 September 2017, 5 October 2017, 3 January 2018
 #www.malware-traffic-analysis.net/2017/07/31/index.html
 cattolica2000.it
 colorglobe.in
@@ -1945,16 +1824,13 @@ tdtuusula.com
 trredfcjrottrdtwwq.net
 n224ezvhg4sgyamb.onion
 serv1.xyz
-#7 September 2017, 6 October 2017, 4 January 2018
 #www.malware-traffic-analysis.net/2017/08/01/index.html
 amond.info
 wdwefwefwwfewdefewfwefw.onion
-#8 September 2017, 7 October 2017, 5 January 2018
 #www.malware-traffic-analysis.net/2017/08/02/index.html
 b16eauf5z38u9l.ourspen.com
 d84d21ud9dm9a74y.keyvote.webcam
 oqwygprskqv65j72.1hbdbx.top
-#8 September 2017, 7 October 2017, 5 January 2018
 #www.malware-traffic-analysis.net/2017/08/02/index2.html
 foundationofyet.net
 thefamilymoneyfarm.com
@@ -1962,7 +1838,6 @@ etdintuseoft.com
 www.hlinv.net
 toflingtinjo.ru
 ersrofsafah.ru
-#8 September 2017, 7 October 2017, 5 January 2018
 #www.malware-traffic-analysis.net/2017/08/02/index3.html
 akuboweb.com
 benjamindiggles.com
@@ -1978,7 +1853,6 @@ twi-emailer.nl
 yourlocalsearch.ca
 n224ezvhg4sgyamb.onion
 serv1.xyz
-#9 September 2017, 8 October 2017, 6 January 2018
 #www.malware-traffic-analysis.net/2017/08/03/index.html
 MERIDIANNATIONALTITLE.COM
 MERIDIANNATL.INFO
@@ -1987,7 +1861,6 @@ tewocarof.ru
 allemansgallivare.se
 tinjotofling.com
 ranwashertbi.com
-#10 September 2017, 9 October 2017, 7 January 2018
 #www.malware-traffic-analysis.net/2017/08/04/index.html
 63b65c2hbbf1.salehad.com
 3763c87uc95awe75q.salehad.com
@@ -2002,7 +1875,6 @@ a0869a8d9w.salehad.com
 2fcdg7ef8.endsbig.bid
 bfl5d5f83o88.pivary.racing
 qfjhpgbefuhenjp7.16g9ub.top
-#8 September 2017, 7 October 2017, 5 January 2018
 #blog.malwarebytes.com/cybercrime/2017/08/enemy-at-the-gates-reviewing-the-magnitude-exploit-kit-redirection-chain/
 paypalinvest.info
 bestmoneyinvest.net
@@ -2033,20 +1905,16 @@ e4cua85j8w06crek833x.helpfix.stream
 7a48s4eu85kaeu4p3.doebulk.com
 906q2u4567021q.usfixes.com
 93c452ci0.deskif.com
-#13 September 2017, 12 October 2017, 10 January 2018
 #www.malware-traffic-analysis.net/2017/08/07/index.html
 bbbcompliance.com
 metrics.kz
-#15 September 2017, 14 October 2017, 12 January 2018
 #www.malware-traffic-analysis.net/2017/08/09/index.html
 inf.hambersandp02.host
 controlek01.asia
-#15 September 2017, 14 October 2017, 12 January 2018
 #blog.malwarebytes.com/threat-analysis/2017/08/cerber-ransomware-delivered-format-different-order-magnitude/
 spinner-art.org
 511bcl9645285d2w.himlead.com
 7fm0cd7d16w37.noneno.space
-#16 September 2017, 15 October 2017, 13 January 2018
 #www.malware-traffic-analysis.net/2017/08/10/index.html
 enviroluxgrowlights.com
 enviroluxlighting.net
@@ -2057,7 +1925,6 @@ littwileftbi.ru
 betaresourcesltd.com
 heghaptedfa.ru
 betwassjusthen.com
-#17 September 2017, 16 October 2017, 14 January 2018
 #www.malware-traffic-analysis.net/2017/08/11/index.html
 3e.com.pt
 6tricksguides.com
@@ -2071,7 +1938,6 @@ rtozottosdossder.net
 seoulhome.net
 starsafety.net
 g46mbrrzpfszonuk.onion
-#18 September 2017, 17 October 2017, 15 January 2018
 #www.malware-traffic-analysis.net/2017/08/12/index.html
 akustikingenieur.de
 carriereiserphotography.com
@@ -2089,7 +1955,6 @@ kartautoeskola.com
 lexpertpret.com
 usdata.estoreseller.com
 natwestsecmsg.co.uk
-#21 September 2017, 20 October 2017, 18 January 2018
 #www.malware-traffic-analysis.net/2017/08/15/index.html
 santanderdocs.co.uk
 centromiosalud.es
@@ -2101,26 +1966,21 @@ nationwidesecure.co.uk
 natwestdocuments6.ml
 santandersecuremessage.com
 securenatwest.co.uk
-#27 September 2017, 26 October 2017, 24 January 2018
 #www.malware-traffic-analysis.net/2017/08/21/index.html
 cagliaricity.com
 cepsanny.com.br
-#27 September 2017, 26 October 2017, 24 January 2018
 #www.malware-traffic-analysis.net/2017/08/21/index2.html
 impacthealthnow.net
 impacthealthnow.org
 butsulacoft.com
 tekstheks.nl
 fortsiretbab.com 
-#1 October 2017, 30 October 2017, 28 January 2018
 #www.malware-traffic-analysis.net/2017/08/25/index.html
 w.bustbuy.com
 ww7.bustbuy.com
-#4 October 2017, 3 November 2017, 31 January 2018
 #www.malware-traffic-analysis.net/2017/08/28/index.html
 gamebingfree.info
 212jhhhvvhhvvhv.cf
-#8 October 2017, 4 November 2017, 4 February 2018
 #www.malware-traffic-analysis.net/2017/09/01/index.html
 www.backupcare.org
 www.canadoodles.com
@@ -2131,7 +1991,6 @@ pudgenormpers.com
 nelson3081.tk
 angel3081.tk
 angel30811.ml
-#11 October 2017, 10 November 2017, 7 February 2018
 #www.malware-traffic-analysis.net/2017/09/04/index.html
 aac-autoecole.com
 activ-conduite.eu
@@ -2163,17 +2022,14 @@ uvitacr.com
 world-tour2000.com
 summi.space
 n224ezvhg4sgyamb.onion
-#11 October 2017, 10 November 2017, 7 February 2018
 #www.malware-traffic-analysis.net/2017/09/04/index2.html
 pilateseterapiasmb.com.br
 nocs.com.br
 planaltodajaguara.com.br
-#13 October 2017, 12 November 2017, 9 February 2018
 #www.malware-traffic-analysis.net/2017/09/06/index.html
 berurn.com
 analyticstat.online
 sl.nortup.com
-#14 October 2017, 13 November 2017, 10 February 2018
 #www.malware-traffic-analysis.net/2017/09/07/index.html
 misooakville.com
 linktoenter.gq
@@ -2182,7 +2038,6 @@ shopreduceri.ro
 d.zaix.ru
 boss1488.com
 pudgenormpers.com
-#14 October 2017, 13 November 2017, 10 February 2018
 #www.malware-traffic-analysis.net/2017/09/07/index2.html>>%WINDIR%\system32\drivers\etc\hosts
 areanuova.it
 brillantelimpieza.com
@@ -2221,7 +2076,6 @@ montessibooks.com
 weekendjevliegen.nl
 babmitontwronsed.info
 g46mbrrzpfszonuk.onion
-#15 October 2017, 14 November 2017, 11 February 2018
 #www.malware-traffic-analysis.net/2017/09/08/index2.html
 ar777.ru
 molapple.ru
@@ -2241,20 +2095,17 @@ anstudio.it
 atargoryled.net
 long-an.com.tw
 babmitontwronsed.info
-#21 October 2017, 20 November 2017, 17 February 2018
 #www.welivesecurity.com/2017/09/14/cryptocurrency-web-mining-union-profit/
 static.reasedoper.pw
 mataharirama.xyz
 listat.biz
 lmodr.biz
-#22 October 2017, 21 November 2017, 18 February 2018
 #www.malware-traffic-analysis.net/2017/09/15/index.html
 ekolapsm.top
 rockjonadd.top
 longvanceramics.com.vn
 tsivn.com.vn
 g46mbrrzpfszonuk.onion
-#25 October 2017, 24 November 2017, 21 February 2018
 #blog.talosintelligence.com/2017/09/avast-distributes-malware.html
 ab6d54340c1a.com
 aba9a949bc1d.com
@@ -2267,11 +2118,9 @@ ab1145b758c30.com
 ab890e964c34.com
 ab3d685a0c37.com
 ab70a139cc3a.com
-#25 October 2017, 24 November 2017, 21 February 2018
 #www.malware-traffic-analysis.net/2017/09/18/index.html
 bengalcore.com
 focalaudiodesign.com
-#25 October 2017, 24 November 2017, 21 February 2018
 #www.malware-traffic-analysis.net/2017/09/18/index2.html
 abelfaria.pt
 grovecreative.co.uk
@@ -2295,7 +2144,6 @@ pnkparamount.com
 targeter.su
 walkama.net
 wenger-werkzeugbau.de
-#25 October 2017, 24 November 2017, 21 February 2018
 #www.malware-traffic-analysis.net/2017/09/18/index3.html
 1234CARE.COM
 1234medical.org
@@ -2303,17 +2151,12 @@ wenger-werkzeugbau.de
 JAVAJAZZERS.COM
 123care.info
 deandveri.com
-#25 October 2017, 24 November 2017, 21 February 2018
 #www.malware-traffic-analysis.net/2017/09/18/index4.html
 6-express.ch
 tregartha-dinnie.co.uk
-#30 October 2017, 29 November 2017, 26 February 2018
-#www.malware-traffic-analysis.net/2017/09/20/index.html
-#31 October 2017, 30 November 2017, 27 February 2018
 #www.malware-traffic-analysis.net/2017/09/21/index.html
 classupdate.punkdns.top
 av.bitdefenderesupdate.ru
-#1 November 2017, 1 December 2017, 28 February 2018
 #www.malware-traffic-analysis.net/2017/09/22/index.html
 EAFGI.COM
 elefson.info
@@ -2324,19 +2167,16 @@ wpipm.org
 saritbida.com
 3dprintbudapest.com
 hanrinkedhed.com
-#1 November 2017, 1 December 2017, 28 February 2018
 #www.malware-traffic-analysis.net/2017/09/22/index2.html
 vq7jtrz3.lch8gmmpxpn7dficzttxmpkmngmmgqdr.xyz
 error.lyqadqnm9hy0cveoydhuhv9gq7cmisbm.xyz
 811092dcc98648d790a1730d08245b4b.monitor-eqatec.com
 fritas.cheddarmcmelt.top
-#1 November 2017, 1 December 2017, 28 February 2018
 #www.malware-traffic-analysis.net/2017/09/22/index2.html
 vq7jtrz3.lch8gmmpxpn7dficzttxmpkmngmmgqdr.xyz
 error.lyqadqnm9hy0cveoydhuhv9gq7cmisbm.xyz
 811092dcc98648d790a1730d08245b4b.monitor-eqatec.com
 fritas.cheddarmcmelt.top
-#11 November 2017, 11 December 2017, 10 March 2018
 #www.malware-traffic-analysis.net/2017/10/02/index.html
 demeter.pt
 globoart.es
@@ -2360,7 +2200,6 @@ robsacks.com
 schwellenwertdaten.de
 sherylbro.net
 wallstproperties.com
-#12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index.html
 superiorleather.co.uk
 www.shucancan.com
@@ -2375,7 +2214,6 @@ www.et551.com
 www.lesjardinsdemilady.com
 www.prfitvxnfe.info
 www.craigjrspestservice.com
-#12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index2.html
 codepalpreplanviewer.info
 codepalpreplanviewer.net
@@ -2383,26 +2221,21 @@ codepalxa.info
 idsurinle.com
 totalmss.co.za
 wasdinglacin.com
-#12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index3.html
 web.smswhats.cf
-#12 November 2017, 12 December 2017, 11 March 2018
 #www.malware-traffic-analysis.net/2017/10/03/index4.html
 nonudoka.top
 de.tempestbytori.com
-#13 November 2017, 13 December 2017, 12 March 2018
 #www.malware-traffic-analysis.net/2017/10/04/index.html
 clinicalpsychology.psiedu.ubbcluj.ro
 printscreens.info
 p1-03101234.tk
 plt1-0210123456.tk
-#13 November 2017, 13 December 2017, 12 March 2018
 #www.malware-traffic-analysis.net/2017/10/04/index2.html
 easyuopled.info
 indiawolfk.info
 tolopkedoper.info
 g46mbrrzpfszonuk.onion
-#14 November 2017, 14 December 2017, 13 March 2018
 #www.malware-traffic-analysis.net/2017/10/05/index.html
 all4insurance.com
 goal-link.com
@@ -2411,7 +2244,6 @@ satyainstitute.info
 talwilwasled.com
 vaultpit.com
 beoftmala.com
-#15 November 2017, 15 December 2017, 14 March 2018
 #www.malware-traffic-analysis.net/2017/10/06/index.html
 error.lyqadqnm9hy0cveoydhuhv9gq7cmisbm.xyz
 t1dlve2s.uljqrqtjtvxoaes6pq25bnkodafxpol8.xyz
@@ -2420,10 +2252,8 @@ b1c1xkir.d0mrf4pcjuhlyxb2x7bu6ebany2sjh3c.top
 www.petr4.in
 imestre.suzukiburgman.top
 ssl.suzukiburgman.top
-#18 November 2017, 18 December 2017, 17 March 2018
 #www.malware-traffic-analysis.net/2017/10/09/index.html
 navbharathub.com
-#19 November 2017, 19 December 2017, 18 March 2018
 #www.malware-traffic-analysis.net/2017/10/10/index.html
 aussiescanners.com
 contapack.com.au
@@ -2442,14 +2272,11 @@ sandstonesoftware.com.au
 vodaless.net
 radionik.info
 webproj.com.br
-#19 November 2017, 19 December 2017, 18 March 2018
 #www.malware-traffic-analysis.net/2017/10/10/index2.html
 almahalliah.com
 www.lasihuolto.fi
-#20 November 2017, 20 December 2017, 19 March 2018
 #www.malware-traffic-analysis.net/2017/10/11/index.html
 beckermaquinaria.com
-#19 November 2017, 19 December 2017, 18 March 2018
 #www.malware-traffic-analysis.net/2017/10/11/index2.html
 agrourbis.com
 axtes.com
@@ -2478,7 +2305,6 @@ wiskundebijles.nu
 xploramail.com
 unhanorarse.info
 g46mbrrzpfszonuk.onion
-#21 November 2017, 21 December 2017, 20 March 2018
 #www.malware-traffic-analysis.net/2017/10/13/index.html
 gonesalejk.info
 johnmoplan.top
@@ -2489,7 +2315,6 @@ mbfce24rgn65bx3g.0ny42p.com
 z5dq36kjy5swjtmr.hp8ewo.net
 z5dq36kjy5swjtmr.0ny42p.com
 z5dq36kjy5swjtmr.onion
-#24 November 2017, 24 December 2017, 23 March 2018
 #www.malware-traffic-analysis.net/2017/10/16/index.html
 bridlewoodpark.ca
 celebration-living.ca
@@ -2513,13 +2338,11 @@ tontoftguthat.com
 leicam.com.au
 www.stressbenders.com
 davenyhes.com
-#25 November 2017, 25 December 2017, 24 March 2018
 #www.malware-traffic-analysis.net/2017/10/17/index.html
 brsmdpfiuuhbvgc21yrz8ovkqdt7tw40k3esen9xagw5laflcyjonxzmpi6hqj.2pih5uvlsgjomgy4zuxx81adce3oj7dkv9qtcbnasnw6rqiryflfwtzphmk0eb.zhmhptkstakixgobldls4viyw1jeuno9gj6wb02enury7vra5dcqfpfxc8z3qm.explanation-brother-in-law.cricket
 pcbjezw.explanation-shampoo.cricket
 hellobro.bit
 u.teknik.io
-#27 November 2017, 27 December 2017, 26 March 2018
 #www.malware-traffic-analysis.net/2017/10/19/index.html
 ryanbaptistchurch.com
 shamanic-extracts.biz
@@ -2529,19 +2352,15 @@ arkberg-design.fi
 alexandradickman.com
 centralbaptistchurchnj.org
 conxibit.com
-#1 December 2017, 31 December 2017, 30 March 2018
 #www.malware-traffic-analysis.net/2017/10/23/index.html
 farizcollection.com
-#2 December 2017, 1 January 2018, 31 March 2018
 #www.malware-traffic-analysis.net/2017/10/24/index.html
 byrangkai.com
 www.rentech.com.tr
-#2 December 2017, 1 January 2018, 31 March 2018
 #www.malware-traffic-analysis.net/2017/10/24/index2.html
 pawsprings.ca
 supportte24101234567.tk
 techsuper24101.tk
-#2 December 2017, 1 January 2018, 31 March 2018
 #www.malware-traffic-analysis.net/2017/10/24/index3.html
 transmercasa.com
 tatianadecastelbajac.fr
@@ -2549,7 +2368,6 @@ gdiscoun.org
 webhotell.enivest.no
 video.rb-webdev.de
 themclarenfamily.com
-#4 December 2017, 3 January 2018, 2 April 2018
 #www.malware-traffic-analysis.net/2017/10/26/index2.html
 10stepstoyes.org
 10stepstoyes.net
@@ -2558,7 +2376,6 @@ bostonwrongfuldeathblog.com
 bostonwrongfuldeathlaw.com
 consumerrightslawblog.com
 consumerrightslawyerblog.com
-#5 December 2017, 4 January 2018, 3 April 2018
 #www.malware-traffic-analysis.net/2017/10/27/index.html
 misterstreetsigns.com
 securedorderluinc.com
@@ -2571,7 +2388,6 @@ launchinlevi.com
 webtarahan.ir
 tontrumuchtors.com
 rugoheset.ru
-#8 December 2017, 7 January 2018, 6 April 2018
 #www.malware-traffic-analysis.net/2017/10/30/index.html
 heart-sp.com
 epcb.it
@@ -2585,7 +2401,6 @@ fuettern24.de
 h1854684.stratoserver.net
 hobbystube.net
 g46mbrrzpfszonuk.onion
-#8 December 2017, 7 January 2018, 6 April 2018
 #www.malware-traffic-analysis.net/2017/10/30/index2.html
 arizonaic.biz
 arizonaic.com
@@ -2597,7 +2412,6 @@ tenstepstoyes.org
 colighaningr.com
 icarusplays.org
 tontrumuchtors.com
-#8 December 2017, 7 January 2018, 6 April 2018
 #www.malware-traffic-analysis.net/2017/10/31/index2.html
 hih.business
 jwredline.com
@@ -2615,7 +2429,6 @@ hih.business
 hih.business
 jwredline.com
 kalostpx.info
-#9 December 2017, 8 January 2018, 7 April 2018
 #www.malware-traffic-analysis.net/2017/10/31/index.html
 christakranzl.at
 projex-dz.com
@@ -2632,7 +2445,6 @@ projex-dz.com
 sigmanet.gr
 zahntechnik-imlau.de
 g46mbrrzpfszonuk.onion
-#10 December 2017, 9 January 2018, 8 April 2018
 #www.malware-traffic-analysis.net/2017/11/01/index.html
 hilaryandsavio.com
 toptrends.org
@@ -2650,7 +2462,6 @@ dotecnia.cl
 transmercasa.com
 envi-herzog.de
 g46mbrrzpfszonuk.onion
-#10 December 2017, 9 January 2018, 8 April 2018
 #www.malware-traffic-analysis.net/2017/11/08/index.html
 attorneylove.com
 captainspeedy.com
@@ -2665,17 +2476,14 @@ wwdirectories.com
 parhecotevent.com
 bamrungrak.ac.th
 henfobuthis.com
-#12 December 2017, 11 January 2018, 10 April 2018
 #www.malware-traffic-analysis.net/2017/11/03/index.html
 zs-raclawowka.pl
 taierecufir.ro
 locarcar.com.br
-#11 December 2017, 10 January 2018, 9 April 2018
 #www.malware-traffic-analysis.net/2017/11/02/index.html
 eeaglelifedd.com
 n31.smokemenowhhalala.bit
 ns.dotbit.me
-#10 December 2017, 9 January 2018, 8 April 2018
 #www.malware-traffic-analysis.net/2017/11/01/index2.html
 acehh.com
 annapeds.com
@@ -2689,7 +2497,6 @@ wildwoodreunion.com
 unduseherttan.com
 puyeshgar.com
 tontrumuchtors.com
-#18 December 2017, 17 January 2018, 16 April 2018
 #www.malware-traffic-analysis.net/2017/11/09/index.html
 olamoth.com
 wayfarerbest.com
@@ -2704,24 +2511,18 @@ tci.seventhworld.com
 primeassociatesinc.com
 vallei-elektrotechniek.nl
 testbxc.u-host.ru
-#21 December 2017, 20 January 2018, 19 April 2018
 #www.malware-traffic-analysis.net/2017/11/12/index.html
 bmooc.net
-#21 December 2017, 20 January 2018, 19 April 2018
 #www.malware-traffic-analysis.net/2017/11/15/index.html
 www.cabanadosol.net
-#25 December 2017, 24 January 2018, 23 April 2018
 #www.malware-traffic-analysis.net/2017/11/16/index.html
 josephioseph.com
 myapplicationsdownload.download
-#26 December 2017, 25 January 2018, 24 April 2018
 #www.malware-traffic-analysis.net/2017/11/17/index.html
 playnco.club
-#29 December 2017, 28 January 2018, 27 April 2018
 #www.malware-traffic-analysis.net/2017/11/19/index.html
 securityupdateserver3.com
 gromnes.top
-#31 December 2017, 30 January 2018, 29 April 2018
 #www.malware-traffic-analysis.net/2017/11/21/index2.html
 511boots.com
 globalretailconcepts.com
@@ -2740,15 +2541,12 @@ agaratas.com
 atlanimeday.com
 gooblesooq.com
 511footwear.com
-#31 December 2017, 30 January 2018, 29 April 2018
 #www.malware-traffic-analysis.net/2017/11/21/index3.html
 scaricapag.win
 89D9B687AC98.site
-#1 January 2017, 31 January 2018, 30 April 2018
 #www.malware-traffic-analysis.net/2017/11/22/index.html
 authorize-eu.com
 webcmd.netflixsupport.billingupdate.authlogin.authorize-eu.com
-#2 January 2017, 1 February 2018, 1 May 2018
 #malware-traffic-analysis.net/2017/11/23/index.html
 atlantarecyclingcenters.com
 hard-grooves.com
@@ -2757,16 +2555,13 @@ miamirecyclecenters.com
 pamplonarecados.com
 xploramail.com
 iplogger.co
-#6 January 2017, 5 February 2018, 5 May 2018
 #blog.malwarebytes.com/threat-analysis/2017/11/terror-exploit-kit-goes-https-all-the-way/
 yakset.accountant
 dimplethan.stream
 edgeelse.science
-#6 January 2017, 5 February 2018, 5 May 2018
 #www.malware-traffic-analysis.net/2017/11/27/index.html
 laccrochecoeur.shop
 cdn192.168.0.11.pridnestrovie.m234.xyz
-#7 January 2017, 6 February 2018, 6 May 2018
 #malware-traffic-analysis.net/2017/11/28/index.html
 status-verify.com
 status-restore.com
@@ -2775,7 +2570,6 @@ netsecure-cancel.com
 locked.netlfix.com.confirm.account.netsecure-cancel.com
 mynetflix-acc.com
 webcmd.netflixsupport.billingupdate.authlogin.mynetflix-acc.com
-#7 January 2017, 6 February 2018, 6 May 2018
 #www.malware-traffic-analysis.net/2017/11/28/index2.html
 compression-pump.info
 compression-pumps.info
@@ -2810,10 +2604,8 @@ bigiftprod.cloudapp.net
 mail.geekenfreude.com
 inspartorswa.com
 rowrorofrat.com
-#7 January 2017, 6 February 2018, 6 May 2018
 #www.malware-traffic-analysis.net/2017/11/28/index3.html
 oamentyga.duckdns.org
-#8 January 2017, 7 February 2018, 7 May 2018
 #www.malware-traffic-analysis.net/2017/11/29/index.html
 aeroplume.fr
 krfseb.ru
@@ -2825,7 +2617,6 @@ servicepack.biz
 vozim-gruz.by
 www.aquacottapizza.com.au
 www.auto-kuply.ru
-#9 January 2017, 8 February 2018, 8 May 2018
 #www.malware-traffic-analysis.net/2017/11/30/index.html
 accessyouraudience.com
 alucmuhendislik.com
@@ -2850,14 +2641,11 @@ www.vipapart.co.il
 taswines.co.uk
 oilcom.com.ua
 www.avcilarbinicilik.xyz
-#10 January 2017, 9 February 2018, 9 May 2018
 #www.malware-traffic-analysis.net/2017/12/01/index.html
 0our0support32911.bid
 callinghere6301123.tk
-#10 January 2017, 9 February 2018, 9 May 2018
 #www.malware-traffic-analysis.net/2017/12/01/index2.html
 www.tomtomsports.tech
-#13 January 2017, 12 February 2018, 12 May 2018
 #www.malware-traffic-analysis.net/2017/12/04/index.html
 altarek.com
 amcscomputer.com
@@ -2870,7 +2658,6 @@ gulercin.com
 summi.space
 ugf57wl6uexcj7fu.onion.link
 iplogger.com
-#13 January 2017, 12 February 2018, 12 May 2018
 #www.malware-traffic-analysis.net/2017/12/04/index2.html
 protcuba.com
 www.drpampe.com
@@ -2881,7 +2668,6 @@ tci.seventhworld.com
 phonecenter24.de
 bawabetelbaik.com
 nrrgarment.com
-#15 January 2017, 14 February 2018, 14 May 2018
 #www.malware-traffic-analysis.net/2017/12/06/index3.html
 artsforglobalpeaceandhealing.com
 artsforglobalpeaceandhealing.org
@@ -2902,12 +2688,10 @@ mebelucci.com.ua
 camorata.com
 nobleduty.com
 excelano.net
-#19 January 2017, 18 February 2018, 18 May 2018
 #www.malware-traffic-analysis.net/2017/12/08/index.html
 krai-soft.net
 103jdhhfff99500910.info
 n.permitdevoi.net
-#22 January 2017, 21 February 2018, 21 May 2018
 #www.malware-traffic-analysis.net/2017/12/11/index.html
 agelessbuy.com
 agelessshow.com
@@ -2925,25 +2709,21 @@ sterrenburgvanduijn.nl
 www.nationejobs.com
 modelhover.org
 aningtorsfave.com
-#22 January 2017, 21 February 2018, 21 May 2018
 #www.malware-traffic-analysis.net/2017/12/11/index2.html
 www.nfsefiscal.com
 d1ax1i5f2y3x71.cloudfront.net
 d26dzxoao6i3hh.cloudfront.net
-#23 January 2017, 22 February 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2017/12/12/index.html
 colennao.ml
 colennao.tk
 ngay16.ru
 ngay1617.ru
-#23 January 2017, 22 February 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2017/12/12/index2.html
 shopreduceri.ro
 printscreens.info
 bmwfastcar1337.com
 onlinetechsupoffice.bid
 1sthelper31212123456.tk
-#23 January 2017, 22 February 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2017/12/13/index3.html
 employup.net
 indycareerhubcarrier.com
@@ -2959,19 +2739,16 @@ cilysitma.com
 doudoukids.com
 arcadyflyff.com
 jefchinloans.com
-#24 January 2017, 23 February 2018, 23 May 2018
 #www.malware-traffic-analysis.net/2017/12/14/index.html
 coccoc.accountant
 thang12.ru
 thang1217.ru
-#28 January 2017, 27 February 2018, 27 May 2018
 #www.malware-traffic-analysis.net/2017/12/18/index.html
 hotelrecantodosguardioes.com.br
 hydrosan.net
 jsbc.biz
 www.ozelmedical.com
 piecbud.net.pl
-#31 January 2017, 1 March 2018, 30 May 2018
 #www.malware-traffic-analysis.net/2017/12/21/index.html
 www.g-v-s.ru
 www.homody.com
@@ -2989,7 +2766,6 @@ www.tuminsaat.com
 www.servicetrade24.ru
 psoeiras.net
 topyzscsu5poprxy.onion.link
-#31 January 2017, 1 March 2018, 30 May 2018
 #www.malware-traffic-analysis.net/2017/12/21/index2.html
 coffeeforles.us
 eciggystore.com
@@ -3009,12 +2785,10 @@ utahrates.com
 andrejoter.com
 wingchun-giessen.de
 kedfortmoleft.ru
-#1 February 2017, 2 March 2018, 31 May 2018
 #www.malware-traffic-analysis.net/2017/12/22/index.html
 streetsave.club
 regwide.club
 darlz.freeddns.org
-#5 February 2017, 6 March 2018, 4 June 2018
 #www.malware-traffic-analysis.net/2017/12/26/index.html
 www.caynannews.com
 www.pspmagic.ru
@@ -3027,35 +2801,29 @@ www.zhaksylyk.kz
 www.zhaksylyk.kz
 psoeiras.net
 topyzscsu5poprxy.onion.link
-#5 February 2017, 6 March 2018, 4 June 2018
 #www.malware-traffic-analysis.net/2017/12/26/index2.html
 www.liceobelgrano.edu.ar
 printscreens.info
 bmwfastcar1337.com
 tollsupporttoday.bid
 1sttehsupport62512345.tk
-#6 February 2017, 7 March 2018, 5 June 2018
 #www.malware-traffic-analysis.net/2017/12/27/index.html
 entplus.se
 bigeggdrop.com
 rendomunza.gdn
 namingotslon.gdn
-#12 February 2017, 13 March 2018, 11 June 2018
 #www.malware-traffic-analysis.net/2018/01/02/index.html
 whatsapp.visualizar.cf
 cxaffdxxxeo.gotdns.ch
 twocxaffdxxxeo.gotdns.ch
-#12 February 2017, 13 March 2018, 11 June 2018
 #www.malware-traffic-analysis.net/2018/01/02/index2.html
 zad33a.ru
 5chrup56.ru
 adobeflashplayer.ki1ahb.xyz
 1sjs21891.ru
 pronetads.com
-#14 February 2017, 15 March 2018, 13 June 2018
 #www.malware-traffic-analysis.net/2018/01/04/index.html
 www.etybh.com
-#14 February 2017, 15 March 2018, 13 June 2018
 #www.malware-traffic-analysis.net/2018/01/04/index2.html
 www.alizayuh.com
 www.privewin14.com
@@ -3073,7 +2841,6 @@ www.amercon.info
 www.mavericktrailblazing.com
 www.turboexercise.com
 www.930pe.com
-#16 February 2017, 17 March 2018, 15 June 2018
 #www.malware-traffic-analysis.net/2018/01/06/index.html
 emarketing-immobilier.com
 kodmax.com
@@ -3088,18 +2855,14 @@ nn0blesapport605011234567.tk
 nn0blesapport6050112345.tk
 richsapport60501123.tk
 richsapport605011234.tk
-#18 February 2017, 19 March 2018, 17 June 2018
 #www.malware-traffic-analysis.net/2018/01/08/index2.html
 18panels.info
-#19 February 2017, 20 March 2018, 18 June 2018
 #www.malware-traffic-analysis.net/2018/01/09/index.html
 prodocusign.com
 vvrhhhnaijyj6s2m.onion.top
-#19 February 2017, 20 March 2018, 18 June 2018
 #www.malware-traffic-analysis.net/2018/01/09/index2.html
 xn--b1aanbboc3ad8jee4bff.xn--p1ai
 ccookd72yyeuj6y.com
-#19 February 2017, 20 March 2018, 18 June 2018
 #www.malware-traffic-analysis.net/2018/01/09/index3.html
 blog.flexsuplementos.com.br
 www.brscan.com.br
@@ -3108,7 +2871,6 @@ www.ovk-grupp.ru
 www.katinka.org
 rendomunza.gdn
 namingotslon.gdn
-#20 February 2017, 21 March 2018, 19 June 2018
 #www.malware-traffic-analysis.net/2018/01/10/index.html
 chillionista.com
 janmariejackson.com
@@ -3120,16 +2882,13 @@ toxinfreeclub.com
 unhesrowrab.com
 expatrions-nous.com
 disithedtse.com
-#22 February 2017, 23 March 2018, 21 June 2018
 #www.malware-traffic-analysis.net/2018/01/11/index.html
 saumottam.ru
-#23 February 2017, 24 March 2018, 22 June 2018
 #blog.malwarebytes.com/cybercrime/2018/01/fake-spectre-and-meltdown-patch-pushes-smoke-loader/
 sicherheit-informationstechnik.bid
 coolwater-ltd-supportid.ru
 localprivat-support.ru
 service-consultingavarage.ru
-#26 February 2017, 27 March 2018, 25 June 2018
 #www.malware-traffic-analysis.net/2018/01/15/index.html
 www.yg082.com
 www.www477234.com
@@ -3144,16 +2903,13 @@ www.bjxitianyun.com
 www.tqceyp.info
 www.spinepoint.biz
 www.0t5fivethan.men
-#27 February 2017, 28 March 2018, 26 June 2018
 #www.malware-traffic-analysis.net/2018/01/16/index.html
 lavosoftorrent.ml
 7AB7F6AE8747.tk
-#30 February 2017, 31 March 2018, 29 June 2018
 #www.malware-traffic-analysis.net/2018/01/19/index.html
 saumottam.ru
 proqnoz.ga
 top.geezy1.xyz
-#13 March 2018, 11 April 2018, 10 July 2018
 #www.malware-traffic-analysis.net/2018/01/30/index.html
 pumpme.ga
 jr753gey6528iyehd.com
@@ -3169,17 +2925,14 @@ scihytydbukstbtwok.com
 xegrplmhtvfevx.com
 xvlaykoevuesourj.com
 yxvcjnrx.com
-#18 March 2018, 16 April 2018, 15 July 2018
 #www.malware-traffic-analysis.net/2018/02/05/index.html
 etlitttothen.com
 witsemehat.net
-#26 March 2018, 24 April 2018, 23 July 2018
 #www.malware-traffic-analysis.net/2018/02/07/index.html
 butcaketforthen.com
 sorinnohoun.com
 nomoreransom.coin
 gdcbghvjyqy7jclk.onion
-#25 March 2018, 23 April 2018, 22 July 2018
 #www.malware-traffic-analysis.net/2018/02/06/index.html
 comharcapital.com
 homeimprovementpodcast.com
@@ -3189,13 +2942,11 @@ rangeviewestates.com
 ofttacotoft.com
 africanpeace.org
 bulighhesin.ru
-#27 March 2018, 25 April 2018, 24 July 2018
 #www.malware-traffic-analysis.net/2018/02/08/index.html
 hinenreb.com
 pertalted.com
 myothow.com
 fortresmuch.com
-#31 March 2018, 29 April 2018, 27 July 2018
 #www.malware-traffic-analysis.net/2018/02/12/index.html
 bugi1man.info
 hshshshsussiiwuwyw.com
@@ -3219,7 +2970,6 @@ ufylrewmo.com
 uwyarxuxharsm.com
 wqxufotucvawktbqx.com
 xeanmjcieuxgr.com
-#1 April 2018, 30 April 2018
 #www.malware-traffic-analysis.net/2018/02/13/index2.html
 contactworks.biz
 MYNEXGREEN.COM
@@ -3229,7 +2979,6 @@ trentoncable.net
 thattahitin.com
 mail.bestnewantiwrinklecream.com
 bulighhesin.ru
-#9 April 2018, 8 May 2018
 #www.malware-traffic-analysis.net/2018/02/21/index.html
 e32sg.deliveryclub-6589.download
 deliveryclub-6589.download
@@ -3238,7 +2987,6 @@ delivery1class.download
 ietf.org
 WORKOUT.localdomain
 globalthlinkalgounsi.win
-#16 April 2018, 15 May 2018
 #www.malware-traffic-analysis.net/2018/02/20/index.html
 beasecurityguard.com
 brelicensewithus.com
@@ -3254,7 +3002,6 @@ securityguardschooling.com
 rymoonthen.com
 uttamah.com
 lyhemsasit.ru
-#4 April 2018, 3 May 2018
 #www.malware-traffic-analysis.net/2018/02/16/index.html
 www.hemalipaterl.com
 www.kinketsukun.com
@@ -3268,7 +3015,6 @@ www.clevelandtaxaccountant.com
 www.navstyle.com
 www.erfenbu.com
 www.blitzathletics.fitness
-#16 April 2018, 15 May 2018
 #malware-traffic-analysis.net/2018/02/28/index.html
 hnimanagement.com
 hnimgmt.com
@@ -3287,16 +3033,13 @@ gotletmoked.ru
 gomezespejel.net
 ningtoftcaso.ru
 nectarsinc.com
-#9 April 2018, 8 May 2018
 #www.malware-traffic-analysis.net/2018/03/01/index.html
 www.sosebi.it
 www.abexport.com
-#13 April 2018, 12 May 2018
 #www.malware-traffic-analysis.net/2018/03/05/index.html
 bp5zihoz.uqokc7hovdk4pg19wxnwcmtjejjzeumo.site
 www.b3llavit4.top
 ssl.topzer4.top
-#13 April 2018, 12 May 2018
 #www.malware-traffic-analysis.net/2018/03/05/index2.html
 lesmobilees.science
 votrecolissimo.com
@@ -3309,7 +3052,6 @@ fioritononi.it
 voloweb.net
 cmxsrl.it
 onliva.at
-#14 April 2018, 13 May 2018
 #www.malware-traffic-analysis.net/2018/03/06/index.html
 babyfurniturewarehouse.com
 buildwith307.com
@@ -3327,17 +3069,14 @@ wingsfingers.com
 tebabretof.com
 gamesfree247.info
 ofhahertit.com
-#15 April 2018, 14 May 2018
 #www.malware-traffic-analysis.net/2018/03/07/index.html
 psoeiras.net
 nomoreransom.coin
 nomoreransom.bit
 gandcrab.bit
 djfl3vltmo36vure.onion
-#17 April 2018, 16 May 2018
 #www.malware-traffic-analysis.net/2018/03/09/index.html
 sir-iyke.com
-#21 April 2018, 20 May 2018
 #www.malware-traffic-analysis.net/2018/03/13/index.html
 barmitzvahswag.com
 bnaimitzvahswag.com
@@ -3349,12 +3088,10 @@ bnaimitzvahswag.com
 sumohimbe.com
 xn--gnstiger-baukredit-m6b.net
 lohidaleft.com
-#22 April 2018, 21 May 2018
 #www.malware-traffic-analysis.net/2018/03/14/index.html
 onlinedocuments.ir
 yowl2ugopitfzzwb.onion.link
 yowl2ugopitfzzwb.onion
-#22 April 2018, 21 May 2018
 #www.malware-traffic-analysis.net/2018/03/14/index2.html
 argentstrim.com
 budgetsignsplus.com
@@ -3369,7 +3106,6 @@ budgetsignsplus.com
 duketofrob.com
 streetfoodandtraveltvindia.com
 hattalbutla.com
-#23 April 2018, 22 May 2018
 #www.malware-traffic-analysis.net/2018/03/15/index3.html
 lookatmyhorse.cf
 infra.creationskvu.xyz
@@ -3377,10 +3113,8 @@ asserts.miltondaza.xyz
 misinterpreting.ktmcmoderatorqzu.xyz
 bgmystorches.ktmcmoderatorqzu.xyz
 doueven.click
-#24 April 2018, 23 May 2018
 #www.malware-traffic-analysis.net/2018/03/16/index.html
 malwarehunterteam.bit
-#21 April 2018, 20 May 2018
 #blog.malwarebytes.com/threat-analysis/2018/03/hancitor-fileless-attack-with-a-copy-trick/
 batcommunications.com
 cirewandbut.com
@@ -3394,13 +3128,11 @@ romfinothad.ru
 herttannarit.com
 sarattatit.ru
 uldminyran.ru
-#25 April 2018, 24 May 2018
 #www.malware-traffic-analysis.net/2018/03/20/index.html
 yoppedf19.comprovante-x23.website
 486lrlk94.mike-ehrmantraut.wikaba.com:25047
 cdx4062864.mike-ehrmantraut.wikaba.com:25060
 cdx2558765.rick-grimes.mrface.com:25060
-#26 April 2018, 25 May 2018
 #www.malware-traffic-analysis.net/2018/03/21/index.html
 aeksingolot.com
 mplus-sr.jp
@@ -3408,17 +3140,13 @@ www.bharanihomoeoclinic.com
 www.breakfasttravel.com
 www.cchc.org.pe
 www.tgpitalia.com
-#27 April 2018, 26 May 2018
 #www.malware-traffic-analysis.net/2018/03/22/index.html
 ebrotasa.com
-#27 April 2018, 26 May 2018
 #www.malware-traffic-analysis.net/2018/03/22/index2.html
 membership-webid934.com
 netflixusersupport.sysvalidate.safeguard.webid374-membership.com
-#27 April 2018, 26 May 2018
 #www.malware-traffic-analysis.net/2018/03/22/index3.html
 www.myaccount-godaddy.lowercholesterolsupplements.com
-#1 May 2018, 30 May 2018
 #www.malware-traffic-analysis.net/2018/03/26/index.html
 cateyestours.com
 demandgeneration.nl
@@ -3444,7 +3172,6 @@ spkpr.ru
 ciarafever.com
 lastres.com.br
 vektrans.ru
-#2 May 2018, 31 May 2018
 #www.malware-traffic-analysis.net/2018/03/27/index.html
 track.positiverefreshment.org
 ceyr.biacap.com
@@ -3453,7 +3180,6 @@ mvmj.fincruit.co
 eiow.fincruit.co.uk
 kaax.fincruit.co.uk
 my.gobiox.com 
-#5 May 2018, 3 June 2018
 #www.malware-traffic-analysis.net/2018/03/30/index.html
 www.ebbsoft.com
 www.birbantband.it
@@ -3464,7 +3190,6 @@ f11.karilor.at
 abn.zitti.at
 torafy.cn
 wiadomo.com
-#10 May 2018, 8 June 2018
 #www.malware-traffic-analysis.net/2018/04/04/index.html
 arcpercussivewelder.com
 arcpercussivewelding.com
@@ -3487,13 +3212,11 @@ risparmiato.com
 siteslikecraigslist.com
 animalhealthcenterinc.com
 oldsinedtdin.com
-#12 May 2018, 10 June 2018
 #www.malware-traffic-analysis.net/2018/04/06/index.html
 thingiverse.biz
 domslavx.info
 x.lxoxiaudio.com
 y.lxoxiaudio.com
-#15 May 2018, 13 June 2018
 #www.malware-traffic-analysis.net/2018/04/09/index.html
 biginvestprofit.online
 tech-bitcoin.com
@@ -3501,7 +3224,6 @@ wxmoney.xyz
 ocoins.xyz
 leaked.cellular.coordinatorghshootingsnone.xyz
 hillaryzell.xyz
-#16 May 2018, 14 June 2018
 #www.malware-traffic-analysis.net/2018/04/10/index.html
 ipv4bot.whatismyipaddress.com
 ransomware.bit
@@ -3511,7 +3233,6 @@ gandcrab2pie73et.onion
 gandcrab2pie73et.onion.rip
 gandcrab2pie73et.onion.plus
 gandcrab2pie73et.onion.to
-#16 May 2018, 14 June 2018
 #www.malware-traffic-analysis.net/2018/04/11/index2.html
 166e61.com
 estimating.training
@@ -3526,18 +3247,15 @@ finishtradeexpo.com
 gotsurievent.com
 image-a.com
 lyrintedba.com
-#22 May 2018, 20 June 2018
 #www.malware-traffic-analysis.net/2018/04/17/index2.html
 ransomware.bit
 gandcrab2pie73et.onion
 gandcrab2pie73et.onion.rip
 gandcrab2pie73et.onion.plus
 gandcrab2pie73et.onion.to
-#23 May 2018, 21 June 2018
 #www.malware-traffic-analysis.net/2018/04/18/index.html
 librores.press
 CA452A2DC910.ga
-#23 May 2018, 21 June 2018
 #www.malware-traffic-analysis.net/2018/04/18/index2.html
 applyingtechnologyforsolutions.com
 bidsharp.net
@@ -3559,7 +3277,6 @@ ettoldketru.com
 image-a.com
 lyrintedba.com
 reundlaboi.ru
-#24 May 2018, 22 June 2018
 #www.malware-traffic-analysis.net/2018/04/19/index.html
 estimatorfind.com
 garywhitakerfamily.com
@@ -3572,7 +3289,6 @@ caharthenret.com
 flushstance.com
 taldiparep.ru
 www.unsafedrugs.com
-#28 May 2018, 26 June 2018
 #www.malware-traffic-analysis.net/2018/04/23/index.html
 effortlesshappiness.org
 emiliepare.com
@@ -3589,12 +3305,10 @@ solinti.com
 ofortoftrow.com
 ebizwize.com
 taldiparep.ru
-#24 May 2018, 22 June 2018
 #www.malware-traffic-analysis.net/2018/04/23/index2.html
 plubmerspro.us
 grigori.ddns.net
 godstar.hopto.org
-#1 June 2018, 30 June 2018
 #www.malware-traffic-analysis.net/2018/05/01/index.html
 actuneupca.com
 chiropracticlibrary.com
@@ -3617,10 +3331,8 @@ triadpaingroup.com
 supratparfa.com
 kdprvirtual.com
 bithetbuter.ru
-#1 June 2018, 30 June 2018
 #www.malware-traffic-analysis.net/2018/05/01/index2.html
 tasfitness.com
-#2 June 2018, 1 July 2018
 #www.malware-traffic-analysis.net/2018/05/02/index.html
 countywidememorials.com
 countywidemonuments.com
@@ -3636,7 +3348,6 @@ youngsvilleproperties.com
 hemfeketro.com
 fatcowcoupon.us
 robwassotdint.ru
-#4 June 2018, 3 July 2018
 #www.malware-traffic-analysis.net/2018/05/03/index.html
 beachesofnwflorida.com
 coastalrealtycsb.com
@@ -3653,16 +3364,12 @@ visitcsb.com
 tanreblingtold.com
 yakshin.ru
 robwassotdint.ru
-#4 June 2018, 3 July 2018
 #www.malware-traffic-analysis.net/2018/05/03/index2.html
 silverlinktechnologies.com
-#4 June 2018, 3 July 2018
 #www.malware-traffic-analysis.net/2018/05/04/index.html
 alian.de
-#9 June 2018, 8 July 2018
 #www.malware-traffic-analysis.net/2018/05/08/index2.html
 rrglobaltrade.com
-#9 June 2018, 8 July 2018
 #www.malware-traffic-analysis.net/2018/05/08/index3.html
 whitepages.bid
 bggtbm.saliva.gbi-dminstructormbw.xyz
@@ -3670,13 +3377,10 @@ lagginfo.com
 viscircuskoning.nl
 dcsautomation.net
 brotherstradingbd.com
-#14 June 2018, 13 July 2018
 #www.malware-traffic-analysis.net/2018/05/14/index.html
 basedow-bilder.de
-#25 June 2018, 24 July 2018
 #www.malware-traffic-analysis.net/2018/05/25/index.html
 clodflarechk.com
-#27 June 2018, 26 July 2018
 #www.malware-traffic-analysis.net/2018/05/27/index.html
 owkhdharshness.ebxseoccupationeclr.xyz
 vzdnprediction.project-x-adminko-test.tk
@@ -3684,7 +3388,6 @@ dalmo.cz
 www.dalmo.cz
 u55.evama.at
 work.a-poster.info
-#29 June 2018, 28 July 2018
 #www.malware-traffic-analysis.net/2018/05/29/index.html
 www.abhinish.com
 www.applauce.no
@@ -3700,7 +3403,6 @@ maratonianos.es
 winterforcing.info
 cityofdifferentips.gq
 wolahedbune.com
-#1 July 2018, 30 July 2018
 #www.malware-traffic-analysis.net/2018/05/31/index.html
 grupoaire.com.ar
 novaplaza.com
@@ -3774,7 +3476,6 @@ adshiepkhach.top
 200.43.192.5
 46.245.165.4
 166.63.0.27
-#7 July 2018, 5 August 2018
 #blog.talosintelligence.com/2018/06/vpnfilter-update.html
 toknowall.com
 91.121.109.209
@@ -3796,7 +3497,6 @@ tljmmy4vmkqbdof4.onion
 zuh3vcyskd4gipkm.onion
 4seiwn2ur4f65zo4.onion
 zm3lznxn27wtzkwa.onion
-#1 July 2018, 30 July 2018
 #malware-traffic-analysis.net/2018/05/31/index2.html
 beachfrontflamingo.info
 beachfrontflamingo.net
@@ -3829,7 +3529,6 @@ betrephengu.ru
 81.177.180.182
 192.185.19.180
 109.234.35.177
-#5 July 2018, 3 July 2018
 #malware-traffic-analysis.net/2018/06/04/index.html
 209.141.49.93
 66.171.248.178
@@ -3843,7 +3542,6 @@ carder.bit
 221.120.220.72
 190.35.242.126
 gandcrab2pie73et.onion
-#12 July 2018, 10 July 2018
 #malware-traffic-analysis.net/2018/06/11/index2.html
 aspaud.com
 bechner.com
@@ -3899,7 +3597,6 @@ www.prkanchang.com
 www.scorpioncontrollers.com
 www.signal49.dev.dusit.ac.th
 www.tangentsolutions.co.in
-#13 July 2018, 11 July 2018
 #malware-traffic-analysis.net/2018/06/12/index.html
 aussiescanners.com
 dapinha.com.br
@@ -3999,13 +3696,11 @@ www.planetariy.com
 www.thecyberconxion.com
 xn--k1acdflk8dk.xn--p1ai
 adshiepkhach.top
-#13 July 2018, 11 July 2018
 #malware-traffic-analysis.net/2018/06/13/index.html
 47.74.153.72
 brtt7.com
 185.176.221.29
 169.239.129.125
-#14 July 2018, 12 July 2018
 #malware-traffic-analysis.net/2018/06/14/index.html
 mentalmadam.com
 minami.com.tw
@@ -4034,7 +3729,6 @@ www.ipgce.com
 185.159.129.33
 188.124.167.132
 104.193.252.163
-#19 July 2018, 17 July 2018
 #malware-traffic-analysis.net/2018/06/19/index.html
 frcs.com.br
 www.740745.ru
@@ -4110,7 +3804,6 @@ www.kirpich-servis16.ru
 5.187.0.158
 urnachay.com
 percalabia.com
-#29 July 2018, 27 July 2018
 #www.malware-traffic-analysis.net/2018/06/29/index2.html
 134.119.189.10
 srienterprises.net
@@ -4119,7 +3812,6 @@ srienterprises.net
 45.36.155.244
 85.143.220.29
 188.124.167.132
-#1 August 2018, 30 July 2018
 #www.malware-traffic-analysis.net/2018/07/02/index.html
 all4mums.ru
 chinaspycam.com
@@ -4149,7 +3841,6 @@ www.mobsterljud.se
 185.45.193.240
 canariasmotor.top
 74.79.26.193
-#1 August 2018, 30 July 2018
 #www.malware-traffic-analysis.net/2018/07/02/index2.html
 75.98.175.108
 25kstartups.com
@@ -4160,7 +3851,6 @@ www.25kstartups.com
 104.193.252.163
 188.124.167.132
 109.234.36.103
-#2 August 2018, 31 July 2018
 #www.malware-traffic-analysis.net/2018/07/03/index.html
 dudz.biz
 golfdudz.biz
@@ -4190,7 +3880,6 @@ nec-dsx-programming.com
 31.41.46.118
 orsileci.com
 31.44.184.59
-#2 August 2018, 31 July 2018
 #www.malware-traffic-analysis.net/2018/07/03/index2.html
 www.2019voting.com
 www.anadolu-yapi.xyz
@@ -4220,7 +3909,6 @@ www.grabaspace.com
 185.45.193.240
 canariasmotor.top
 adshiepkhach.top
-#4 August 2018, 2 August 2018
 #www.malware-traffic-analysis.net/2018/07/05/index.html
 93.95.100.178
 four.sineadhollywoodnutt.com
@@ -4256,7 +3944,6 @@ trumplines.bit
 93.179.68.25
 desjardinscourriel818654.pw
 46.19.142.178
-#4 August 2018, 2 August 2018
 #www.malware-traffic-analysis.net/2018/07/05/index2.html
 theneonblonde.com
 adultacnetreatmentreviews.com
@@ -4270,7 +3957,6 @@ adultacnetreatmentreviews.com
 91.240.85.29
 185.231.153.63
 95.213.194.49
-#8 August 2018, 6 August 2018
 #www.malware-traffic-analysis.net/2018/07/09/index.html
 avocap.eu
 calendar.bubnov.ru
@@ -4316,7 +4002,6 @@ primerplano.org
 74.79.26.193
 110.10.176.124
 airconhero.xyz
-#8 August 2018, 6 August 2018
 #www.malware-traffic-analysis.net/2018/07/09/index2.html
 altilium.com
 altilium.net
@@ -4336,3 +4021,11 @@ hinwasslysed.com
 realeverydaybusiness.com
 5.188.232.238
 myaningmuchme.ru
+#blog.malwarebytes.com/threat-analysis/2018/07/magniber-ransomware-improves-expands-within-asia/
+178.32.62.130
+94.23.165.192
+92.222.121.30
+149.202.112.72
+bluehuge.expert
+69a5010hbjdd722q.feedrun.online
+08taw3c6143ce.nexthas.rocks
