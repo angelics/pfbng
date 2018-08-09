@@ -89,6 +89,7 @@ secure.adnxs.com
 sb.scorecardresearch.com
 secure-ds.serving-sys.com
 serve.revcontent.com
+shoporielder.pro
 syndication.dynsrvwer.com
 
 track.adform.net
