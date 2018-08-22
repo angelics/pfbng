@@ -247,6 +247,13 @@ dcldshlupt.alicdn.com
 pcs-sdk-server.alibaba.com
 www.tenorshare.com
 dailyupdate.wangwang.taobao.com
+oth.ludashi.com
+s.ludashi.com
+www.ludashi.com
+cdn-file.ludashi.com
+intf-pc.ludashi.com
+s2.ludashi.com
+s1.ludashi.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
