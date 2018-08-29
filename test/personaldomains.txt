@@ -28,6 +28,7 @@ tconf2.uk.cloud.360safe.com
 tconf.uk.cloud.360safe.com
 iup.360safe.com
 update.360safe.com
+www.360safe.com
 sdup.update.360safe.com
 updatem.360safe.com
 softm.update.360safe.com
@@ -80,6 +81,7 @@ input.shouji.sogou.com
 p3p.sogou.com
 config.zhushou.sogou.com
 info.pinyin.sogou.com
+pinyin.sogou.com
 ime.sogou.com
 plugin.xl7.xunlei.com
 xl7xml.client.xunlei.com
@@ -109,6 +111,9 @@ upload.123juzi.net
 log.123juzi.net
 service.123juzi.com
 dl.ijinshan.com
+dl.union.ijinshan.com
+lb3d.tj.ijinshan.com
+lb.did.ijinshan.com
 db.utag.ijinshan.com
 infoc.sjk.ijinshan.com
 driver.sjk.ijinshan.com
@@ -255,6 +260,9 @@ intf-pc.ludashi.com
 s2.ludashi.com
 s1.ludashi.com
 baidu.85851.com
+dlied6.qq.com
+c.pc.qq.com
+dldir1.qq.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
