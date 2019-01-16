@@ -476,6 +476,7 @@ ytd-video-downloader-free.en.softonic.com
 telegram-for-desktop.en.softonic.com
 softonic.com
 en.softonic.com
+webcompanion.com
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
