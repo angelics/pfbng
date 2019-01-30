@@ -477,6 +477,12 @@ telegram-for-desktop.en.softonic.com
 softonic.com
 en.softonic.com
 webcompanion.com
+technologietazo.com
+www.lempar.com
+www.smadav.org
+dvhwzq.ru
+static.badolina.com
+23.101.169.175
 #malwareprotectionlive
 sync.malwareprotectionlive.com
 cloud.malwareprotectionlive.com
