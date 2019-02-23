@@ -4528,3 +4528,6 @@ boloshortolandia.com
 187.193.97.96
 93.189.41.44
 93.189.41.44
+#blog.malwarebytes.com/threat-analysis/2019/01/vidar-gandcrab-stealer-and-ransomware-combo-observed-in-the-wild/
+kolobkoproms.ug
+ovz1.fl1nt1kk.10301.vps.myjino.ru
