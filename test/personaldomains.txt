@@ -482,6 +482,7 @@ static.badolina.com
 sd.360.cn
 180.163.251.163
 xx123.kuaila.com
+www.istripper.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
