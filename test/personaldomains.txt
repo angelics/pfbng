@@ -348,8 +348,6 @@ zukxd6fkxqn.com
 111.121.193.205
 111.73.45.97
 138.197.134.31
-142.0.197.108
-142.0.204.220
 142.91.104.188
 146.185.239.11
 146.185.248.166
@@ -420,7 +418,6 @@ zukxd6fkxqn.com
 5.8.35.18
 50.31.146.101
 54.208.71.111
-64.58.113.244
 69.42.65.36
 74.117.181.156
 80.211.56.240
@@ -483,6 +480,8 @@ sd.360.cn
 180.163.251.163
 xx123.kuaila.com
 www.istripper.com
+zhushou.ludashi.com
+update.ludashi.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
