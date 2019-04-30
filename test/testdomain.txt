@@ -86,8 +86,6 @@ s.gateway.messenger.live.com
 secure.adnxs.com
 sO.2mdn.net
 ui.skype.com
-#www.msftncsi.com
-#msftncsi.com
 view.atdmt.com
 msnbot-65-55-108-23.search.msn.com
 settings-win.data.microsoft.com
@@ -110,9 +108,7 @@ vortex-cy2.metron.live.com.nsatc.net
 tile-service.weather.microsoft.com
 cdn.content.prod.cms.msn.com
 7.dl.delivery.mp.microsoft.com
-7.tlu.dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com
-3.tlu.dl.delivery.mp.microsoft.com
 1d.tlu.dl.delivery.mp.microsoft.com
 img.stb.s-msn.com
 candycrushsoda.king.com
@@ -132,7 +128,6 @@ spynetalt.microsoft.com
 v10.vortex-win.data.microsoft.com
 win10.ipv6.microsoft.com
 2.dl.delivery.mp.microsoft.com
-dl.delivery.mp.microsoft.com
 1d.dl.delivery.mp.microsoft.com
 3.dl.delivery.mp.microsoft.com
 1d.tlu.dl.delivery.mp.microsoft.com
