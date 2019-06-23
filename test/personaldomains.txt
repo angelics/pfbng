@@ -263,7 +263,7 @@ s1.ludashi.com
 baidu.85851.com
 dlied6.qq.com
 c.pc.qq.com
-dldir1.qq.com
+#dldir1.qq.com
 vrbrothers.com
 ad.vrbrothers.com
 1fwjpdwguvqs.com
