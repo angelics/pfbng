@@ -484,6 +484,7 @@ zhushou.ludashi.com
 update.ludashi.com
 www.drivereasy.com
 www.wisecleaner.com
+h.xiaoxiangbz.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
