@@ -485,6 +485,13 @@ update.ludashi.com
 www.drivereasy.com
 www.wisecleaner.com
 h.xiaoxiangbz.com
+pdfconverterhq.dl.myway.com
+ak.staticimgfarm.com
+eshopcomp.com
+pstatic.eshopcomp.com
+staticimgfarm.com
+ttdetect.staticimgfarm.com
+feed.snapdo.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
