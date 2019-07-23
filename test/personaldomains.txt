@@ -492,6 +492,8 @@ pstatic.eshopcomp.com
 staticimgfarm.com
 ttdetect.staticimgfarm.com
 feed.snapdo.com
+tongji.flash.cn
+conna.gj.qq.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
