@@ -86,6 +86,7 @@ static.criteo.net
 static.doubleclick.net
 stats.g.doubleclick.net
 syndication.dynsrvwer.com
+sysm0q6jys.com
 tk.uniadsserv.com
 track.adform.net
 track.frwdx.com
