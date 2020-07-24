@@ -16582,9 +16582,9 @@ adnxs.com
 ads1.msn.com
 ads2.msads.net
 aka-cdn-ns.adtech.de
-apps.skype.com
+#apps.skype.com
 b.ads2.msads.net
-bs.serving-sys.com
+#bs.serving-sys.com
 cdn.atdmt.com
 cds26.ams9.msecn.net
 db3aqu.atdmt.com
@@ -20124,7 +20124,7 @@ www.leathershop77.com
 185.216.35.22
 humoronoff.top
 #www.malware-traffic-analysis.net/2018/08/02/index.html
-www.rebrand.ly
+#www.rebrand.ly
 a.doko.moe
 mydocuments1.is
 #www.malware-traffic-analysis.net/2018/08/06/index.html
