@@ -267,9 +267,16 @@ oth.ludashi.com
 s.ludashi.com
 www.ludashi.com
 cdn-file.ludashi.com
+cdn-g.ludashi.com
 intf-pc.ludashi.com
 s2.ludashi.com
 s1.ludashi.com
+zhushou.ludashi.com
+dl.ludashi.com
+cdn-img.ludashi.com
+g.ludashi.com
+g.monidashi.cn
+s0.qhimg.com
 baidu.85851.com
 dlied6.qq.com
 c.pc.qq.com
