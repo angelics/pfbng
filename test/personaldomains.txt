@@ -53,6 +53,7 @@ platform.wondershare.com
 cbs.wondershare.com
 app.sjk.ijinshan.com
 sdp.qihucdn.com
+www.yoursearching.com
 #
 qboota.f.360.cn
 bp.conf2.f.360.cn
@@ -511,6 +512,7 @@ ttdetect.staticimgfarm.com
 feed.snapdo.com
 tongji.flash.cn
 conna.gj.qq.com
+was-stats.wondershare.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
