@@ -159,3 +159,8 @@ tdcv3.talkingdata.net
 alog.umeng.com
 sdk.open.inc2.igexin.com
 androiden.duapp.com
+browser.sentry-cdn.com
+widgets.pinterest.com
+extmaps-api.yandex.net
+logak.hicloud.com
+supportmetrics.apple.com
