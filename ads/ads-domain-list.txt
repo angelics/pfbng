@@ -164,3 +164,4 @@ widgets.pinterest.com
 extmaps-api.yandex.net
 logak.hicloud.com
 supportmetrics.apple.com
+securemetrics.apple.com
