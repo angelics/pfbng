@@ -527,6 +527,14 @@ traffic.runningbaduza.com
 vinmo.saytoyoup.fun
 96bfreespinlive.com
 rgpwx.saytoyoup.fun
+1420.allow-to-continue.com
+jigsawthirsty.com
+mineralscreamrobes.com
+daxuzisa.com
+prowlenthusiasticcongest.com
+sentphysically.com
+crt.bimbim.com
+new-ssl.com
 #start host file editor 1.5.8
 & Block Baidu
 anquan.baidu.com
