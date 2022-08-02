@@ -20398,3 +20398,11 @@ zepter.com
 95.43.57.155
 78.40.46.135
 90.180.1.23
+#securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/
+www.erda158.top
+58.84.53.194
+115.239.210.27
+update.bokts.com
+23.82.12.30
+23.82.12.31
+23.82.12.32
